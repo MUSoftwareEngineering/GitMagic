@@ -12,3 +12,6 @@ int lhn95sen2();
 
 int zzd8hSentence1();
 int zzd8hSentence_FINAL();
+
+int zasbdySentence1();
+int zasbdySentence2();
