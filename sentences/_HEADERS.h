@@ -5,6 +5,8 @@ int bensSentence_FINAL();
 //
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
+int sn4fdSentence1();
+int sn4fdSentence_FINAL();
 int lhn95sen1();
 int lhn95sen2();
 
