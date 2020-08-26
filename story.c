@@ -16,6 +16,12 @@ int main( void )
 	printf("\n\n");
 	sn4fdSentence_FINAL();   
 	printf("\n\n");   
+	printf("\n\n");
+	lhn95sen1();
+	printf("\n\n");
+	lhn95sen2();
+	printf("\n\n");
+	    
 	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT
