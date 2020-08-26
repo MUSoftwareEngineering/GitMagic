@@ -22,7 +22,10 @@ int main( void )
 	lhn95sen2();
 	printf("\n\n");
 	    
-	    
+	zzd8hSentence1();
+	printf("\n\n");
+	zzd8hSentence_FINAL();   
+	printf("\n\n");  	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

@@ -10,4 +10,5 @@ int sn4fdSentence_FINAL();
 int lhn95sen1();
 int lhn95sen2();
 
-
+int zzd8hSentence1();
+int zzd8hSentence_FINAL();
