@@ -26,7 +26,13 @@ int main( void )
 	printf("\n\n");
 	zzd8hSentence_FINAL();   
 	printf("\n\n");  	    
-	    
+	
+    tcy8v6Sentence1();
+    printf("\n\n");
+    tcy8v6Sentence2();
+    printf("\n\n");
+
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

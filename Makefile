@@ -1,10 +1,8 @@
-
 #################################################
 # Makefile format
 # target: dependencies
 # <tab>	 Command to generate target
 #################################################
-
 # -----------------------------------------------
 # Super useful shortcuts:
 #   $@ matches the target;
@@ -17,13 +15,16 @@
 
 # -----------------------------------------------
 # Flag to replace gcc,  $(CC) = gcc
+
 CC= gcc
+
 # -----------------------------------------------
 # CLEAN definition - git rid of compiled stuff
 CLEAN= rm -rf *.o story
 CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
+
 TEST= (./story > the_story.txt) ; cat the_story.txt
 
 # -----------------------------------------------DERS.h
@@ -47,16 +48,15 @@ clean:
 
 cleanwin:
 	$(CLEANWIN)
+
 # -----------------------------------------------
 # Now we bring in our dependencies.
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o lhn95.o zzd8h.o
+story: story.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o tcy8v6.o
 	$(CC) -o story $^
-story: story.o sn4fd.o 
-	$(CC) -o story $^	
 
 # -----------------------------------------------
 
@@ -64,15 +64,20 @@ story.o: story.c
 	$(CC) -c $^
 
 # -----------------------------------------------
-#pawprint.o -  where is your .c derived object file - where is your file
+# pawprint.o -  where is your .c derived object file - where is your file
+
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
+
 sn4fd.o: sentences/sn4fd.c
 	$(CC) -c $<
-
 
 lhn95.o: sentences/lhn95.c
 	$(CC) -c $<
 
 zzd8h.o: sentences/zzd8h.c
 	$(CC) -c $<
+
+tcy8v6.o: sentences/tcy8v6.c
+	$(CC) -c $<
+
