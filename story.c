@@ -12,7 +12,11 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	    
+	printf("\n\n");
+	lhn95sen1();
+	printf("\n\n");
+	lhn95sen2();
+	printf("\n\n");
 	    
 	    
 	    
