@@ -6,6 +6,6 @@ int jtnfxSentence1() {
 }
 
 int jtnfxSentence2() {
-	printf("He is so hungry, and he turned his eye to Superman.\n");
-	return 1;
+    printf("He is so hungry, and he turned his eye to Superman.\n");
+    return 1;
 }

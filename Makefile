@@ -113,7 +113,7 @@ kpwcg2.o: sentences/kpwcg2.c
 
 jtnfx.o: sentences/jtnfx.c
 	$(CC) -c $<
-	
+
 mbb5ym.o: sentences/mbb5ym.c
 	$(CC) -c $<
 	
