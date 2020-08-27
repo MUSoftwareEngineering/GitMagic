@@ -43,3 +43,6 @@ int kpwcg2Sentence2();
 
 int mbb5ymSentence1();
 int mbb5ymSentence2();
+
+int wld9bSentence1();
+int wld9bSentence2();
