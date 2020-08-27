@@ -38,13 +38,15 @@ int main( void )
 	printf("\n\n");
 	pdokdfSentence2();
 	printf("\n\n");
-	zzd8hSentence_FINAL();   
-	printf("\n\n");  	    
-	
+	zzd8hSentence_FINAL();
+	printf("\n\n");
+
     tcy8v6Sentence1();
     printf("\n\n");
     tcy8v6Sentence2();
     printf("\n\n");
+
+    jkmx5vSentence1();
 
 	printf("\n\n");
 	huhmanaSentence1();
@@ -55,12 +57,15 @@ int main( void )
 	dtanz8Sentence1();
 	printf("\n\n");
 	dtanz8Sentence2();
-	printf("\n\n");  	
-    
+	printf("\n\n");
+
     rysgpd1();
     printf("\n\n");
     rysgpd2();
 	printf("\n\n");
+
+    jkmx5vSentence_FINAL();
+    printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
