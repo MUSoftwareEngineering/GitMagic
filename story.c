@@ -71,6 +71,11 @@ int main( void )
 	partbrSentence2();
 	printf("\n\n");  
 
+	jtnfxSentence1();
+	printf("\n\n");
+	jtnfxSentence2();
+	printf("\n\n");
+	
 	mbb5ymSentence1();
 	printf("\n\n");
 	mbb5ymSentence2();
