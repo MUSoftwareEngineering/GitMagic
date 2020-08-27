@@ -62,6 +62,11 @@ int main( void )
     rysgpd2();
 	printf("\n\n");
 
+	partbrSentence1();
+	printf("\n\n");
+	partbrSentence2();
+	printf("\n\n");  
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
