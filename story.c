@@ -55,6 +55,11 @@ int main( void )
 	dtanz8Sentence1();
 	printf("\n\n");
 	dtanz8Sentence2();
+	printf("\n\n");  	
+    
+    rysgpd1();
+    printf("\n\n");
+    rysgpd2();
 	printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT

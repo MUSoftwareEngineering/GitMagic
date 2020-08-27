@@ -31,3 +31,6 @@ int hkg8bSentence_FINAL();
 
 int pdokdfSentence1();
 int pdokdfSentence2();
+
+int rysgpd1();
+int rysgpd2();
