@@ -9,3 +9,4 @@ int aaa8drSentence2(){
 
     printf("The garbage man stops and pets the dog");
 }
+
