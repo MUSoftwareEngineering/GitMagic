@@ -12,10 +12,14 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	zasbdySentence1();
+	printf("\n\n");
 	sn4fdSentence1();
 	printf("\n\n");
 	sn4fdSentence_FINAL();   
 	printf("\n\n");   
+	zasbdySentence2();
+	printf("\n\n");
 	printf("\n\n");
 	lhn95sen1();
 	printf("\n\n");

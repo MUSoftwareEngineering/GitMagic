@@ -15,3 +15,6 @@ int zzd8hSentence_FINAL();
 
 int huhmanaSentence1();
 int huhmanaSentence_FINAL();
+
+int zasbdySentence1();
+int zasbdySentence2();
