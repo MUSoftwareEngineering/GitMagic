@@ -28,11 +28,15 @@ int main( void )
 	printf("\n\n");
 	jgt7cnSentence2();
 	printf("\n\n");
+	kpwcg2Sentence1();
+	printf("\n\n");
 	lhn95sen2();
 	printf("\n\n");
 	hkg8bSentence_FINAL();
 	printf("\n\n");
 	pdokdfSentence1();
+	printf("\n\n");
+	kpwcg2Sentence2();
 	printf("\n\n");
 	zzd8hSentence1();
 	printf("\n\n");

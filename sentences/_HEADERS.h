@@ -37,3 +37,6 @@ int rysgpd2();
 
 int partbrSentence1();
 int partbrSentence2();
+
+int kpwcg2Sentence1();
+int kpwcg2Sentence2();
