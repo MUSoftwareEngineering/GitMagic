@@ -34,3 +34,6 @@ int pdokdfSentence2();
 
 int rysgpd1();
 int rysgpd2();
+
+int kpwcg2Sentence1();
+int kpwcg2Sentence2();
