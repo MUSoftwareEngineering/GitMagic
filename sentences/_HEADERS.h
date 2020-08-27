@@ -19,3 +19,6 @@ int huhmanaSentence_FINAL();
 
 int zasbdySentence1();
 int zasbdySentence2();
+
+int jgt7cnSentence1();
+int jgt7cnSentence2();
