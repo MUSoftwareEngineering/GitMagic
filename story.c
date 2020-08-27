@@ -14,6 +14,8 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	sn4fdSentence1();
 	printf("\n\n");
+	hkg8bSentence1();
+	printf("\n\n");
 	sn4fdSentence_FINAL();   
 	printf("\n\n");   
 	printf("\n\n");
@@ -21,7 +23,8 @@ int main( void )
 	printf("\n\n");
 	lhn95sen2();
 	printf("\n\n");
-	    
+	hkg8bSentence_FINAL();
+	printf("\n\n");
 	zzd8hSentence1();
 	printf("\n\n");
 	zzd8hSentence_FINAL();   
