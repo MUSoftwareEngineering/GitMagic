@@ -25,7 +25,12 @@ int main( void )
 	zzd8hSentence1();
 	printf("\n\n");
 	zzd8hSentence_FINAL();   
-	printf("\n\n");  	    
+	printf("\n\n");
+
+	huhmanaSentence1();
+	printf("\n\n");
+	huhmanaSentence_FINAL();
+	printf("\n\n");
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
