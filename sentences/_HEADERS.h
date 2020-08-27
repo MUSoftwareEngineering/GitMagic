@@ -22,3 +22,6 @@ int zasbdySentence2();
 
 int jgt7cnSentence1();
 int jgt7cnSentence2();
+
+int pdokdfSentence1();
+int pdokdfSentence2();

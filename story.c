@@ -28,8 +28,12 @@ int main( void )
 	printf("\n\n");
 	lhn95sen2();
 	printf("\n\n");
+	pdokdfSentence1();
+	printf("\n\n");
 	    
 	zzd8hSentence1();
+	printf("\n\n");
+	pdokdfSentence2();
 	printf("\n\n");
 	zzd8hSentence_FINAL();   
 	printf("\n\n");  	    
