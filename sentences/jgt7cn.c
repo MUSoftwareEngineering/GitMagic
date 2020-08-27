@@ -6,6 +6,6 @@ int jgt7cnSentence1() {
 }
 
 int jgt7cnSentence2() {
-    printf("He began to question everything he knew.\n");
+    printf("He began to question everything he knew, like the cat was playing some kind of mind game.\n");
     return 1;
 }
