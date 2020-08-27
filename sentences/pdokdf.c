@@ -4,7 +4,7 @@
 // Function to include & execute
 int pdokdfSentence1()
 {
-  printf("The cat was fast asleep.\n");
+  printf("The cats were fast asleep.\n");
   return 1;
 }
 
