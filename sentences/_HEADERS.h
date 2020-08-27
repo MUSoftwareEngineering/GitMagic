@@ -25,3 +25,6 @@ int jgt7cnSentence2();
 
 int hkg8bSentence1();
 int hkg8bSentence_FINAL();
+
+int pdokdfSentence1();
+int pdokdfSentence2();
