@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-int testingSentence(){
+int aaa8drSentence(){
 
-    printf("This is a story for the students in 4320");
+    printf("The dog is chasing a garbage truck");
 }
 
-int secondTest(){
+int aaa8drSentence2(){
 
-    printf("We hope you enjoy the story");
+    printf("The garbage man stops and pets the dog");
 }
