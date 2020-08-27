@@ -20,8 +20,11 @@ int main( void )
 	printf("\n\n");   
 	zasbdySentence2();
 	printf("\n\n");
+	jgt7cnSentence1();
 	printf("\n\n");
 	lhn95sen1();
+	printf("\n\n");
+	jgt7cnSentence2();
 	printf("\n\n");
 	lhn95sen2();
 	printf("\n\n");
