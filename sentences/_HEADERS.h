@@ -23,6 +23,9 @@ int zasbdySentence2();
 int jgt7cnSentence1();
 int jgt7cnSentence2();
 
+int dtanz8Sentence1();
+int dtanz8Sentence2();
+
 int hkg8bSentence1();
 int hkg8bSentence_FINAL();
 
