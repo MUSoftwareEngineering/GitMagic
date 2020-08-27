@@ -70,6 +70,11 @@ int main( void )
 	printf("\n\n");
 	partbrSentence2();
 	printf("\n\n");  
+	
+	malkrcSentence1();
+	printf("\n\n");
+        malkrcSentence2();
+        printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
