@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int jtnfxSentence1() {
-    printf("");
+    printf("jtnfx1");
     return 1;
 }
 
 int jtnfxSentence2() {
-    printf("");
+    printf("jtnfx2");
     return 1;
 }
