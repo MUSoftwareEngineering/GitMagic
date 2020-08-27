@@ -1,0 +1,4 @@
+*.o
+story
+story.exe
+.DS_Store
