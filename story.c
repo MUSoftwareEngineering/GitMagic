@@ -71,6 +71,11 @@ int main( void )
 	partbrSentence2();
 	printf("\n\n");  
 
+	mbb5ymSentence1();
+	printf("\n\n");
+	mbb5ymSentence2();
+	printf("\n\n"); 
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

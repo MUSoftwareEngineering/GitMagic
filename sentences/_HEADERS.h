@@ -40,3 +40,6 @@ int partbrSentence2();
 
 int kpwcg2Sentence1();
 int kpwcg2Sentence2();
+
+int mbb5ymSentence1();
+int mbb5ymSentence2();
