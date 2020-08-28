@@ -101,7 +101,11 @@ int main( void )
 	printf("\n\n");
 
 
-
+        conradSentence1();
+	printf("\n\n");
+	conradSentence2();
+	printf("\n\n");
+        
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

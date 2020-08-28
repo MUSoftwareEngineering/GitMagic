@@ -1,0 +1,139 @@
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	story.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/bpbkt7.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/lhn95.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/zzd8h.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/sn4fd.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/huhmana.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/zasbdy.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/tcy8v6.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/jgt7cn.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/dtanz8.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/hkg8b.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/pdokdf.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/rysgpd.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/partbr.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/kpwcg2.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/mbb5ym.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/jtnfx.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/wld9b.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-c
+	sentences/sawgzq.c
+
+called: C:\cygwin64\bin\gcc.exe
+	C:\Users\epikc\Coding\CS4320\GitMagic
+	C:\cygwin64\bin\gcc.exe
+	-o
+	story
+	story.o
+	bpbkt7.o
+	lhn95.o
+	zzd8h.o
+	sn4fd.o
+	huhmana.o
+	zasbdy.o
+	tcy8v6.o
+	jgt7cn.o
+	dtanz8.o
+	hkg8b.o
+	pdokdf.o
+	rysgpd.o
+	partbr.o
+	kpwcg2.o
+	mbb5ym.o
+	jtnfx.o
+	wld9b.o
+	sawgzq.o
+
