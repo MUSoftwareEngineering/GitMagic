@@ -106,7 +106,7 @@ rysgpd.o: sentences/rysgpd.c
 
 ghstgf.o: sentences/ghstgf.c
 	$(CC) -c $<
-	
+
 partbr.o: sentences/partbr.c
 	$(CC) -c $<
 
@@ -133,3 +133,6 @@ cjbb5f.o: sentences/cjbb5f.c
 
 malkrc.o: sentences/malkrc.c
 	$(CC) -c $<
+
+mjwcbc.o: sentences/mjwcbc.c
+		$(CC) -c $<
