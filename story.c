@@ -78,9 +78,7 @@ int main( void )
     rysgpd2();
 	printf("\n\n");
 
-<<<<<<< HEAD
 	ghstgfSentence1();
-
 
     jkmx5vSentence_FINAL();
     printf("\n\n");
@@ -113,7 +111,6 @@ int main( void )
 
 	ghstgfSentence2();
         
->>>>>>> master
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

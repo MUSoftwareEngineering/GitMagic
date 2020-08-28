@@ -35,10 +35,9 @@ int pdokdfSentence2();
 int rysgpd1();
 int rysgpd2();
 
-<<<<<<< HEAD
 int ghstgfSentence1();
 int ghstgfSentence2();
-=======
+
 int partbrSentence1();
 int partbrSentence2();
 
@@ -70,4 +69,3 @@ int conradSentence2();
 
 int malkrcSentence1();
 int malkrcSentence2();
->>>>>>> master
