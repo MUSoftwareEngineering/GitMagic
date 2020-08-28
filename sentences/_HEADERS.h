@@ -35,5 +35,28 @@ int pdokdfSentence2();
 int rysgpd1();
 int rysgpd2();
 
+int partbrSentence1();
+int partbrSentence2();
+
+int kpwcg2Sentence1();
+int kpwcg2Sentence2();
+
+int jtnfxSentence1();
+int jtnfxSentence2();
+
+int mbb5ymSentence1();
+int mbb5ymSentence2();
+
+int wld9bSentence1();
+int wld9bSentence2();
+
+int sawgzqSentence1();
+int sawgzqSentence2();
+
+int aaa8dr2();
+int aaa8dr3();
+
+
+
 int jkmx5vSentence1();
 int jkmx5vSentence_FINAL();
