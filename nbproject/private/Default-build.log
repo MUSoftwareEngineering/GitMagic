@@ -1,0 +1,20 @@
+gcc -c story.c
+gcc -c sentences/bpbkt7.c
+gcc -c sentences/lhn95.c
+gcc -c sentences/zzd8h.c
+gcc -c sentences/sn4fd.c
+gcc -c sentences/huhmana.c
+gcc -c sentences/zasbdy.c
+gcc -c sentences/tcy8v6.c
+gcc -c sentences/jgt7cn.c
+gcc -c sentences/dtanz8.c
+gcc -c sentences/hkg8b.c
+gcc -c sentences/pdokdf.c
+gcc -c sentences/rysgpd.c
+gcc -c sentences/partbr.c
+gcc -c sentences/kpwcg2.c
+gcc -c sentences/mbb5ym.c
+gcc -c sentences/jtnfx.c
+gcc -c sentences/wld9b.c
+gcc -c sentences/sawgzq.c
+gcc -o story story.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o
