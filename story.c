@@ -108,9 +108,9 @@ int main( void )
 	printf("\n\n");
 	conradSentence2();
 	printf("\n\n");
-
+	ktmcbkSentence1();
 	ghstgfSentence2();
-        
+        ktmcbkSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

@@ -69,3 +69,6 @@ int conradSentence2();
 
 int malkrcSentence1();
 int malkrcSentence2();
+
+int ktmcbkSentence1();
+int ktmcbkSentence2();
