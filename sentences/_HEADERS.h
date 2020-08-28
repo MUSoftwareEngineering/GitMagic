@@ -50,3 +50,6 @@ int mbb5ymSentence2();
 int wld9bSentence1();
 int wld9bSentence2();
 
+int sawgzqSentence1();
+int sawgzqSentence2();
+

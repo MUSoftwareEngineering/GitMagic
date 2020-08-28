@@ -56,7 +56,7 @@ cleanwin:
 # -----------------------------------------------
 
 
-story: story.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o
+story: story.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o
 
 	$(CC) -o story $^
 
@@ -101,7 +101,7 @@ hkg8b.o: sentences/hkg8b.c
 
 pdokdf.o: sentences/pdokdf.c
 	$(CC) -c $<
-    
+
 rysgpd.o: sentences/rysgpd.c
 	$(CC) -c $<
 
@@ -118,4 +118,7 @@ mbb5ym.o: sentences/mbb5ym.c
 	$(CC) -c $<
 	
 wld9b.o: sentences/wld9b.c
+	$(CC) -c $<
+
+sawgzq.o: sentences/sawgzq.c
 	$(CC) -c $<
