@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="sentences">
+        <in>bpbkt7.c</in>
+        <in>cjbb5f.c</in>
+        <in>dtanz8.c</in>
+        <in>hkg8b.c</in>
+        <in>huhmana.c</in>
+        <in>jgt7cn.c</in>
+        <in>jtnfx.c</in>
+        <in>kpwcg2.c</in>
+        <in>lhn95.c</in>
+        <in>mbb5ym.c</in>
+        <in>partbr.c</in>
+        <in>pdokdf.c</in>
+        <in>rysgpd.c</in>
+        <in>sawgzq.c</in>
+        <in>sn4fd.c</in>
+        <in>tcy8v6.c</in>
+        <in>wld9b.c</in>
+        <in>zasbdy.c</in>
+        <in>zzd8h.c</in>
+      </df>
+      <in>story.c</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+      <itemPath>nbproject/private/launcher.properties</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>story.exe</executablePath>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <folder path="0/sentences">
+        <cTool>
+          <incDir>
+            <pElem></pElem>
+          </incDir>
+        </cTool>
+      </folder>
+      <item path="sentences/bpbkt7.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/cjbb5f.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/dtanz8.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/hkg8b.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/huhmana.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/jgt7cn.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/jtnfx.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/kpwcg2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/lhn95.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/mbb5ym.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/partbr.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/pdokdf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/rysgpd.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/sawgzq.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/sn4fd.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/tcy8v6.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/wld9b.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/zasbdy.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sentences/zzd8h.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="story.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
