@@ -6,17 +6,25 @@ Once upon a time
 A boy and his dog were walking through the park when they encountered a cat.
 
 
+The boy became distracted by the dark, looming clouds.
+
+
 The cat started at him
 
 
 He stared at the cat.
 
 
+It started to rain.
+
 
 It started to walk towards the dog
 
 
 The dog began to bark at the cat.
+
+
+The boy was too enthralled by the storm to notice.
 
 
 The cat continued strolling towards the dog confidently.
@@ -54,10 +62,19 @@ The bird is yellow.
 She is looking at the dog.
 
 
+The dog became distracted by a box of donuts left on the ground.
+
+
+She is looking at the dog.
+
+
+It stopped raining.
+
 The dog ate too many donuts and threw up.
 
 Following the bird was a hawk.
 
+The hawk considered becoming involved in the story but realized that there were already too many characters and flew away.The hawk suddenly disappeared into the space-time contiuum, never to be seen again.
 
 
 
@@ -81,12 +98,12 @@ The bird decided that they wanted to rest.
 They flew down and decided to take a rest next to the cat.
 
 
-<<<<<<< HEAD
 This awakened the cat.
 
 
-The boy sat up in bed, his dog lay at his feet and the cat perched on his dresser.
-=======
+The cat stared longingly at the bird for a moment, then ate it.
+
+
 The cat was hungry.
 
 
@@ -109,7 +126,15 @@ The cat pounced on it, ready to eat.
 The dog looked at the bird in the tree.
 
 Then the dog flew to the tree.
->>>>>>> master
+
+The dog also happened to be superman.
+
+
+
+He removed his cape and revealed his true identity: Sean Goggins!
+
+
+The boy sat up in bed, his dog lay at his feet and the cat perched on his dresser.
 
 
 The end. 
