@@ -44,16 +44,15 @@ int main( void )
 	printf("\n\n");
 	pdokdfSentence2();
 	printf("\n\n");
-<<<<<<< HEAD
+
 	zzd8hSentence_FINAL();
 	printf("\n\n");
 
-=======
-	zzd8hSentence_FINAL();   
-	printf("\n\n");  	    
+	zzd8hSentence_FINAL();
+	printf("\n\n");
 	sawgzqSentence2();
 	printf("\n\n");
->>>>>>> 56a4bddf2ef7cf15d363b96887fdbd3e617a4b9f
+
     tcy8v6Sentence1();
     printf("\n\n");
     tcy8v6Sentence2();
@@ -77,14 +76,14 @@ int main( void )
     rysgpd2();
 	printf("\n\n");
 
-<<<<<<< HEAD
+
     jkmx5vSentence_FINAL();
     printf("\n\n");
-=======
+
 	partbrSentence1();
 	printf("\n\n");
 	partbrSentence2();
-	printf("\n\n");  
+	printf("\n\n");
 
 	jtnfxSentence1();
 	printf("\n\n");
@@ -94,14 +93,14 @@ int main( void )
 	mbb5ymSentence1();
 	printf("\n\n");
 	mbb5ymSentence2();
-	printf("\n\n"); 
+	printf("\n\n");
 
 	wld9bSentence1();
 	printf("\n\n");
 	wld9bSentence2();
 	printf("\n\n");
 
->>>>>>> 56a4bddf2ef7cf15d363b96887fdbd3e617a4b9f
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
