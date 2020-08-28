@@ -53,3 +53,8 @@ int wld9bSentence2();
 int sawgzqSentence1();
 int sawgzqSentence2();
 
+int aaa8dr2();
+int aaa8dr3();
+
+
+
