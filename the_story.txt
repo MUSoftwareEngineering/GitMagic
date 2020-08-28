@@ -12,9 +12,12 @@ The cat started at him
 He stared at the cat.
 
 
+<<<<<<< HEAD
 One cat was way active and another one was sitting quietly.
 
 
+=======
+>>>>>>> 0b7ce8d111ac177d09e4e55a32e69836b7c77877
 It started to rain.
 
 
@@ -135,6 +138,15 @@ He removed his cape and revealed his true identity: Sean Goggins!
 
 
 The boy sat up in bed, his dog lay at his feet and the cat perched on his dresser.
+<<<<<<< HEAD
+=======
+
+Superman left without hesitation.
+
+
+The boy wondered why this had happened.
+
+>>>>>>> 0b7ce8d111ac177d09e4e55a32e69836b7c77877
 
 
 The end. 

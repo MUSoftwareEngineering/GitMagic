@@ -114,7 +114,12 @@ int main( void )
 	printf("\n\n");
 
 	ghstgfSentence2();
-        
+
+	mjwcbcSentence1();
+	printf("\n\n");
+	mjwcbcSentence2();
+	printf("\n\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
