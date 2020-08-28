@@ -29,6 +29,9 @@ int dtanz8Sentence2();
 int hkg8bSentence1();
 int hkg8bSentence_FINAL();
 
+int hcntbSentence1();
+int hcntbSentence2();
+
 int pdokdfSentence1();
 int pdokdfSentence2();
 
