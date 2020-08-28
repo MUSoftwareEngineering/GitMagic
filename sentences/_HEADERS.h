@@ -72,3 +72,6 @@ int malkrcSentence2();
 
 int ktmcbkSentence1();
 int ktmcbkSentence2();
+
+int mjwcbcSentence1();
+int mjwcbcSentence2();

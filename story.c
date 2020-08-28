@@ -111,6 +111,12 @@ int main( void )
 	ktmcbkSentence1();
 	ghstgfSentence2();
         ktmcbkSentence2();
+
+	mjwcbcSentence1();
+	printf("\n\n");
+	mjwcbcSentence2();
+	printf("\n\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
