@@ -58,3 +58,8 @@ int aaa8dr3();
 
 
 
+int jkmx5vSentence1();
+int jkmx5vSentence_FINAL();
+
+int conradSentence1();
+int conradSentence2();
