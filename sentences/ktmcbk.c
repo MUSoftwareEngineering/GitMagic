@@ -12,4 +12,4 @@ int ktmcbkSentence2()
 {
   printf("\nThe boy said \"I love my family\".\n");
   return 1;
-}
+}%

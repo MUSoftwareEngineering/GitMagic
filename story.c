@@ -16,6 +16,8 @@ int main( void )
 	printf("\n\n");
 	zasbdySentence1();
 	printf("\n\n");
+	smebmmSentence1();
+	printf("\n\n");
 	sn4fdSentence1();
 	printf("\n\n");
 	hkg8bSentence1();
@@ -29,6 +31,8 @@ int main( void )
 	hcntbSentence2();
 	printf("\n\n");
 	zasbdySentence2();
+	printf("\n\n");
+	smebmmSentence2();
 	printf("\n\n");
 	jgt7cnSentence1();
 	printf("\n\n");
