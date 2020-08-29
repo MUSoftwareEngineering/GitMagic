@@ -91,9 +91,9 @@ int main( void )
 	printf("\n\n");
 
 	ghstgfSentence1();
-
-    jkmx5vSentence_FINAL();
-    printf("\n\n");
+	ghstgfSentence2();
+    	jkmx5vSentence_FINAL();
+    	printf("\n\n");
 
 	partbrSentence1();
 	printf("\n\n");
@@ -124,7 +124,6 @@ int main( void )
 	conradSentence2();
 	printf("\n\n");
 	ktmcbkSentence1();
-	ghstgfSentence2();
         ktmcbkSentence2();
 
 	mjwcbcSentence1();
