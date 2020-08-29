@@ -144,3 +144,6 @@ mjwcbc.o: sentences/mjwcbc.c
 
 taezkv.o: sentences/taezkv.c
 	$(CC) -c $<
+
+xz9rc.o: sentences/xz9rc.c
+	$(CC) -c $<
