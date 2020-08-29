@@ -82,6 +82,10 @@ int mjwcbcSentence2();
 int taezkvSentence1();
 int taezkvSentence2();
 
+int mjbn46Sentence1();
+int mjbn46Sentence2();
+
+
 int xz9rcSentence1();
 int xz9rcSentence_FINAL();
 

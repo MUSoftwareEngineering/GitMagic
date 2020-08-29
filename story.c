@@ -121,5 +121,21 @@ int main(void)
 	dpp6bkSentence1();
 	printf("\n\n");
 	dpp6bkSentence2();
+	taezkvSentence1();
+	printf("\n\n");
+
+	xz9rcSentence1();
+	printf("\n\n");
+	xz9rcSentence_FINAL();
+	printf("\n\n");
+
+	mjbn46Sentence1();
+	printf("\n\n");
+	mjbn46Sentence2();
+	printf("\n\n");
+
+	// DO NOT ADD AFTER THIS COMMENT
+	// Bens sentence should be last.
+	bensSentence_FINAL();
 	printf("\n\n");
 }
