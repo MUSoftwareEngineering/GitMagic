@@ -94,3 +94,6 @@ int ejw3mdSentence2();
 
 int dpp6bkSentence1();
 int dpp6bkSentence2();
+
+int jmszq6Sentence1();
+int jmszq6Sentence2();

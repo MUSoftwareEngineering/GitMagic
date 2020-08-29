@@ -139,6 +139,11 @@ int main(void)
 	mjbn46Sentence2();
 	printf("\n\n");
 
+    jmszq6Sentence1();
+    printf("\n\n");
+    jmszq6Sentence2();
+    printf("\n\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
