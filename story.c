@@ -133,6 +133,11 @@ int main( void )
 	taezkvSentence1();
 	printf("\n\n");
 
+	xz9rcSentence1();
+	printf("\n\n");
+	xz9rcSentence_FINAL();
+	printf("\n\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
