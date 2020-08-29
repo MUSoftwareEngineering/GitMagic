@@ -2,6 +2,7 @@
 
 Once upon a time
 
+In a land far far away...
 
 A boy and his dog were walking through the park when they encountered a cat.
 
@@ -147,6 +148,8 @@ Superman left without hesitation.
 The boy wondered why this had happened.
 
 >>>>>>> 0b7ce8d111ac177d09e4e55a32e69836b7c77877
+
+But there was no logical explanation
 
 
 The end. 

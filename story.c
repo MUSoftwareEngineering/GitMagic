@@ -12,6 +12,8 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	taezkvSentence2();
+	printf("\n\n");
 	zasbdySentence1();
 	printf("\n\n");
 	sn4fdSentence1();
@@ -118,6 +120,8 @@ int main( void )
 	mjwcbcSentence1();
 	printf("\n\n");
 	mjwcbcSentence2();
+	printf("\n\n");
+	taezkvSentence1();
 	printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT

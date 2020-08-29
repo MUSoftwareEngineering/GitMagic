@@ -75,3 +75,6 @@ int malkrcSentence2();
 
 int mjwcbcSentence1();
 int mjwcbcSentence2();
+
+int taezkvSentence1();
+int taezkvSentence2();
