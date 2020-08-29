@@ -105,6 +105,11 @@ int main(void)
 	jtnfxSentence2();
 	printf("\n\n");
 
+	mjwcbcSentence1();
+	printf("\n\n");
+	mjwcbcSentence2();
+	printf("\n\n");
+
 	mbb5ymSentence1();
 	printf("\n\n");
 	mbb5ymSentence2();
