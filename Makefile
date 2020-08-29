@@ -55,9 +55,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o
-	$(CC) -o story $^
-
+story: story.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o taezkv.o
 
 # -----------------------------------------------
 
@@ -100,6 +98,9 @@ dtanz8.o: sentences/dtanz8.c
 hkg8b.o: sentences/hkg8b.c
 	$(CC) -c $<
 
+hcntb.o: sentences/hcntb.c
+	$(CC) -c $<
+
 pdokdf.o: sentences/pdokdf.c
 	$(CC) -c $<
 
@@ -109,7 +110,7 @@ rysgpd.o: sentences/rysgpd.c
 
 ghstgf.o: sentences/ghstgf.c
 	$(CC) -c $<
-	
+
 partbr.o: sentences/partbr.c
 	$(CC) -c $<
 
@@ -135,4 +136,10 @@ cjbb5f.o: sentences/cjbb5f.c
 	$(CC) -c $<
 
 malkrc.o: sentences/malkrc.c
+	$(CC) -c $<
+
+mjwcbc.o: sentences/mjwcbc.c
+		$(CC) -c $<
+
+taezkv.o: sentences/taezkv.c
 	$(CC) -c $<
