@@ -1,4 +1,4 @@
-#################################################
+##################################################
 # Makefile format
 # target: dependencies
 # <tab>	 Command to generate target
@@ -55,11 +55,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-
-story: story.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o taezkv.o
-
-	$(CC) -o story $^
-
+story: story.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o
 
 # -----------------------------------------------
 
@@ -68,6 +64,9 @@ story.o: story.c
 
 # -----------------------------------------------
 # pawprint.o -  where is your .c derived object file - where is your file
+
+smebmm.o: sentences/smebmm.c
+	$(CC) -c $<
 
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
@@ -108,7 +107,6 @@ pdokdf.o: sentences/pdokdf.c
 rysgpd.o: sentences/rysgpd.c
 	$(CC) -c $<
 
-
 ghstgf.o: sentences/ghstgf.c
 	$(CC) -c $<
 
@@ -117,7 +115,6 @@ partbr.o: sentences/partbr.c
 
 kpwcg2.o: sentences/kpwcg2.c
 	$(CC) -c $<
-
 
 jtnfx.o: sentences/jtnfx.c
 	$(CC) -c $<
@@ -130,6 +127,7 @@ wld9b.o: sentences/wld9b.c
 
 sawgzq.o: sentences/sawgzq.c
 	$(CC) -c $<
+
 jkmx5v.o: sentences/jkmx5v.c
 	$(CC) -c $<
 
@@ -139,11 +137,19 @@ cjbb5f.o: sentences/cjbb5f.c
 malkrc.o: sentences/malkrc.c
 	$(CC) -c $<
 
+ktmcbk.o: sentences/ktmcbk.c
+	$(CC) -c $<
+
 mjwcbc.o: sentences/mjwcbc.c
-		$(CC) -c $<
+	$(CC) -c $<
 
 taezkv.o: sentences/taezkv.c
 	$(CC) -c $<
 
+
 xz9rc.o: sentences/xz9rc.c
 	$(CC) -c $<
+
+ejw3md.o: sentences/ejw3md.c
+	$(CC) -c $<
+

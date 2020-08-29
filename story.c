@@ -16,9 +16,13 @@ int main( void )
 	printf("\n\n");
 	zasbdySentence1();
 	printf("\n\n");
+	smebmmSentence1();
+	printf("\n\n");
 	sn4fdSentence1();
 	printf("\n\n");
 	hkg8bSentence1();
+	printf("\n\n");
+	ejw3mdSentence1();
 	printf("\n\n");
 	hcntbSentence1();
 	printf("\n\n");
@@ -29,6 +33,8 @@ int main( void )
 	hcntbSentence2();
 	printf("\n\n");
 	zasbdySentence2();
+	printf("\n\n");
+	smebmmSentence2();
 	printf("\n\n");
 	jgt7cnSentence1();
 	printf("\n\n");
@@ -85,9 +91,9 @@ int main( void )
 	printf("\n\n");
 
 	ghstgfSentence1();
-
-    jkmx5vSentence_FINAL();
-    printf("\n\n");
+	ghstgfSentence2();
+    	jkmx5vSentence_FINAL();
+    	printf("\n\n");
 
 	partbrSentence1();
 	printf("\n\n");
@@ -104,6 +110,9 @@ int main( void )
 	mbb5ymSentence2();
 	printf("\n\n");
 
+	ejw3mdSentence2();
+	printf("\n\n");
+
 	wld9bSentence1();
 	printf("\n\n");
 	wld9bSentence2();
@@ -114,8 +123,8 @@ int main( void )
 	printf("\n\n");
 	conradSentence2();
 	printf("\n\n");
-
-	ghstgfSentence2();
+	ktmcbkSentence1();
+        ktmcbkSentence2();
 
 	mjwcbcSentence1();
 	printf("\n\n");
