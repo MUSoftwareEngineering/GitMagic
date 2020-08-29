@@ -144,6 +144,13 @@ int main(void)
     jmszq6Sentence2();
     printf("\n\n");
 
+	EvanFirstSentence();
+	printf("\n\n");
+	EvanSecondSentence();
+	printf("\n\n");
+
+
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

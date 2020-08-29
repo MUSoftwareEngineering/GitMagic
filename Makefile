@@ -55,7 +55,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o xz9rc.o dpp6bk.o mjbn46.o jmszq6.o
+story: story.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o xz9rc.o dpp6bk.o mjbn46.o jmszq6.o emgd9h.o
 
 # -----------------------------------------------
 
@@ -160,5 +160,8 @@ mjbn46.o: sentences/mjbn46.c
 	$(CC) -c $<	
 
 jmszq6.o: sentences/jmszq6.c
+	$(CC) -c $<
+
+emgd9h.o: sentences/emgd9h.c
 	$(CC) -c $<
 

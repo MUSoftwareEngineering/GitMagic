@@ -97,3 +97,8 @@ int dpp6bkSentence2();
 
 int jmszq6Sentence1();
 int jmszq6Sentence2();
+
+int EvanFirstSentence();
+int EvanSecondSentence();
+
+
