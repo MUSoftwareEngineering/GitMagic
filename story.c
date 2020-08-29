@@ -3,7 +3,7 @@
 
 // I assume all of you know C.
 
-int main( void )
+int main(void)
 {
 	printf("\n\n");
 	bensSentence1();
@@ -66,13 +66,13 @@ int main( void )
 	sawgzqSentence2();
 	printf("\n\n");
 
-    tcy8v6Sentence1();
-    printf("\n\n");
-    tcy8v6Sentence2();
-    printf("\n\n");
+	tcy8v6Sentence1();
+	printf("\n\n");
+	tcy8v6Sentence2();
+	printf("\n\n");
 	malkrcSentence2();
 
-    jkmx5vSentence1();
+	jkmx5vSentence1();
 
 	printf("\n\n");
 	huhmanaSentence1();
@@ -85,15 +85,15 @@ int main( void )
 	dtanz8Sentence2();
 	printf("\n\n");
 
-    rysgpd1();
-    printf("\n\n");
-    rysgpd2();
+	rysgpd1();
+	printf("\n\n");
+	rysgpd2();
 	printf("\n\n");
 
 	ghstgfSentence1();
 	ghstgfSentence2();
-    	jkmx5vSentence_FINAL();
-    	printf("\n\n");
+	jkmx5vSentence_FINAL();
+	printf("\n\n");
 
 	partbrSentence1();
 	printf("\n\n");
@@ -118,28 +118,8 @@ int main( void )
 	wld9bSentence2();
 	printf("\n\n");
 
-
-    conradSentence1();
+	dpp6bkSentence1();
 	printf("\n\n");
-	conradSentence2();
-	printf("\n\n");
-	ktmcbkSentence1();
-        ktmcbkSentence2();
-
-	mjwcbcSentence1();
-	printf("\n\n");
-	mjwcbcSentence2();
-	printf("\n\n");
-	taezkvSentence1();
-	printf("\n\n");
-
-	xz9rcSentence1();
-	printf("\n\n");
-	xz9rcSentence_FINAL();
-	printf("\n\n");
-
-	// DO NOT ADD AFTER THIS COMMENT
-	// Bens sentence should be last.
-	bensSentence_FINAL();
+	dpp6bkSentence2();
 	printf("\n\n");
 }
