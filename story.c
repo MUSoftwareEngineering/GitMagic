@@ -56,7 +56,9 @@ int main(void)
 	printf("\n\n");
 	pdokdfSentence2();
 	printf("\n\n");
-
+	
+	jlmyghSentence1();
+	printf("\n\n");
 	zzd8hSentence_FINAL();
 	printf("\n\n");
 	malkrcSentence1();
@@ -147,6 +149,8 @@ int main(void)
 	EvanFirstSentence();
 	printf("\n\n");
 	EvanSecondSentence();
+	printf("\n\n");
+	jlmyghSentence2();
 	printf("\n\n");
 
 
