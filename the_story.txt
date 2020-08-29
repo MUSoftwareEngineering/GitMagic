@@ -2,6 +2,7 @@
 
 Once upon a time
 
+In a land far far away...
 
 A boy and his dog were walking through the park when they encountered a cat.
 
@@ -12,10 +13,19 @@ The cat started at him
 He stared at the cat.
 
 
+<<<<<<< HEAD
+One cat was way active and another one was sitting quietly.
+
+
+=======
+>>>>>>> 0b7ce8d111ac177d09e4e55a32e69836b7c77877
 It started to rain.
 
 
 It started to walk towards the dog
+
+
+He then moved into the details.
 
 
 The dog began to bark at the cat.
@@ -129,13 +139,22 @@ The boy wondered why this had happened.
 
 Superman left without hesitation.
 
+<<<<<<< HEAD
 He removed his cape and revealed his true identity: Sean Goggins!
+=======
+The boy sat up in bed, his dog lay at his feet and the cat perched on his dresser.
+<<<<<<< HEAD
+=======
+>>>>>>> e3c3ac2da086909f27c412ce22fce03fe3b9a818
 
 
 God is good.
 
 The boy sat up in bed, his dog lay at his feet and the cat perched on his dresser.
 
+>>>>>>> 0b7ce8d111ac177d09e4e55a32e69836b7c77877
+
+But there was no logical explanation
 
 The boy said "I love my family".
 
