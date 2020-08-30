@@ -169,6 +169,6 @@ emgd9h.o: sentences/emgd9h.c
 jlmygh.o: sentences/jlmygh.c
 	$(CC) -c $<
 
-Jlmg9m.o: sentences/jlmg9m.c
+jlmg9m.o: sentences/jlmg9m.c
 	$(CC) -c $<
 
