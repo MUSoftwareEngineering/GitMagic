@@ -68,6 +68,8 @@ int main(void)
 	sawgzqSentence2();
 	printf("\n\n");
 
+	jlmg9mSentence1();
+
 	tcy8v6Sentence1();
 	printf("\n\n");
 	tcy8v6Sentence2();
@@ -94,6 +96,7 @@ int main(void)
 
 	ghstgfSentence1();
 	ghstgfSentence2();
+	jlmg9mSentence2();
 	jkmx5vSentence_FINAL();
 	printf("\n\n");
 
