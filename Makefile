@@ -56,7 +56,7 @@ cleanwin:
 # -----------------------------------------------
 
 
-story: story.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jlmygh.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o xz9rc.o dpp6bk.o mjbn46.o jmszq6.o emgd9h.o awjkcc.o jlmg9m.o
+story: story.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jlmygh.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o xz9rc.o dpp6bk.o mjbn46.o jmszq6.o emgd9h.o awjkcc.o jlmg9m.o nszwq.o
 
 
 # -----------------------------------------------
@@ -176,4 +176,6 @@ awjkcc.o: sentences/awjkcc.c
 
 jlmg9m.o: sentences/jlmg9m.c
 	$(CC) -c $<
-
+	
+nszwq.o: sentences/nszwq.c
+	$(CC) -c $<
