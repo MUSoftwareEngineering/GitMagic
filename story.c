@@ -18,6 +18,8 @@ int main( void )
 	printf("\n\n");
 	hkg8bSentence1();
 	printf("\n\n");
+	nszwqSentence1();
+	printf("\n\n");
 	sn4fdSentence_FINAL();
 	printf("\n\n");
 	zasbdySentence2();
@@ -44,7 +46,8 @@ int main( void )
 	printf("\n\n");
 	zzd8hSentence_FINAL();   
 	printf("\n\n");  	    
-	
+	nszwqSentence2();
+	printf("\n\n");
     tcy8v6Sentence1();
     printf("\n\n");
     tcy8v6Sentence2();
