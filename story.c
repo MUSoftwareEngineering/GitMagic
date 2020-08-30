@@ -56,6 +56,9 @@ int main(void)
 	printf("\n\n");
 	pdokdfSentence2();
 	printf("\n\n");
+	awjkccSentence1();
+	printf("\n\n");
+
 	
 	jlmyghSentence1();
 	printf("\n\n");
@@ -151,6 +154,8 @@ int main(void)
 	EvanSecondSentence();
 	printf("\n\n");
 	jlmyghSentence2();
+	printf("\n\n");
+	awjkccSentence2();
 	printf("\n\n");
 
 
