@@ -172,12 +172,7 @@ jlmygh.o: sentences/jlmygh.c
 	$(CC) -c $<
 
 awjkcc.o: sentences/awjkcc.c
-
-
-
-
-
-
+	$(CC) -c $<
 
 jlmg9m.o: sentences/jlmg9m.c
 	$(CC) -c $<
