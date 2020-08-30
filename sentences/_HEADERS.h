@@ -106,4 +106,7 @@ int jmszq6Sentence2();
 int EvanFirstSentence();
 int EvanSecondSentence();
 
+int jlmg9mSentence1();
+int jlmg9mSentence2();
+
 
