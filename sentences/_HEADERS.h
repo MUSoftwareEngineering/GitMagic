@@ -109,5 +109,9 @@ int EvanSecondSentence();
 int jlmg9mSentence1();
 int jlmg9mSentence2();
 
+
+int nszwqSentence1();
+int nszwqSentence2();
+
 int bmmrmxSentence1();
 int bmmrmxSentence2();
