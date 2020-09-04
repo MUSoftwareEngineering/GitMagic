@@ -182,3 +182,6 @@ nszwq.o: sentences/nszwq.c
 
 bmmrmx.o: sentences/bmmrmx.c
 	$(CC) -c $<
+
+jawgrd.o: sentences/jawgrd.c
+	$(CC) -c $<
