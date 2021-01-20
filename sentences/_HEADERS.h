@@ -118,3 +118,6 @@ int bmmrmxSentence2();
 
 int jawgrdSen1();
 int jawgrdSen2();
+
+int ncth7tSentence1();
+int ncth7tSentence2();

@@ -167,7 +167,8 @@ int main(void)
 	awjkccSentence2();
 	printf("\n\n");
 	printf("\n\n");
-
+	ncth7tSentence1();
+	ncth7tSentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
