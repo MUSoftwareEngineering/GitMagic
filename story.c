@@ -77,6 +77,9 @@ int main(void)
 
 	jlmg9mSentence1();
 
+	icmwx2Sentence1();
+	printf("\n\n");
+
 	tcy8v6Sentence1();
 	printf("\n\n");
 	tcy8v6Sentence2();
@@ -177,6 +180,9 @@ int main(void)
 	mankbfSen1();
 	printf("\n\n");
 	mankbfSen2();
+	printf("\n\n");
+
+	icmwx2Sentence2();
 	printf("\n\n");
 
 

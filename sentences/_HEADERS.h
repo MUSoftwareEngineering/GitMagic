@@ -119,6 +119,9 @@ int bmmrmxSentence2();
 int jawgrdSen1();
 int jawgrdSen2();
 
+int icmwx2Sentence1();
+int icmwx2Sentence2();
+
 <<<<<<< HEAD
 int tmh9gvSentence1();
 int tmh9gvSentence2();
