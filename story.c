@@ -170,6 +170,10 @@ int main(void)
 	printf("\n\n");
 	jawgrdSen2();
 	printf("\n\n");
+	tmh9gvSentence1();
+	printf("\n\n");
+	tmh9gvSentence2();
+	printf("\n\n");
 
 
 	// DO NOT ADD AFTER THIS COMMENT
