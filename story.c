@@ -171,6 +171,11 @@ int main(void)
 	jawgrdSen2();
 	printf("\n\n");
 
+	mankbfSen1();
+	printf("\n\n");
+	mankbfSen2();
+	printf("\n\n");
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
