@@ -2,12 +2,12 @@
 
 int tmh9gvSentence1()
 {
-	printf("His strength grew so strong that he could not longer control it.");
+	printf("He read the nutritional information on the back of the package.");
 	return 1;
 }
 
 int tmh9gvSentence2()
 {
-	printf("The strength grew a mind of its own and destroyed the universe.");
+	printf("Wow! 0 calories per serving. He ate all of the tic-tacs at once.");
 	return 1;
 }

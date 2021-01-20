@@ -166,10 +166,6 @@ int main(void)
 	printf("\n\n");
 	awjkccSentence2();
 	printf("\n\n");
-	jawgrdSen1();
-	printf("\n\n");
-	jawgrdSen2();
-	printf("\n\n");
 	tmh9gvSentence1();
 	printf("\n\n");
 	tmh9gvSentence2();
