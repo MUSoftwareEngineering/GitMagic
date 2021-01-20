@@ -75,6 +75,9 @@ int main(void)
 
 	jlmg9mSentence1();
 
+	icmwx2Sentence1();
+	printf("\n\n");
+
 	tcy8v6Sentence1();
 	printf("\n\n");
 	tcy8v6Sentence2();
@@ -82,6 +85,9 @@ int main(void)
 	malkrcSentence2();
 
 	jkmx5vSentence1();
+
+	icmwx2Senctence2();
+	printf("\n\n");
 
 	printf("\n\n");
 	huhmanaSentence1();
