@@ -118,3 +118,6 @@ int bmmrmxSentence2();
 
 int jawgrdSen1();
 int jawgrdSen2();
+
+int npb383sentence1();
+int npb383sentence2();
