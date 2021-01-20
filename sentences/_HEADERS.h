@@ -119,5 +119,13 @@ int bmmrmxSentence2();
 int jawgrdSen1();
 int jawgrdSen2();
 
+<<<<<<< HEAD
 int tmh9gvSentence1();
 int tmh9gvSentence2();
+=======
+int mankbfSen1();
+int mankbfSen2();
+
+int npb383sentence1();
+int npb383sentence2();
+>>>>>>> 4263d4142bc66d25df6b43dc92f1c5a2362d6e8d

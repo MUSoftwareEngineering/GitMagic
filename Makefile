@@ -57,8 +57,12 @@ cleanwin:
 
 
 
+<<<<<<< HEAD
 story: story.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jlmygh.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o xz9rc.o dpp6bk.o mjbn46.o jmszq6.o emgd9h.o awjkcc.o jlmg9m.o bmmrmx.o nszwq.o jawgrd.o tmh9gv.o
+=======
+>>>>>>> 4263d4142bc66d25df6b43dc92f1c5a2362d6e8d
 
+story: story.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jlmygh.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o xz9rc.o dpp6bk.o mjbn46.o jmszq6.o emgd9h.o awjkcc.o jlmg9m.o bmmrmx.o nszwq.o jawgrd.o npb383.o mankbf.o
 # -----------------------------------------------
 
 story.o: story.c
@@ -68,6 +72,9 @@ story.o: story.c
 # pawprint.o -  where is your .c derived object file - where is your file
 
 smebmm.o: sentences/smebmm.c
+	$(CC) -c $<
+
+jawgrd.o: sentences/jawgrd.c 
 	$(CC) -c $<
 
 bpbkt7.o: sentences/bpbkt7.c
@@ -183,8 +190,16 @@ nszwq.o: sentences/nszwq.c
 bmmrmx.o: sentences/bmmrmx.c
 	$(CC) -c $<
 
-jawgrd.o: sentences/jawgrd.c
+mankbf.o: sentences/mankbf.c
 	$(CC) -c $<
 
+<<<<<<< HEAD
 tmh9gv.o: sentences/tmh9gv.c
 	$(CC) -c $<
+=======
+jbawgrd.o: sentences/jawgrd.c
+	$(CC) -c $<
+
+npb383.o: sentences/npb383.c
+	$(CC) -c $<
+>>>>>>> 4263d4142bc66d25df6b43dc92f1c5a2362d6e8d
