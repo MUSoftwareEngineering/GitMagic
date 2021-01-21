@@ -31,6 +31,10 @@ int main(void)
 	hcntbSentence1();
 	printf("\n\n");
 	sawgzqSentence1();
+    
+    jas8dzSentence1();
+	printf("\n\n");
+    
 	printf("\n\n");
 	sn4fdSentence_FINAL();
 	printf("\n\n");
@@ -175,6 +179,9 @@ int main(void)
 	tmh9gvSentence1();
 	printf("\n\n");
 	tmh9gvSentence2();
+	printf("\n\n");
+    
+    jas8dzSentence_FINAL();
 	printf("\n\n");
 
 	ncth7tSentence1();
