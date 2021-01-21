@@ -121,3 +121,20 @@ int jawgrdSen2();
 
 int ncth7tSentence1();
 int ncth7tSentence2();
+
+int icmwx2Sentence1();
+int icmwx2Sentence2();
+
+
+int tmh9gvSentence1();
+int tmh9gvSentence2();
+
+int mankbfSen1();
+int mankbfSen2();
+
+int npb383sentence1();
+int npb383sentence2();
+
+int ojl8q7Sentence1();
+int ojl8q7Sentence2();
+

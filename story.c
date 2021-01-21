@@ -26,6 +26,8 @@ int main(void)
 	printf("\n\n");
 	ejw3mdSentence1();
 	printf("\n\n");
+	npb383sentence1();
+	printf("\n\n");
 	hcntbSentence1();
 	printf("\n\n");
 	sawgzqSentence1();
@@ -74,6 +76,9 @@ int main(void)
 	printf("\n\n");
 
 	jlmg9mSentence1();
+
+	icmwx2Sentence1();
+	printf("\n\n");
 
 	tcy8v6Sentence1();
 	printf("\n\n");
@@ -143,7 +148,8 @@ int main(void)
 	printf("\n\n");
 	xz9rcSentence_FINAL();
 	printf("\n\n");
-
+	npb383sentence2();
+	printf("\n\n");
 	mjbn46Sentence1();
 	printf("\n\n");
 	mjbn46Sentence2();
@@ -166,13 +172,27 @@ int main(void)
 	printf("\n\n");
 	awjkccSentence2();
 	printf("\n\n");
+	tmh9gvSentence1();
 	printf("\n\n");
+	tmh9gvSentence2();
+	printf("\n\n");
+
 	ncth7tSentence1();
 	ncth7tSentence2();
+
+	mankbfSen1();
+	printf("\n\n");
+	mankbfSen2();
+	printf("\n\n");
+
+	icmwx2Sentence2();
+	printf("\n\n");
+
+	ojl8q7Sentence1();
+	ojl8q7Sentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
-
