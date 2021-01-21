@@ -203,6 +203,10 @@ int main(void)
 	dmqnrSentence2();
 	printf("\n\n");
 
+	jdapm8Sentence1();
+	jdapm8Sentence2();
+	printf("\n\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
