@@ -143,3 +143,6 @@ int jas8dzSentence_FINAL();
 
 int wwbpg3Sentence1();
 int wwbpg3Sentence2();
+
+int dmqnrSentence1();
+int dmqnrSentence2();

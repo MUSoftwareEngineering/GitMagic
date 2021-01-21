@@ -224,6 +224,7 @@ He bought some tic-tacs.
 
 
 He read the nutritional information on the back of the package.
+<<<<<<< HEAD
 
 Wow! 0 calories per serving. He ate all of the tic-tacs at once.
 
@@ -231,6 +232,15 @@ Wow! 0 calories per serving. He ate all of the tic-tacs at once.
 Bill found those tic-tacs delicious.
 
 
+=======
+
+Wow! 0 calories per serving. He ate all of the tic-tacs at once.
+
+
+Bill found those tic-tacs delicious.
+
+
+>>>>>>> master
 He grew so strong that he became an Olympian.
 He won a gold medal for rowing.
 
@@ -245,6 +255,9 @@ The moral of the story is as follows:
 
 His arch-nemises was the frog prince.
 The frog prince was named Henry.
+
+Henry was not happy to seem him.
+Out of nowhere a cat named Leonard appeard.
 
 The end. 
 

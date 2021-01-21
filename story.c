@@ -195,6 +195,11 @@ int main(void)
 
 	ojl8q7Sentence1();
 	ojl8q7Sentence2();
+	
+	printf("\n\n");
+	dmqnrSentence1();
+	dmqnrSentence2();
+	printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
