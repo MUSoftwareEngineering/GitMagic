@@ -177,6 +177,9 @@ int main(void)
 	tmh9gvSentence2();
 	printf("\n\n");
 
+	ncth7tSentence1();
+	ncth7tSentence2();
+
 	mankbfSen1();
 	printf("\n\n");
 	mankbfSen2();
