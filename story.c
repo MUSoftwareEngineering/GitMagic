@@ -185,10 +185,11 @@ int main(void)
 	icmwx2Sentence2();
 	printf("\n\n");
 
+	ojl8q7Sentence1();
+	ojl8q7Sentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
-

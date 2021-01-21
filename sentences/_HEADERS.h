@@ -131,4 +131,7 @@ int mankbfSen2();
 
 int npb383sentence1();
 int npb383sentence2();
+
+int ojl8q7Sentence1();
+int ojl8q7Sentence2();
 >>>>>>> 4263d4142bc66d25df6b43dc92f1c5a2362d6e8d

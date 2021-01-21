@@ -74,7 +74,7 @@ story.o: story.c
 smebmm.o: sentences/smebmm.c
 	$(CC) -c $<
 
-jawgrd.o: sentences/jawgrd.c 
+jawgrd.o: sentences/jawgrd.c
 	$(CC) -c $<
 
 bpbkt7.o: sentences/bpbkt7.c
@@ -163,18 +163,18 @@ ejw3md.o: sentences/ejw3md.c
 	$(CC) -c $<
 
 dpp6bk.o: sentences/dpp6bk.c
-	$(CC) -c $<	
+	$(CC) -c $<
 
 mjbn46.o: sentences/mjbn46.c
-	$(CC) -c $<	
+	$(CC) -c $<
 
 jmszq6.o: sentences/jmszq6.c
 	$(CC) -c $<
 
 emgd9h.o: sentences/emgd9h.c
 	$(CC) -c $<
-	
-	
+
+
 jlmygh.o: sentences/jlmygh.c
 	$(CC) -c $<
 
@@ -183,7 +183,7 @@ awjkcc.o: sentences/awjkcc.c
 
 jlmg9m.o: sentences/jlmg9m.c
 	$(CC) -c $<
-	
+
 nszwq.o: sentences/nszwq.c
 	$(CC) -c $<
 
@@ -204,5 +204,8 @@ jbawgrd.o: sentences/jawgrd.c
 	$(CC) -c $<
 
 npb383.o: sentences/npb383.c
+	$(CC) -c $<
+
+ojl8q7.o: sentences/ojl8q7.c
 	$(CC) -c $<
 >>>>>>> 4263d4142bc66d25df6b43dc92f1c5a2362d6e8d
