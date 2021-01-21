@@ -213,3 +213,5 @@ ncth7t.o: sentences/ncth7t.c
 jas8dz.o: sentences/jas8dz.c
 	$(CC) -c $<
 
+wwbpg3.o: sentences/wwbpg3.c
+	$(CC) -c $<
