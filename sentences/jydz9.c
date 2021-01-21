@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//two print functions
+//two print function
 
 int jydz9Sentence1()
 {
