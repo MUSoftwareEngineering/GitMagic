@@ -34,6 +34,7 @@ int main(void)
     	
 	jas8dzSentence1();
 	printf("\n\n");
+
 	wwbpg3Sentence1();
 	printf("\n\n");
 	sn4fdSentence_FINAL();
@@ -81,6 +82,7 @@ int main(void)
 	jlmg9mSentence1();
 	icmwx2Sentence1();
 	printf("\n\n");
+
 	wwbpg3Sentence2();
 	printf("\n\n");
 	tcy8v6Sentence1();
