@@ -141,3 +141,6 @@ int ojl8q7Sentence2();
 int jas8dzSentence1();
 int jas8dzSentence_FINAL();
 
+int dmqnrSentence1();
+int dmqnrSentence2();
+
