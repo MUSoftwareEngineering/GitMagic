@@ -207,6 +207,11 @@ int main(void)
 	jdapm8Sentence2();
 	printf("\n\n");
 
+	jydz9Sentence1();
+	printf("\n\n");
+	jydz9Sentence2();
+	printf("\n\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
