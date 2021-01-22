@@ -9,6 +9,6 @@ int nhmbx2Sentence1()
 
 int nhmbx2Sentence2()
 {
-  printf("The cat hunkered down and got ready to pounce. \n");
+  printf("It just got real. \n");
   return 1;
 }

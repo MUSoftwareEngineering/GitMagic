@@ -150,6 +150,8 @@ int jdapm8Sentence2();
 int jydz9Sentence1();
 int jydz9Sentence2();
 
+int rjgxfvSentence1();
+int rjgxfvSentence2();
+
 int nhmbx2Sentence1();
 int nhmbx2Sentence2();
-
