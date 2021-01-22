@@ -213,8 +213,18 @@ int main(void)
 
 	jydz9Sentence1();
 	printf("\n\n");
+	nhmbx2Sentence1();
+	printf("\n\n");
 	jydz9Sentence2();
 	printf("\n\n");
+
+	rjgxfvSentence1();
+	printf("\n");
+	rjgxfvSentence2();
+	printf("\n\n");
+
+	nhmbx2Sentence2();
+	printf("\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
