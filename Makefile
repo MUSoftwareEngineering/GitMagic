@@ -206,6 +206,8 @@ npb383.o: sentences/npb383.c
 ojl8q7.o: sentences/ojl8q7.c
 	$(CC) -c $<
 
+llkdb.o: sentences/llkdb.c
+	$(CC) -c $<
 
 ncth7t.o: sentences/ncth7t.c
 	$(CC) -c $<

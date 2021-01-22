@@ -201,6 +201,10 @@ int main(void)
 
 	ojl8q7Sentence1();
 	ojl8q7Sentence2();
+
+	llkdbSentence1();
+	llkdbSentence2();
+	printf("\n\n");
 	
 	printf("\n\n");
 	dmqnrSentence1();
