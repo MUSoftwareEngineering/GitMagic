@@ -167,3 +167,6 @@ int llkdbSentence1();
 
 int jrh22rsentence1();
 int jrh22rsentence2();
+
+int cag7m5Sentence1();
+int cag7m5Sentence2();
