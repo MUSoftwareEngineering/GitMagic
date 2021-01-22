@@ -10,7 +10,7 @@ int llkdbSentence1()
 
 int llkdbSentence2()
 {
-  printf("But he did not know what the princess looks like .\n");
+  printf("But he did not know what the princess looks like.\n");
   return 1;
 }
 
