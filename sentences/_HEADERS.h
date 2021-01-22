@@ -167,3 +167,6 @@ int llkdbSentence1();
 
 int jrh22rsentence1();
 int jrh22rsentence2();
+
+int jdskgdSentence1();
+int jdskgdSentence2();
