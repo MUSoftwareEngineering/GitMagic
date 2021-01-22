@@ -211,9 +211,15 @@ int main(void)
 	dmqnrSentence2();
 	printf("\n\n");
 
+jrh22rsentence1();
+    printf("\n\n");
+
 	jdapm8Sentence1();
 	jdapm8Sentence2();
 	printf("\n\n");
+
+jrh22rsentence2();
+    printf("\n\n");
 
 	jydz9Sentence1();
 	printf("\n\n");

@@ -161,3 +161,9 @@ int rjgxfvSentence2();
 
 int nhmbx2Sentence1();
 int nhmbx2Sentence2();
+
+int llkdbSentence2();
+int llkdbSentence1();
+
+int jrh22rsentence1();
+int jrh22rsentence2();
