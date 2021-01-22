@@ -170,3 +170,6 @@ int jrh22rsentence2();
 
 int cag7m5Sentence1();
 int cag7m5Sentence2();
+
+int jdskgdSentence1();
+int jdskgdSentence2();

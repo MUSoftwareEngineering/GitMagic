@@ -214,6 +214,8 @@ int main(void)
 jrh22rsentence1();
     printf("\n\n");
 
+	jdskgdSentence1();
+
 	jdapm8Sentence1();
 	jdapm8Sentence2();
 	printf("\n\n");
@@ -232,6 +234,8 @@ jrh22rsentence2();
 	printf("\n");
 	rjgxfvSentence2();
 	printf("\n\n");
+
+	jdskgdSentence2();
 
 	nhmbx2Sentence2();
 	printf("\n");
