@@ -1,3 +1,34 @@
+commit f972c6b9800f0717d416ae4db767eb4ceb33fc58
+Merge: aed8d3c 58770fe
+Author: Andrew <huhmana@umsystem.edu>
+Date:   Fri Jan 22 15:25:13 2021 -0600
+
+    Merge branch 'master' of https://github.com/MUSoftwareEngineering/GitMagic
+
+commit aed8d3cbbf3e0948e4b45678fe1bc9faa0186f19
+Author: Andrew <huhmana@umsystem.edu>
+Date:   Fri Jan 22 15:17:03 2021 -0600
+
+    Log Files
+
+ sentences/branch_huhmana.log | 1973 ++++++++++++++++++++++++++++++++++++++++++
+ sentences/master_huhmana.log | 1973 ++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 3946 insertions(+)
+
+commit 58770fea26f696f4d7d06d3ce0855cb7535e660a
+Merge: f87eebe 849e688
+Author: Jacob Salka <jdskgd@umsystem.edu>
+Date:   Fri Jan 22 14:57:09 2021 -0600
+
+    Merge branch 'master' of https://github.com/MUSoftwareEngineering/GitMagic
+
+commit f87eebeaead67c777d9a70fdab1fb56bb7866f57
+Merge: e350323 a6c7e76
+Author: Jacob Salka <jdskgd@umsystem.edu>
+Date:   Fri Jan 22 14:57:03 2021 -0600
+
+    Fixed merge errors after pulling updated master
+
 commit 849e688b8d7dbd40f833f24e7bfdb72c64debf35
 Author: Andrew <huhmana@umsystem.edu>
 Date:   Fri Jan 22 14:50:41 2021 -0600
@@ -15,6 +46,19 @@ Date:   Fri Jan 22 14:38:34 2021 -0600
 
  huhmana.c | 15 ---------------
  1 file changed, 15 deletions(-)
+
+commit a6c7e76b0123b8a817772b81a8c076995d74f70b
+Author: Jacob Salka <jdskgd@umsystem.edu>
+Date:   Fri Jan 22 14:29:20 2021 -0600
+
+    Added my 2 sentences and updated files as required
+
+ Makefile             |  5 ++++-
+ sentences/_HEADERS.h |  5 ++++-
+ sentences/jdskgd.c   | 15 +++++++++++++++
+ story.c              |  5 +++++
+ the_story.txt        | 12 +++++++++++-
+ 5 files changed, 39 insertions(+), 3 deletions(-)
 
 commit e3503232f7f2e69bd107d9b1300bc08d06dbab23
 Merge: c4b343f 86b444d
