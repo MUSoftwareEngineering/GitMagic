@@ -250,3 +250,6 @@ bebk9h.o: sentences/bebk9h.c
 
 jcpmn6.o: sentences/jcpmn6.c
 	$(CC) -c $<
+
+kjzkcz.o: sentences/kjzkcz.c
+	$(CC) -c $<
