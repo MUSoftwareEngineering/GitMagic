@@ -250,6 +250,9 @@ jrh22rsentence2();
     cag7m5Sentence2();
     printf("\n");
 
+    bebk9hSentence1();
+    bebk9hSentence2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

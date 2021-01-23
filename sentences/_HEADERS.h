@@ -176,3 +176,6 @@ int jdskgdSentence2();
 
 int bdr526Sentence1();
 int bdr526Sentence2();
+
+int bebk9hSentence1();
+int bebk9hSentence2();
