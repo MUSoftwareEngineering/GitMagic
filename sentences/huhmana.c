@@ -7,7 +7,7 @@ int huhmanaSentence1()
 	return 1;
 }
 
-int huhmanaSentence_Final()
+int huhmanaSentence_FINAL()
 {
 	printf("It wasn't actually a bird, it was superman.");
 	return 1;
