@@ -147,5 +147,10 @@ int dmqnrSentence2();
 int crsb74Sentence1();
 int crsb74Sentence2();
 
+<<<<<<< HEAD
 int bsr4xmSentence1();
 int bsr4xmSentence2();
+=======
+int cjbd8r_1();
+int cjbd8r_2();
+>>>>>>> e0a1e6316a7405b7807631db3c665d2fe75b1fb1

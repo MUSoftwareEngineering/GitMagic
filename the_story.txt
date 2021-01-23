@@ -256,9 +256,17 @@ Henry was not happy to seem him.
 Out of nowhere a cat named Leonard appeard.
 
 
+<<<<<<< HEAD
 Leanard was an Orange Cat.
+=======
+>>>>>>> e0a1e6316a7405b7807631db3c665d2fe75b1fb1
 
+Henry brutally beat Leonard to death.
 
+<<<<<<< HEAD
+=======
+As Leonard hit the floor, Henry let out a bloodcurdling scream of joy.
+>>>>>>> e0a1e6316a7405b7807631db3c665d2fe75b1fb1
 
 The end. 
 

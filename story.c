@@ -214,6 +214,9 @@ int main(void)
     bsr4xmSentence2();
     printf("\n\n");
 
+	cjbd8r_1();
+	cjbd8r_2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
