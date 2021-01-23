@@ -16,7 +16,11 @@ int main(void)
 	printf("\n\n");
 	zasbdySentence1();
 	printf("\n\n");
+	crsb74Sentence1();
+	printf("\n\n");
 	smebmmSentence1();
+	printf("\n\n");
+	crsb74Sentence2();
 	printf("\n\n");
 	sn4fdSentence1();
 	printf("\n\n");
@@ -31,10 +35,10 @@ int main(void)
 	hcntbSentence1();
 	printf("\n\n");
 	sawgzqSentence1();
-    
+
     jas8dzSentence1();
 	printf("\n\n");
-    
+
 	printf("\n\n");
 	sn4fdSentence_FINAL();
 	printf("\n\n");
@@ -180,7 +184,7 @@ int main(void)
 	printf("\n\n");
 	tmh9gvSentence2();
 	printf("\n\n");
-    
+
     jas8dzSentence_FINAL();
 	printf("\n\n");
 
@@ -197,7 +201,7 @@ int main(void)
 
 	ojl8q7Sentence1();
 	ojl8q7Sentence2();
-	
+
 	printf("\n\n");
 	dmqnrSentence1();
 	dmqnrSentence2();
