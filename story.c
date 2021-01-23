@@ -210,6 +210,9 @@ int main(void)
 	cjbd8r_1();
 	cjbd8r_2();
 
+	sdwfkdSentence1();
+	sdwfkdSentence2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

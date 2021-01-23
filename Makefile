@@ -218,6 +218,9 @@ dmqnr.o: sentences/dmqnr.c
 
 crsb74.o: sentences/crsb74.c
 	$(CC) -c $<
-	
+
 cjbd8r.o: sentences/cjbd8r.c
+	$(CC) -c $<
+
+sdwfkd.o: sentences/sdwfkd.c
 	$(CC) -c $<
