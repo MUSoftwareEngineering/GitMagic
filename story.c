@@ -253,6 +253,11 @@ jrh22rsentence2();
     bebk9hSentence1();
     bebk9hSentence2();
 
+	printf("\n");
+	jcpmn6();
+	jcpmn62();
+	printf("\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
