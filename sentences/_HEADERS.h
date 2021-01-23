@@ -173,3 +173,6 @@ int cag7m5Sentence2();
 
 int jdskgdSentence1();
 int jdskgdSentence2();
+
+int bebk9hSentence1();
+int bebk9hSentence2();
