@@ -25,7 +25,7 @@ int zzd8hSentence_FINAL();
 int tcy8v6Sentence1();
 int tcy8v6Sentence2();
 int huhmanaSentence1();
-int huhmanaSentence_FINAL();
+int huhmanaSentence_Final();
 
 int zasbdySentence1();
 int zasbdySentence2();
@@ -173,3 +173,6 @@ int cag7m5Sentence2();
 
 int jdskgdSentence1();
 int jdskgdSentence2();
+
+int bdr526Sentence1();
+int bdr526Sentence2();
