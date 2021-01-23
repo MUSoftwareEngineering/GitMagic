@@ -189,6 +189,8 @@ int main(void)
 
     jas8dzSentence_FINAL();
 	printf("\n\n");
+	
+	drbk8vSentence1();
 
 	ncth7tSentence1();
 	ncth7tSentence2();
@@ -217,6 +219,8 @@ int main(void)
     
     bsr4xmSentence2();
     printf("\n\n");
+
+	drbk8vSentence2();
 
 	cjbd8r_1();
 	cjbd8r_2();

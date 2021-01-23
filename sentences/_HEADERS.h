@@ -155,3 +155,5 @@ int bsr4xmSentence2();
 int cjbd8r_1();
 int cjbd8r_2();
 
+int drbk8vSentence1();
+int drbk8vSentence2();
