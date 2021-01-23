@@ -59,9 +59,7 @@ cleanwin:
 
 
 
-story: story.o bdr526.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jlmygh.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o xz9rc.o dpp6bk.o mjbn46.o jmszq6.o emgd9h.o awjkcc.o jlmg9m.o bmmrmx.o nszwq.o jawgrd.o npb383.o mankbf.o ncth7t.o jas8dz.o icmwx2.o ojl8q7.o tmh9gv.o dmqnr.o jdapm8.o jydz9.o rjgxfv.o nhmbx2.o wwbpg31.o llkdb.o jrh22r.o cag7m5.o jdskgd.o bebk9h.o jcpmn6.o
-
-
+story: story.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jlmygh.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o xz9rc.o dpp6bk.o mjbn46.o jmszq6.o emgd9h.o awjkcc.o jlmg9m.o bmmrmx.o nszwq.o jawgrd.o npb383.o mankbf.o ncth7t.o jas8dz.o icmwx2.o ojl8q7.o tmh9gv.o dmqnr.o crsb74.o
 # -----------------------------------------------
 
 story.o: story.c
@@ -208,8 +206,6 @@ npb383.o: sentences/npb383.c
 ojl8q7.o: sentences/ojl8q7.c
 	$(CC) -c $<
 
-llkdb.o: sentences/llkdb.c
-	$(CC) -c $<
 
 ncth7t.o: sentences/ncth7t.c
 	$(CC) -c $<
@@ -220,33 +216,6 @@ jas8dz.o: sentences/jas8dz.c
 dmqnr.o: sentences/dmqnr.c
 	$(CC) -c $<
 
-jdapm8.o: sentences/jdapm8.c
-	$(CC) -c $<
-jydz9.o:  sentences/jydz9.c
-	$(CC) -c $<
-
-wwbpg31.o: sentences/wwbpg31.c
+crsb74.o: sentences/crsb74.c
 	$(CC) -c $<
 	
-rjgxfv.o:  sentences/rjgxfv.c
-	$(CC) -c $<
-
-nhmbx2.o: sentences/nhmbx2.c
-	$(CC) -c $<
-
-jrh22r.o: sentences/jrh22r.c
-	$(CC) -c $<
-
-cag7m5.o: sentences/cag7m5.c
-	$(CC) -c $<
-
-jdskgd.o: sentences/jdskgd.c
-	$(CC) -c $<
-
-bdr526.o: sentences/bdr526.c
-	$(CC) -c $<
-bebk9h.o: sentences/bebk9h.c
-	$(CC) -c $<
-
-jcpmn6.o: sentences/jcpmn6.c
-	$(CC) -c $<

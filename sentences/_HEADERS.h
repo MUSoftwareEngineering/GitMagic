@@ -5,9 +5,6 @@ int bensSentence_FINAL();
 //
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
-int wwbpg31Sentence1();
-int wwbpg31Sentence2();
-
 int awjkccSentence1();
 int awjkccSentence2();
 int smebmmSentence1();
@@ -25,7 +22,7 @@ int zzd8hSentence_FINAL();
 int tcy8v6Sentence1();
 int tcy8v6Sentence2();
 int huhmanaSentence1();
-int huhmanaSentence_Final();
+int huhmanaSentence_FINAL();
 
 int zasbdySentence1();
 int zasbdySentence2();
@@ -141,44 +138,11 @@ int npb383sentence2();
 int ojl8q7Sentence1();
 int ojl8q7Sentence2();
 
-int llkdbSentence1();
-int llkdbSentence2();
-
 int jas8dzSentence1();
 int jas8dzSentence_FINAL();
 
 int dmqnrSentence1();
 int dmqnrSentence2();
 
-int jdapm8Sentence1();
-int jdapm8Sentence2();
-
-int jydz9Sentence1();
-int jydz9Sentence2();
-
-int rjgxfvSentence1();
-int rjgxfvSentence2();
-
-int nhmbx2Sentence1();
-int nhmbx2Sentence2();
-
-int llkdbSentence2();
-int llkdbSentence1();
-
-int jrh22rsentence1();
-int jrh22rsentence2();
-
-int cag7m5Sentence1();
-int cag7m5Sentence2();
-
-int jdskgdSentence1();
-int jdskgdSentence2();
-
-int bdr526Sentence1();
-int bdr526Sentence2();
-
-int bebk9hSentence1();
-int bebk9hSentence2();
-
-int jcpmn6();
-int jcpmn62();
+int crsb74Sentence1();
+int crsb74Sentence2();
