@@ -154,6 +154,8 @@ int main(void)
 
 	xz9rcSentence1();
 	printf("\n\n");
+	sa5f5Sentence1();
+	printf("\n\n");
 	xz9rcSentence_FINAL();
 	printf("\n\n");
 	npb383sentence2();
@@ -190,6 +192,8 @@ int main(void)
 
 	ncth7tSentence1();
 	ncth7tSentence2();
+	sa5f5Sentence2();
+	printf("\n\n");
 
 	mankbfSen1();
 	printf("\n\n");
