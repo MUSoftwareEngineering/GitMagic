@@ -149,5 +149,9 @@ int dmqnrSentence2();
 int crsb74Sentence1();
 int crsb74Sentence2();
 
+int bsr4xmSentence1();
+int bsr4xmSentence2();
+
 int cjbd8r_1();
 int cjbd8r_2();
+
