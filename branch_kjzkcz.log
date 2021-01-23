@@ -1,3 +1,14 @@
+commit 608449cd928f665a1a8d9d4df12acd00d0cb5253
+Author: Kevin Zeng <kjzkcz@umsystem.edu>
+Date:   Sat Jan 23 16:12:46 2021 -0600
+
+    branch log
+
+ Makefile          |    2 +-
+ branch_kjzkcz.log | 2259 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+ the_story.txt     |  293 -------
+ 3 files changed, 2260 insertions(+), 294 deletions(-)
+
 commit f8dad20edab9765bea6da6e1c3ad9b35d504ea18
 Author: kjzkcz <kjzkcz@umsystem.edu>
 Date:   Sat Jan 23 14:22:26 2021 -0600
