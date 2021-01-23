@@ -193,6 +193,10 @@ int main(void)
 
 	mankbfSen1();
 	printf("\n\n");
+    
+    bsr4xmSentence1();
+    printf("\n\n");
+    
 	mankbfSen2();
 	printf("\n\n");
 
@@ -206,6 +210,9 @@ int main(void)
 	dmqnrSentence1();
 	dmqnrSentence2();
 	printf("\n\n");
+    
+    bsr4xmSentence2();
+    printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
