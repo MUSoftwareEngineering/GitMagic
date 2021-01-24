@@ -187,6 +187,8 @@ int main(void)
 
     jas8dzSentence_FINAL();
 	printf("\n\n");
+	ojpgg6Sentence1();
+	printf("\n\n");
 
 	ncth7tSentence1();
 	ncth7tSentence2();
@@ -208,6 +210,9 @@ int main(void)
 	printf("\n\n");
 
 	cjbd8r_1();
+	printf("\n\n");
+	ojpgg6Sentence2();
+	printf("\n\n");
 	cjbd8r_2();
 
 	// DO NOT ADD AFTER THIS COMMENT

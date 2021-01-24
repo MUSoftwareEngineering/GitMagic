@@ -149,3 +149,6 @@ int crsb74Sentence2();
 
 int cjbd8r_1();
 int cjbd8r_2();
+
+int ojpgg6Sentence1();
+int ojpgg6Sentence2();
