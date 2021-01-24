@@ -203,6 +203,9 @@ int main(void)
 	cgjnd71();
 	mankbfSen1();
 	printf("\n\n");
+	
+	bjc7p3_sentence1();
+	printf("/n");
     
     bsr4xmSentence1();
     printf("\n\n");
@@ -232,8 +235,11 @@ int main(void)
 	printf("\n");
 	cfhbvpSentence1();
 	cfhbvpSentence2();
-	printf("\n");
+	printf("\n\n");
 
+	bjc7p3_sentence2();
+	printf("\n\n");
+	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
