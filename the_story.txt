@@ -90,6 +90,9 @@ The bird is yellow.
 The bird was also very large.
 
 
+He gazed at the bird intently.
+
+
 He had a random migraine
 
 
@@ -103,6 +106,9 @@ The dog became distracted by a box of donuts left on the ground.
 
 
 She is looking at the dog.
+
+
+A bolt of lighting lit up the sky
 
 
 It stopped raining.

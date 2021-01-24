@@ -70,6 +70,8 @@ int main(void)
 	printf("\n\n");
 	awjkccSentence1();
 	printf("\n\n");
+	aagd8bSentence1();
+	printf("\n\n");
 	jlmyghSentence1();
 	printf("\n\n");
 	zzd8hSentence_FINAL();
@@ -79,6 +81,8 @@ int main(void)
 	malkrcSentence1();
 	printf("\n\n");
 	zzd8hSentence_FINAL();
+	printf("\n\n");
+	aagd8bSentence2();
 	printf("\n\n");
 	sawgzqSentence2();
 	printf("\n\n");
