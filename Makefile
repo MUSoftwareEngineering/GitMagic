@@ -229,7 +229,6 @@ bsr4xm.o: sentences/bsr4xm.c
 	
 cjbd8r.o: sentences/cjbd8r.c
 	$(CC) -c $<
-<<<<<<< HEAD
 	
 sa5f5.o: sentences/sa5f5.c
 	$(CC) -c $<
@@ -241,8 +240,6 @@ cgjnd7.o: sentences/cgjnd7.c
 	$(CC) -c $<
 
 cfhbvp.o: sentences/cfhbvp.c
-=======
 
 ojpgg6.o: sentences/ojpgg6.c
->>>>>>> ojpgg6
 	$(CC) -c $<

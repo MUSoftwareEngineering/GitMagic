@@ -189,13 +189,10 @@ int main(void)
 
     jas8dzSentence_FINAL();
 	printf("\n\n");
-<<<<<<< HEAD
 	
 	drbk8vSentence1();
-=======
 	ojpgg6Sentence1();
 	printf("\n\n");
->>>>>>> ojpgg6
 
 	ncth7tSentence1();
 	ncth7tSentence2();
