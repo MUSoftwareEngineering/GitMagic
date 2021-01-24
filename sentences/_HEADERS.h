@@ -167,3 +167,6 @@ int cfhbvpSentence2();
 
 int aagd8bSentence1();
 int aagd8bSentence2();
+
+int aswd62_1();
+int aswd62_2();

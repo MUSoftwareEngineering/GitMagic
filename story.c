@@ -235,6 +235,8 @@ int main(void)
 	cfhbvpSentence2();
 	printf("\n");
 
+	aswd62_1();
+	aswd62_2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
