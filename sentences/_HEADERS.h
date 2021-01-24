@@ -164,3 +164,6 @@ int cgjnd72();
 int cfhbvpSentence1();
 int cfhbvpSentence2();
 
+int dtwmmvSentence1();
+int dtwmmvSentence_FINAL();
+

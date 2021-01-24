@@ -219,6 +219,9 @@ int main(void)
     
     bsr4xmSentence2();
     printf("\n\n");
+	
+	dtwmmvSentence1();
+	printf("\n\n");
 
 	drbk8vSentence2();
 
@@ -229,6 +232,9 @@ int main(void)
 	cfhbvpSentence1();
 	cfhbvpSentence2();
 	printf("\n");
+	
+	dtwmmvSentence_FINAL();
+	printf("\n\n");
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
