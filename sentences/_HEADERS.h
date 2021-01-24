@@ -169,3 +169,6 @@ int aagd8bSentence2();
 
 int gms4kcSentence1();
 int gms4kcSentence2();
+
+int sjmc5nSentence1();
+int sjmc5nSentence2();
