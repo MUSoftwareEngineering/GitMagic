@@ -225,6 +225,11 @@ int main(void)
 	cjbd8r_1();
 	cjbd8r_2();
 	
+	printf("\n");
+	cfhbvpSentence1();
+	cfhbvpSentence2();
+	printf("\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

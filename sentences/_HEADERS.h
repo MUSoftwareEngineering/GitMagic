@@ -160,3 +160,7 @@ int drbk8vSentence2();
 
 int cgjnd71();
 int cgjnd72();
+
+int cfhbvpSentence1();
+int cfhbvpSentence2();
+
