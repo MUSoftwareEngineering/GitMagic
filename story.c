@@ -234,6 +234,11 @@ int main(void)
 	cfhbvpSentence2();
 	printf("\n");
 
+    printf("\n");
+    gms4kcSentence1();
+    gms4kcSentence2();
+    printf("\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

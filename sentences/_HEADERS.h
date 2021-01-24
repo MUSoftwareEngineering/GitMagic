@@ -167,3 +167,5 @@ int cfhbvpSentence2();
 int aagd8bSentence1();
 int aagd8bSentence2();
 
+int gms4kcSentence1();
+int gms4kcSentence2();

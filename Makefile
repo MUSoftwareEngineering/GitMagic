@@ -60,7 +60,7 @@ cleanwin:
 
 
 
-story: story.o cgjnd7.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jlmygh.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o xz9rc.o dpp6bk.o mjbn46.o jmszq6.o emgd9h.o awjkcc.o jlmg9m.o bmmrmx.o nszwq.o jawgrd.o npb383.o mankbf.o ncth7t.o jas8dz.o icmwx2.o ojl8q7.o tmh9gv.o dmqnr.o crsb74.o cjbd8r.o sa5f5.o bsr4xm.o drbk8v.o cfhbvp.o aagd8b.o
+story: story.o cgjnd7.o smebmm.o bpbkt7.o lhn95.o zzd8h.o sn4fd.o huhmana.o zasbdy.o tcy8v6.o jlmygh.o jgt7cn.o dtanz8.o hkg8b.o pdokdf.o rysgpd.o ghstgf.o partbr.o kpwcg2.o mbb5ym.o jtnfx.o wld9b.o sawgzq.o jkmx5v.o cjbb5f.o malkrc.o hcntb.o mjwcbc.o ktmcbk.o taezkv.o ejw3md.o xz9rc.o dpp6bk.o mjbn46.o jmszq6.o emgd9h.o awjkcc.o jlmg9m.o bmmrmx.o nszwq.o jawgrd.o npb383.o mankbf.o ncth7t.o jas8dz.o icmwx2.o ojl8q7.o tmh9gv.o dmqnr.o crsb74.o cjbd8r.o sa5f5.o bsr4xm.o drbk8v.o cfhbvp.o aagd8b.o gms4kc.o
 # -----------------------------------------------
 
 story.o: story.c
@@ -239,4 +239,7 @@ cfhbvp.o: sentences/cfhbvp.c
 	$(CC) -c $<
 
 aagd8b.o: sentences/aagd8b.c
+	$(CC) -c $<
+
+gms4kc.o: sentences/gms4kc.c
 	$(CC) -c $<
