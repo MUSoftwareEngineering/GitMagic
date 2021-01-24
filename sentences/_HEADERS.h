@@ -160,3 +160,6 @@ int drbk8vSentence2();
 
 int cgjnd71();
 int cgjnd72();
+
+int cws3p41();
+int cws3p42();
