@@ -171,3 +171,6 @@ int aagd8bSentence2();
 int bjc7p3_sentence1();
 int bjc7p3_sentence2();
 
+int aswd62_1();
+int aswd62_2();
+

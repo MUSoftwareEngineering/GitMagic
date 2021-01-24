@@ -238,8 +238,13 @@ int main(void)
 	cfhbvpSentence2();
 	printf("\n\n");
 
+
 	bjc7p3_sentence2();
 	printf("\n\n");
+
+	aswd62_1();
+	aswd62_2();
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
