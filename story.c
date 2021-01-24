@@ -196,7 +196,7 @@ int main(void)
 	ncth7tSentence2();
 	sa5f5Sentence2();
 	printf("\n\n");
-
+	cgjnd71();
 	mankbfSen1();
 	printf("\n\n");
     
@@ -211,7 +211,7 @@ int main(void)
 
 	ojl8q7Sentence1();
 	ojl8q7Sentence2();
-
+	cgjnd72();
 	printf("\n\n");
 	dmqnrSentence1();
 	dmqnrSentence2();
@@ -224,7 +224,7 @@ int main(void)
 
 	cjbd8r_1();
 	cjbd8r_2();
-
+	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
