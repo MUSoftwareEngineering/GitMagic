@@ -164,3 +164,5 @@ int cgjnd72();
 int cfhbvpSentence1();
 int cfhbvpSentence2();
 
+int aidansSentence1();
+int aidansSentence_FINAL();
