@@ -157,3 +157,7 @@ int cjbd8r_2();
 
 int drbk8vSentence1();
 int drbk8vSentence2();
+
+int sjmc5nSentence1();
+int sjmc5nSentence2();
+
