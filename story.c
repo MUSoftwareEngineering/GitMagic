@@ -224,6 +224,9 @@ int main(void)
 
 	cjbd8r_1();
 	cjbd8r_2();
+
+	cws3p41();
+	cws3p42();
 	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
