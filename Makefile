@@ -231,3 +231,6 @@ sa5f5.o: sentences/sa5f5.c
 
 drbk8v.o: sentences/drbk8v.c
 	$(CC) -c $<
+
+cgjnd7.o: sentences/cgjnd7.c
+        $(CC) -c $<
