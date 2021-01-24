@@ -112,6 +112,7 @@ int jlmg9mSentence2();
 int sa5f5Sentence1();
 int sa5f5Sentence2();
 
+
 int nszwqSentence1();
 int nszwqSentence2();
 
@@ -166,6 +167,3 @@ int cfhbvpSentence2();
 
 int aagd8bSentence1();
 int aagd8bSentence2();
-
-int gms4kcSentence1();
-int gms4kcSentence2();

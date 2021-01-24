@@ -25,7 +25,7 @@ The cat started at him
 He stared at the cat.
 
 
-The cat gave him a sly wink.
+The cat gave him a sly wink and turned away.
 
 
 It was very clear something was about to go down.
@@ -99,7 +99,7 @@ He had a random migraine
 She is looking at the dog.
 
 
-The bird dropped him some donuts.
+The bird dropped him some delicious donuts.
 
 
 The dog became distracted by a box of donuts left on the ground.
@@ -283,10 +283,6 @@ As Leonard hit the floor, Henry let out a bloodcurdling scream of joy.
 
 Henry doesn't like cats.
 Henry has killed every cat that he has encountered in the cosmos.
-
-Henry changed his mind.
-Henry has brought all the cats back to life.
-
 
 The end. 
 
