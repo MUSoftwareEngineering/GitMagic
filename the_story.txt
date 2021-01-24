@@ -25,7 +25,7 @@ The cat started at him
 He stared at the cat.
 
 
-The cat gave him a sly wink.
+The cat gave him a sly wink and turned away.
 
 
 It was very clear something was about to go down.
@@ -99,7 +99,7 @@ He had a random migraine
 She is looking at the dog.
 
 
-The bird dropped him some donuts.
+The bird dropped him some delicious donuts.
 
 
 The dog became distracted by a box of donuts left on the ground.
@@ -258,7 +258,9 @@ Space, The Final Froniter.
 These are the Voyages of the Star Frog, Bill.
 His Continuing Mission: To Explore Strange New Worlds,
 To Seek Out New Life and New Civilizations,
-To Boldy Go Where No Frog has Gone Before/nBill began flying through space at light speed.
+To Boldy Go Where No Frog has Gone Before
+
+Bill began flying through space at light speed.
 
 
 
@@ -293,9 +295,6 @@ Henry has killed every cat that he has encountered in the cosmos.
 But that's okay because they aren't actually cats at all,
 it seems our writer has been mistaken,
 these creatures are actually deadly shapeshifting monsters who wish to hurt other innocent life-forms.
-
-Henry changed his mind.
-Henry has brought all the cats back to life.
 
 
 The end. 
