@@ -206,6 +206,9 @@ int main(void)
 	mankbfSen1();
 	printf("\n\n");
     
+    bjc7p3_sentence1();
+    printf("\n");
+    
     bsr4xmSentence1();
     printf("\n\n");
     
@@ -234,6 +237,9 @@ int main(void)
 	cfhbvpSentence1();
 	cfhbvpSentence2();
 	printf("\n");
+    
+    bjc7p3_sentence2();
+    printf("\n\n");
 
 
 	// DO NOT ADD AFTER THIS COMMENT
