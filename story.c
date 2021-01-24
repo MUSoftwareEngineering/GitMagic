@@ -240,6 +240,11 @@ int main(void)
 	bjc7p3_sentence2();
 	printf("\n\n");
 	
+    printf("\n");
+    gms4kcSentence1();
+    gms4kcSentence2();
+    printf("\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
