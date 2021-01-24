@@ -37,7 +37,7 @@ int main(void)
 	printf("\n\n");
 	sawgzqSentence1();
 
-    jas8dzSentence1();
+    	jas8dzSentence1();
 	printf("\n\n");
 
 	printf("\n\n");
@@ -171,10 +171,10 @@ int main(void)
 	mjbn46Sentence2();
 	printf("\n\n");
 
-    jmszq6Sentence1();
-    printf("\n\n");
-    jmszq6Sentence2();
-    printf("\n\n");
+    	jmszq6Sentence1();
+    	printf("\n\n");
+    	jmszq6Sentence2();
+    	printf("\n\n");
 
 	EvanFirstSentence();
 	printf("\n\n");
@@ -193,7 +193,7 @@ int main(void)
 	tmh9gvSentence2();
 	printf("\n\n");
 
-    jas8dzSentence_FINAL();
+    	jas8dzSentence_FINAL();
 	printf("\n\n");
 	
 	drbk8vSentence1();
@@ -206,11 +206,11 @@ int main(void)
 	mankbfSen1();
 	printf("\n\n");
     
-    bjc7p3_sentence1();
-    printf("\n");
+    	bjc7p3_sentence1();
+    	printf("\n");
     
-    bsr4xmSentence1();
-    printf("\n\n");
+    	bsr4xmSentence1();
+    	printf("\n\n");
     
 	mankbfSen2();
 	printf("\n\n");
@@ -226,8 +226,8 @@ int main(void)
 	dmqnrSentence2();
 	printf("\n\n");
     
-    bsr4xmSentence2();
-    printf("\n\n");
+    	bsr4xmSentence2();
+    	printf("\n\n");
 	drbk8vSentence2();
 
 	cjbd8r_1();
@@ -236,10 +236,10 @@ int main(void)
 	printf("\n");
 	cfhbvpSentence1();
 	cfhbvpSentence2();
-	printf("\n");
+	printf("\n\n");
     
-    bjc7p3_sentence2();
-    printf("\n\n");
+    	bjc7p3_sentence2();
+    	printf("\n\n");
 
 
 	// DO NOT ADD AFTER THIS COMMENT

@@ -6,6 +6,6 @@ int bjc7p3_sentence1(){
 }
 
 int bjc7p3_sentence2(){
-    printf("But that's okay because they aren't actually cats at all,\nit seems our writer has been mistaken,\nthese creatures are actually deadly shapeshifting monsters who wish to hurt other innocent life-forms.");
+    printf("But that's okay because they aren't actually cats at all,\nit seems our writer has been mistaken,\nthese creatures are actually deadly shapeshifting monsters who wish to hurt other innocent life-forms. The last writer has since been fired, continue with the program");
     return 1;
 }
