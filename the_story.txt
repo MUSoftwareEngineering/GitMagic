@@ -295,8 +295,6 @@ As Leonard hit the floor, Henry let out a bloodcurdling scream of joy.
 Henry doesn't like cats.
 Henry has killed every cat that he has encountered in the cosmos.
 
-<<<<<<< HEAD
-=======
 But that's okay because they aren't actually cats at all,
 it seems our writer has been mistaken,
 these creatures are actually deadly shapeshifting monsters who wish to hurt other innocent life-forms.
@@ -306,7 +304,6 @@ Henry felt that they were of lesser beings.
 
 And also believed that it was his personal misson to eliminate any he encountered.
 
->>>>>>> 1cc1dfb7ef66d805e30f7c2057c0937eb85eb613
 The end. 
 
 
