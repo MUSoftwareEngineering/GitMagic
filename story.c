@@ -230,6 +230,9 @@ int main(void)
 	cfhbvpSentence2();
 	printf("\n");
 
+	sdwfkdSentence1();
+	sdwfkdSentence2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
