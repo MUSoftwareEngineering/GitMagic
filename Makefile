@@ -238,6 +238,7 @@ cgjnd7.o: sentences/cgjnd7.c
 	$(CC) -c $<
 
 cfhbvp.o: sentences/cfhbvp.c
+	$(CC) -c $<
 
 ojpgg6.o: sentences/ojpgg6.c
 	$(CC) -c $<
