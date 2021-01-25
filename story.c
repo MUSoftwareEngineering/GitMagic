@@ -207,6 +207,9 @@ int main(void)
 	cgjnd71();
 	mankbfSen1();
 	printf("\n\n");
+	
+	bjc7p3_sentence1();
+	printf("\n\n");
     
     bsr4xmSentence1();
     printf("\n\n");
@@ -238,7 +241,14 @@ int main(void)
 	printf("\n");
 	cfhbvpSentence1();
 	cfhbvpSentence2();
-	printf("\n");
+	printf("\n\n");
+
+
+	bjc7p3_sentence2();
+	printf("\n\n");
+
+	aswd62_1();
+	aswd62_2();
 
 
 	// DO NOT ADD AFTER THIS COMMENT
