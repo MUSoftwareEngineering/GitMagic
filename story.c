@@ -260,12 +260,18 @@ int main(void)
 
    printf("\n");
 
+
         printf("\n");
         spg_sentence1();
         spg_sentence2();
         printf("\n\n");
 
-	ajl3frSentence1();
+	printf("\n");
+	aidansSentence1();
+	aidansSentence2();
+	printf("\n");
+
+  ajl3frSentence1();
 	ajl3frSentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT

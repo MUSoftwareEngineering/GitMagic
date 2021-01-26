@@ -183,6 +183,9 @@ int aswd62_2();
 int sjmc5nSentence1();
 int sjmc5nSentence2();
 
+int aidansSentence1();
+int aidansSentence2();
+
 int spg_sentence1();
 int spg_sentence2();
 
