@@ -156,6 +156,9 @@ int bsr4xmSentence2();
 int cjbd8r_1();
 int cjbd8r_2();
 
+int pbczgfSentence1();
+int pbczgfSentence2();
+
 int drbk8vSentence1();
 int drbk8vSentence2();
 
@@ -165,5 +168,20 @@ int cgjnd72();
 int cfhbvpSentence1();
 int cfhbvpSentence2();
 
+int sdwfkdSentence1();
+int sdwfkdSentence2();
+
 int aagd8bSentence1();
 int aagd8bSentence2();
+
+int bjc7p3_sentence1();
+int bjc7p3_sentence2();
+
+int aswd62_1();
+int aswd62_2();
+
+int sjmc5nSentence1();
+int sjmc5nSentence2();
+
+int spg_sentence1();
+int spg_sentence2();
