@@ -112,6 +112,7 @@ int jlmg9mSentence2();
 int sa5f5Sentence1();
 int sa5f5Sentence2();
 
+
 int nszwqSentence1();
 int nszwqSentence2();
 
@@ -156,6 +157,12 @@ int cjbd8r_1();
 int cjbd8r_2();
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+int pbczgfSentence1();
+int pbczgfSentence2();
+
+>>>>>>> 31c73dd58895003a38b2bdacfc703a55000dea33
 int drbk8vSentence1();
 int drbk8vSentence2();
 
@@ -165,7 +172,19 @@ int cgjnd72();
 int cfhbvpSentence1();
 int cfhbvpSentence2();
 
+<<<<<<< HEAD
 =======
 int sdwfkdSentence1();
 int sdwfkdSentence2();
 >>>>>>> sdwfkd
+=======
+int aagd8bSentence1();
+int aagd8bSentence2();
+
+int bjc7p3_sentence1();
+int bjc7p3_sentence2();
+
+int aswd62_1();
+int aswd62_2();
+
+>>>>>>> 31c73dd58895003a38b2bdacfc703a55000dea33
