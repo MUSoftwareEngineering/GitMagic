@@ -174,6 +174,7 @@ int sdwfkdSentence2();
 int aagd8bSentence1();
 int aagd8bSentence2();
 
+<<<<<<< HEAD
 int bjc7p3_sentence1();
 int bjc7p3_sentence2();
 
@@ -185,3 +186,7 @@ int sjmc5nSentence2();
 
 int spg_sentence1();
 int spg_sentence2();
+=======
+int ajl3frSentence1();
+int ajl3frSentence2();
+>>>>>>> f2487930a642490c7eb85d0ebde108ebaa168f50
