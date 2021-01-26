@@ -253,3 +253,6 @@ gms4kc.o: sentences/gms4kc.c
 
 aswd62.o: sentences/aswd62.c
 	$(CC) -c $<
+	
+jjtncv.o: sentences/jjtncv.c
+	$(CC) -c $<
