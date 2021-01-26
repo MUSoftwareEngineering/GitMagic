@@ -191,3 +191,6 @@ int spg_sentence2();
 
 int ajl3frSentence1();
 int ajl3frSentence2();
+
+int xzzm2Sentence1();
+int xzzm2Sentence2();

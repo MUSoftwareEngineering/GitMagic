@@ -178,6 +178,9 @@ int main(void)
 
     jmszq6Sentence1();
     printf("\n\n");
+
+    	xzzm2Sentence1();
+
     jmszq6Sentence2();
     printf("\n\n");
 
@@ -239,7 +242,7 @@ int main(void)
 	cjbd8r_1();
 	cjbd8r_2();
     printf("\n");
-
+	xzzm2Sentence2();
     pbczgfSentence2();
     printf("\n");
 
