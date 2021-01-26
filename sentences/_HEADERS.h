@@ -168,6 +168,9 @@ int cgjnd72();
 int cfhbvpSentence1();
 int cfhbvpSentence2();
 
+int sdwfkdSentence1();
+int sdwfkdSentence2();
+
 int aagd8bSentence1();
 int aagd8bSentence2();
 
@@ -179,3 +182,6 @@ int aswd62_2();
 
 int sjmc5nSentence1();
 int sjmc5nSentence2();
+
+int spg_sentence1();
+int spg_sentence2();
