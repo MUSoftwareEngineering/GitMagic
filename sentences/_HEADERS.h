@@ -162,6 +162,7 @@ int pbczgfSentence2();
 int drbk8vSentence1();
 int drbk8vSentence2();
 
+<<<<<<< HEAD
 int cgjnd71();
 int cgjnd72();
 
@@ -176,4 +177,8 @@ int bjc7p3_sentence2();
 
 int aswd62_1();
 int aswd62_2();
+=======
+int sjmc5nSentence1();
+int sjmc5nSentence2();
+>>>>>>> sjmc5n
 

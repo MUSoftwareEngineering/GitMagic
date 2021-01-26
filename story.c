@@ -230,11 +230,12 @@ int main(void)
 	dmqnrSentence1();
 	dmqnrSentence2();
 	printf("\n\n");
-    
+
+    sjmc5nSentence1();
     bsr4xmSentence2();
     printf("\n\n");
 	drbk8vSentence2();
-
+	sjmc5nSentence2();
 	cjbd8r_1();
 	cjbd8r_2();
     printf("\n");
