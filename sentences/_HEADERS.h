@@ -166,7 +166,9 @@ int cgjnd71();
 int cgjnd72();
 
 int cfhbvpSentence1();
+int jjtncvSentence1();
 int cfhbvpSentence2();
+int jjtncvSentence2();
 
 int sdwfkdSentence1();
 int sdwfkdSentence2();
