@@ -257,8 +257,16 @@ int main(void)
 	sdwfkdSentence1();
 	sdwfkdSentence2();
 
+   printf("\n");
+
+        printf("\n");
+        spg_sentence1();
+        spg_sentence2();
+        printf("\n\n");
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
+
 }

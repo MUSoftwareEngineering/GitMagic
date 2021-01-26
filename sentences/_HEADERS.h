@@ -179,3 +179,6 @@ int bjc7p3_sentence2();
 
 int aswd62_1();
 int aswd62_2();
+
+int spg_sentence1();
+int spg_sentence2();
