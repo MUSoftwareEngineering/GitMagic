@@ -265,6 +265,9 @@ int main(void)
         spg_sentence2();
         printf("\n\n");
 
+	ajl3frSentence1();
+	ajl3frSentence2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

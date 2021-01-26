@@ -2,12 +2,12 @@
 
 int ajl3frSentence1()
 {
-  printf("\n\n");
+  printf("Henry was tired of seeing Tom Brady in the Superbowl and vaporized him.\n\n");
   return 1;
 }
 
 int ajl3frSentence2()
 {
-  printf("\n\n");
+  printf("Henry's vengeance knew no bounds.\n\n");
   return 1;
 }

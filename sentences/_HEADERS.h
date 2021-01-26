@@ -185,3 +185,6 @@ int sjmc5nSentence2();
 
 int spg_sentence1();
 int spg_sentence2();
+
+int ajl3frSentence1();
+int ajl3frSentence2();
