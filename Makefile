@@ -62,6 +62,7 @@ story.o: story.o bpbkt7.o tmgnnw.o
 # -----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
 tmgnnw.o: sentences/tmgnnw.c
+	$(CC) -c $ <
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
 
