@@ -9,5 +9,5 @@ int newSentence();
 int newSentenceFinal();
 int storySentence3();
 int storySentence4();
-
-
+void mattsSentence1();
+void mattsSentence2();

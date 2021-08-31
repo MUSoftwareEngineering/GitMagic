@@ -51,10 +51,11 @@ int main( void )
 	newStorySentenceFinal();
 	storySentence3();
 	storySentence4();
-		    
+	mattsSentence1();
+	mattsSentence2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();
 	printf("\n\n");
 }
-
