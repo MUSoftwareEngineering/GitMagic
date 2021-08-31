@@ -1,48 +1,18 @@
 #include <stdio.h>
 #include "sentences/_HEADERS.h"
 
-// I assume all of you know C.
-
-int storySentence1()
-{
-  printf("Once upon a time\n");
-  return 1;
-}
-
-int storySentence2()
-{
-  printf("\nThe end. \n");
-  return 1;
-}
-
-int newStorySentence()
-{
-	printf("Tottenham is top of the league\n");
-	return 1;
-}
-
-int newStorySentenceFinal() {
-	printf("The Premier League is the toughest league in England\n");
-	return 1;
-}
-
-int main( void )
-{
+int main(void) {
 	printf("\n\n");
-	storySentence1();
-	printf("\n\n");
-
-	// Add your sentence.
+	bpbkt7Sentence1();
+	
+	// Add your sentences.
 	// Don't forget to update the header file.
-	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	newStorySentence();
-	newStorySentenceFinal();
-		    
+	// vvv STUDENT WORK HERE vvv
+	dwmxn8Sentence1();
+	dwmxn8Sentence2();	
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
-	storySentence2();
+	bpbkt7Sentence2();
 	printf("\n\n");
 }
-
-
-
