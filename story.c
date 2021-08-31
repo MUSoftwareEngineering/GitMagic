@@ -26,6 +26,16 @@ int newStorySentenceFinal() {
 	return 1;
 }
 
+int ankitSentence1() {
+	printf("There once was a bear named George\n");
+	return 1;
+}
+
+int ankitSentenceFinal() {
+	printf("He came to my house and stole a loaf of bread\n");
+	return 1;
+}
+
 int main( void )
 {
 	printf("\n\n");
@@ -37,6 +47,8 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	newStorySentence();
 	newStorySentenceFinal();
+	ankitSentence1();
+	ankitSentenceFinal();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
