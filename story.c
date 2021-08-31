@@ -26,6 +26,18 @@ int newStorySentenceFinal() {
 	return 1;
 }
 
+int storySentence3()
+{
+  printf("I walked into Lafferre\n");
+  return 1;
+}
+
+int storySentence4()
+{
+  printf("And fell down the stairs\n");
+  return 1;
+}
+
 int main( void )
 {
 	printf("\n\n");
@@ -37,12 +49,12 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	newStorySentence();
 	newStorySentenceFinal();
+	storySentence3();
+	storySentence4();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();
 	printf("\n\n");
 }
-
-
 

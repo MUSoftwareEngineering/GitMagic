@@ -7,6 +7,7 @@ int storySentence2();
 // vvvvvvvvvvvvvvv  Student work goes down here
 int newSentence();
 int newSentenceFinal();
-
+int storySentence3();
+int storySentence4();
 
 
