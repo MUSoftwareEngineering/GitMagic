@@ -1,15 +1,11 @@
-# include <stdio.h>
+#include <stdio.h>
 
-
-// Function to include & execute
-int kgk2btSentenceOne()
-{
+int kgk2btSentence1() {
   printf("There was a Frog named Kermit.\n");
   return 1;
 }
 
-int kgk2btSentenceTwo()
-{
+int kgk2btSentence2() {
   printf("He was a genius Software Engineer in the Frog Kingdom. \n");
   return 1;
 }
