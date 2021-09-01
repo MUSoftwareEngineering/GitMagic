@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int newSentence1() {
-	printf("Tottenham Hotspur is top of the league\n");
+int newSentence() {
+	printf("Tottenham Hotspur is top of the Premiere League\n");
 	return 1;
 }
 

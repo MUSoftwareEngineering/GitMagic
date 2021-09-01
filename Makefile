@@ -53,7 +53,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 story: story.o bpbkt7.o tmgnnw.o
-	
+	$(CC) $^ -o story
 ##
 
 story.o: story.c 
