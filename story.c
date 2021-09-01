@@ -7,7 +7,7 @@ int storySentence1() {
 }
 
 int storySentence2() {
-  printf("\nThe end. \n");
+  printf("\nThe end.\n");
   return 1;
 }
 
