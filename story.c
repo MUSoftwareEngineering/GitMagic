@@ -1,16 +1,6 @@
 #include <stdio.h>
 #include "sentences/_HEADERS.h"
 
-int storySentence1() {
-  printf("Once upon a time\n");
-  return 1;
-}
-
-int storySentence2() {
-  printf("\nThe end.\n");
-  return 1;
-}
-
 int storySentence3() {
   printf("I walked into Lafferre\n");
   return 1;
@@ -23,7 +13,7 @@ int storySentence4() {
 
 int main(void) {
 	printf("\n\n");
-	storySentence1();
+	bpbkt7Sentence1();
 	printf("\n\n");
 
 	// Approved submissions.
@@ -46,6 +36,6 @@ int main(void) {
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
-	storySentence2();
+	bpbkt7Sentence2();
 	printf("\n\n");
 }
