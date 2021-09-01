@@ -1,7 +1,7 @@
 // DECLARE Function Symbols
 // vvv TEMPLATE vvv
-int storySentence1();
-int storySentence2();
+int bpbkt7Sentence1();
+int bpbkt7Sentence2();
 
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvv STUDENT WORK vvv
