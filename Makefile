@@ -1,4 +1,3 @@
-
 #################################################
 # Makefile format
 # target: dependencies
@@ -52,17 +51,25 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-story.o: story.c bpbkt7.o cpdkd3.o
-	$(CC) -c $^
+story: story.o bpbkt7.o tmgnnw.o nrb8qf.o kafgc2.o kgk2bt.o cpdkd3.o
+	$(CC) $^ -o story
 
 ##
 
-#story.o: story.c 
-
-
-# -----------------------------------------------
+story.o: story.c 
+	$(CC) -c $^
+# ----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
+tmgnnw.o: sentences/tmgnnw.c
+	$(CC) -c $<
 bpbkt7.o: sentences/bpbkt7.c
+	$(CC) -c $<
+nrb8qf.o: sentences/nrb8qf.c
+	$(CC) -c $<
+kafgc2.o: sentences/kafgc2.c
+	$(CC) -c $<
+kgk2bt.o: sentences/kgk2bt.c
 	$(CC) -c $<
 cpdkd3.o: sentences/cpdkd3.c
 	$(CC) -c $<
+

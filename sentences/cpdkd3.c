@@ -3,12 +3,12 @@
 
 
 int cpdkd3Sentence1(){
-	printf("\nThere lived a little dung beetle.\n");
+	printf("I never saw Noah again.\n");
 	return 1;
 }
 
 int cpdkd3Sentence2(){
-	printf("\nThe little guy went to bed.\n");
+	printf("But Kermit was afraid of the Piggy Empire.\n");
 	return 1;
 }
 
