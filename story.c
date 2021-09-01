@@ -49,7 +49,9 @@ int main( void )
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
 	jslct5Sentence2();
-
+	dhkzySentence1();
+	dhkzySentence2();
+		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();

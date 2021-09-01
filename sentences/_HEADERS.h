@@ -17,4 +17,5 @@ int kgk2btSentenceOne();
 int kgk2btSentenceTwo();
 int jslct5Sentence1();
 int jslct5Sentence2();
-
+int dhkzySentence1();
+int dhkzySentence2();
