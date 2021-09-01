@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Functions to include & execute
 int bpbkt7Sentence1() {
   printf("\nOnce upon a time,\n");
   return 1;
