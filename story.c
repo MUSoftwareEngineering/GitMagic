@@ -40,9 +40,11 @@ int main( void )
 	tmgnnwSentence();
 	tmgnnwSentence2();
 	storySentence3();
+	kafgc2Sentence1();
 	storySentence4();
 	nrb8qfSentence1();
 	nrb8qfSentence2();
+	kafgc2Sentence2();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

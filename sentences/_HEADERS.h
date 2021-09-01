@@ -11,5 +11,6 @@ int storySentence3();
 int storySentence4();
 int nrb8qfSentence1();
 int nrb8qfSentence2();
-
+int kafgc2Sentence1();
+int kafgc2Sentence2();
 
