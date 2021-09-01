@@ -13,4 +13,6 @@ int nrb8qfSentence1();
 int nrb8qfSentence2();
 int kafgc2Sentence1();
 int kafgc2Sentence2();
+int kgk2btSentenceOne();
+int kgk2btSentenceTwo();
 
