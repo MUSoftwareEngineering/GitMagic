@@ -10,4 +10,6 @@ int newSentenceFinal();
 int storySentence3();
 int storySentence4();
 
+int amdy6Sentence1();
+int amdy6Sentence2();
 

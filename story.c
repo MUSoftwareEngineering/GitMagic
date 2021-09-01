@@ -28,13 +28,13 @@ int newStorySentenceFinal() {
 
 int storySentence3()
 {
-  printf("I walked into Lafferre\n");
+  printf("\nI walked into Lafferre\n");
   return 1;
 }
 
 int storySentence4()
 {
-  printf("And fell down the stairs\n");
+  printf("\nAnd fell down the stairs\n");
   return 1;
 }
 
@@ -49,8 +49,13 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	newStorySentence();
 	newStorySentenceFinal();
+
+	printf("\n\n");
+	// amdy6 trying to fix story flow: starting here
 	storySentence3();
+	amdy6Sentence1();
 	storySentence4();
+	amdy6Sentence2();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
