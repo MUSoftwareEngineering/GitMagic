@@ -1,15 +1,11 @@
-# include <stdio.h>
+#include <stdio.h>
 
-
-// Function to include & executeA
-int sol_sentenceOne()
-{
+int sldn3fSentence1() {
   printf("I walked into Lafferre\n");
   return 1;
 }
 
-int sol_sentenceTwo()
-{
+int sldn3fsentence2() {
   printf("And fell down the stairs\n");
   return 1;
 }
