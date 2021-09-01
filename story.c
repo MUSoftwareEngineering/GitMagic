@@ -1,32 +1,22 @@
 #include <stdio.h>
 #include "sentences/_HEADERS.h"
 
-int storySentence3() {
-  printf("I walked into Lafferre\n");
-  return 1;
-}
-
-int storySentence4() {
-  printf("And fell down the stairs\n");
-  return 1;
-}
-
 int main(void) {
 	printf("\n\n");
 	bpbkt7Sentence1();
 	printf("\n\n");
 
 	// Approved submissions.
-	tmgnnwSentence();
+	tmgnnwSentence1();
 	tmgnnwSentence2();
-	storySentence3();
+	sldn3fSentence1();
 	kafgc2Sentence1();
-	storySentence4();
+	sldn3fSentence2();
 	nrb8qfSentence1();
 	nrb8qfSentence2();
 	kafgc2Sentence2();
-	kgk2btSentenceOne();
-	kgk2btSentenceTwo();
+	kgk2btSentence1();
+	kgk2btSentence2();
 
 	// Add your sentence.
 	// Don't forget to update the header file.
