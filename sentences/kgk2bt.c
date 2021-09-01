@@ -2,14 +2,14 @@
 
 
 // Function to include & execute
-int KermitSentenceOne()
+int kgk2btSentenceOne()
 {
   printf("There was a Frog named Kermit.\n");
   return 1;
 }
 
-int KermitSentenceTwo()
+int kgk2btSentenceTwo()
 {
-  printf("\nHe was a genius Software Engineer in the Frog Kingdom. \n");
+  printf("He was a genius Software Engineer in the Frog Kingdom. \n");
   return 1;
 }
