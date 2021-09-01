@@ -15,16 +15,6 @@ int storySentence2()
   return 1;
 }
 
-int newStorySentence()
-{
-	printf("Tottenham is top of the league\n");
-	return 1;
-}
-
-int newStorySentenceFinal() {
-	printf("The Premier League is the toughest league in England\n");
-	return 1;
-}
 
 int storySentence3()
 {
@@ -47,8 +37,8 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	newStorySentence();
-	newStorySentenceFinal();
+	tmgnnwSentence();
+	tmgnnwSentence2();
 	storySentence3();
 	storySentence4();
 	nrb8qfSentence1();
