@@ -2,6 +2,7 @@
 #include "sentences/_HEADERS.h"
 
 // I assume all of you know C.
+int cpdkd3Sentence1();
 
 int storySentence1()
 {
@@ -25,9 +26,9 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	chrisSentence1();
+	cpdkd3Sentence1();
 	
-	chrisSentence2();    
+	cpdkd3Sentence2();    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();

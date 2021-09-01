@@ -52,12 +52,12 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-story.o: story.o bpbkt7.o cpdkd3.o
+story.o: story.c bpbkt7.o cpdkd3.o
 	$(CC) -c $^
 
 ##
 
-story.o: story.c 
+#story.o: story.c 
 
 
 # -----------------------------------------------
