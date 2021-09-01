@@ -1,10 +1,10 @@
 // DECLARE Function Symbols
-// vvvvvvvvvvvvvvv  BASE of exercise
+// vvv TEMPLATE vvv
 int storySentence1();
 int storySentence2();
-//
+
 // DECLARE YOUR symbols here, implement them in a standalone C file
-// vvvvvvvvvvvvvvv  Student work goes down here
+// vvv STUDENT WORK vvv
 int tmgnnwSentence();
 int tmgnnwSentence2();
 int storySentence3();
