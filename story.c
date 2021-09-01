@@ -38,6 +38,7 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	tmgnnwSentence();
+	jslct5Sentence1();
 	tmgnnwSentence2();
 	storySentence3();
 	kafgc2Sentence1();
@@ -47,7 +48,8 @@ int main( void )
 	kafgc2Sentence2();
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
-		    
+	jslct5Sentence2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();

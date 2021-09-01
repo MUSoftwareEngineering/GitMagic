@@ -15,4 +15,6 @@ int kafgc2Sentence1();
 int kafgc2Sentence2();
 int kgk2btSentenceOne();
 int kgk2btSentenceTwo();
+int jslct5Sentence1();
+int jslct5Sentence2();
 
