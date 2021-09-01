@@ -15,4 +15,5 @@ int kafgc2Sentence1();
 int kafgc2Sentence2();
 int kgk2btSentenceOne();
 int kgk2btSentenceTwo();
-
+int dhkzySentence1();
+int dhkzySentence2();

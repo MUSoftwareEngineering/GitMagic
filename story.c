@@ -47,6 +47,8 @@ int main( void )
 	kafgc2Sentence2();
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
+	dhkzySentence1();
+	dhkzySentence2();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
