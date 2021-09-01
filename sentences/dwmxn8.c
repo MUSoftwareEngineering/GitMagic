@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Functions to include & execute
 int dwmxn8Sentence1() {
   printf("There was a box.\n");
   return 1;
