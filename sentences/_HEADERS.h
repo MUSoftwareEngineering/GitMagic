@@ -9,5 +9,7 @@ int newSentence();
 int newSentenceFinal();
 int storySentence3();
 int storySentence4();
+int nrb8qfSentence1();
+int nrb8qfSentence2();
 
 

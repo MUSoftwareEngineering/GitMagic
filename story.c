@@ -51,6 +51,8 @@ int main( void )
 	newStorySentenceFinal();
 	storySentence3();
 	storySentence4();
+	nrb8qfSentence1();
+	nrb8qfSentence2();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
