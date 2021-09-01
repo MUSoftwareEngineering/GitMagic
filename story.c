@@ -20,7 +20,7 @@ int main(void) {
 
 	// Add your sentence.
 	// Don't forget to update the header file.
-	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	// vvv STUDENT WORK vvv
 	dwmxn8Sentence1();
 	dwmxn8Sentence2();
 		    
