@@ -15,25 +15,17 @@ int storySentence2()
   return 1;
 }
 
-int newStorySentence()
+
+int storySentence3()
 {
-	printf("Tottenham is top of the league\n");
-	return 1;
+  printf("I walked into Lafferre\n");
+  return 1;
 }
 
-int newStorySentenceFinal() {
-	printf("The Premier League is the toughest league in England\n");
-	return 1;
-}
-
-int ankitSentence1() {
-	printf("There once was a bear named George\n");
-	return 1;
-}
-
-int ankitSentenceFinal() {
-	printf("He came to my house and stole a loaf of bread\n");
-	return 1;
+int storySentence4()
+{
+  printf("And fell down the stairs\n");
+  return 1;
 }
 
 int main( void )
@@ -45,16 +37,20 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	newStorySentence();
-	newStorySentenceFinal();
-	ankitSentence1();
-	ankitSentenceFinal();
+	tmgnnwSentence();
+	tmgnnwSentence2();
+	storySentence3();
+	kafgc2Sentence1();
+	storySentence4();
+	nrb8qfSentence1();
+	nrb8qfSentence2();
+	kafgc2Sentence2();
+	ajgmbSentence1();
+	ajgmbSentence2();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();
 	printf("\n\n");
 }
-
-
 
