@@ -9,9 +9,9 @@ int main(void) {
 	// Approved submissions.
 	tmgnnwSentence1();
 	tmgnnwSentence2();
-	sldn3fSentence1();
+	// sldn3fSentence1(); Missing from header.
 	kafgc2Sentence1();
-	sldn3fSentence2();
+	// sldn3fSentence2(); Missing from header.
 	nrb8qfSentence1();
 	nrb8qfSentence2();
 	kafgc2Sentence2();
