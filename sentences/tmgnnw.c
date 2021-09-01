@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int tmgnnwSentence() {
+int tmgnnwSentence1() {
 	printf("Tottenham Hotspur is top of the Premiere League\n");
 	return 1;
 }
