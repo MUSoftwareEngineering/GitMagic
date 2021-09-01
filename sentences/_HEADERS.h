@@ -15,4 +15,5 @@ int kafgc2Sentence1();
 int kafgc2Sentence2();
 int kgk2btSentenceOne();
 int kgk2btSentenceTwo();
-
+int dwmxn8Sentence1();
+int dwmxn8Sentence2();

@@ -47,10 +47,12 @@ int main( void )
 	kafgc2Sentence2();
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
+
+	dwmxn8Sentence1();
+	dwmxn8Sentence2();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();
 	printf("\n\n");
 }
-
