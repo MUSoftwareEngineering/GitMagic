@@ -1,0 +1,230 @@
+commit b0aaca0932f23c0251ce55bebb9dc8a8c6e9a995
+Author: Tyree Galtney <tmgnnw@umsystem.edu>
+Date:   Mon Aug 30 18:52:40 2021 -0500
+
+    Fixed Makefile
+
+ Makefile | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 025d72794fff6551ef96ab7cb93931788e4ad6f4
+Author: Tyree Galtney <tmgnnw@umsystem.edu>
+Date:   Mon Aug 30 18:43:45 2021 -0500
+
+    added pawprint.c and added sentences to story
+
+ story.exe | Bin 55934 -> 55934 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit be8c07258a3a7b2b6c8c2b5b4bb2ee79ffdf4f68
+Author: Tyree Galtney <tmgnnw@umsystem.edu>
+Date:   Sun Aug 29 17:57:37 2021 -0500
+
+    added 2 sentences under my pawprint and added to story
+
+ Makefile             |   3 ++-
+ bpbkt7.o             | Bin 980 -> 1027 bytes
+ sentences/_HEADERS.h |   3 ++-
+ sentences/tmgnnw.c   |  11 +++++++++++
+ story.c              |  15 +++++++++++++--
+ story.exe            | Bin 0 -> 55934 bytes
+ story.o              | Bin 0 -> 1647 bytes
+ tmgnnw.o             | Bin 0 -> 1088 bytes
+ 8 files changed, 28 insertions(+), 4 deletions(-)
+
+commit 76fdb7eaeb2bece058fc7f7599b73ce941c8b741
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 24 13:16:40 2021 -0500
+
+    Update README.md
+
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 10e6e147c950d30270c584931da2fecae0d9da2d
+Merge: a5777ff cbab80f
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 24 13:15:25 2021 -0500
+
+    Merge pull request #46 from MUSoftwareEngineering/lhn95
+    
+    initial
+
+commit cbab80fa29f2aba1c50ddbf037859c18231451f1
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 24 13:15:06 2021 -0500
+
+    initial
+
+ .DS_Store            | Bin 8196 -> 0 bytes
+ Makefile             |   8 ++++++--
+ aagd8b.o             | Bin 1020 -> 0 bytes
+ aswd62.o             | Bin 1072 -> 0 bytes
+ awjkcc.o             | Bin 1004 -> 0 bytes
+ bjc7p3.o             | Bin 1392 -> 0 bytes
+ bmmrmx.o             | Bin 1036 -> 0 bytes
+ bpbkt7.o             | Bin 980 -> 980 bytes
+ bsr4xm.o             | Bin 1028 -> 0 bytes
+ cfhbvp.o             | Bin 1044 -> 0 bytes
+ cgjnd7.o             | Bin 1060 -> 0 bytes
+ cjbb5f.o             | Bin 1060 -> 0 bytes
+ cjbd8r.o             | Bin 1048 -> 0 bytes
+ crsb74.o             | Bin 996 -> 0 bytes
+ dmqnr.o              | Bin 1028 -> 0 bytes
+ dpp6bk.o             | Bin 1012 -> 0 bytes
+ drbk8v.o             | Bin 1188 -> 0 bytes
+ dtanz8.o             | Bin 1044 -> 0 bytes
+ ejw3md.o             | Bin 1044 -> 0 bytes
+ emgd9h.o             | Bin 1008 -> 0 bytes
+ ghstgf.o             | Bin 1060 -> 0 bytes
+ hcntb.o              | Bin 1044 -> 0 bytes
+ hkg8b.o              | Bin 1016 -> 0 bytes
+ huhmana.o            | Bin 1028 -> 0 bytes
+ icmwx2.o             | Bin 1060 -> 0 bytes
+ jas8dz.o             | Bin 1072 -> 0 bytes
+ jawgrd.o             | Bin 1020 -> 0 bytes
+ jgt7cn.o             | Bin 1100 -> 0 bytes
+ jkmx5v.o             | Bin 1104 -> 0 bytes
+ jlmg9m.o             | Bin 1028 -> 0 bytes
+ jlmygh.o             | Bin 1004 -> 0 bytes
+ jmszq6.o             | Bin 996 -> 0 bytes
+ jtnfx.o              | Bin 1076 -> 0 bytes
+ kpwcg2.o             | Bin 1060 -> 0 bytes
+ ktmcbk.o             | Bin 996 -> 0 bytes
+ lhn95.o              | Bin 1016 -> 0 bytes
+ malkrc.o             | Bin 1140 -> 0 bytes
+ mankbf.o             | Bin 1084 -> 0 bytes
+ mbb5ym.o             | Bin 1028 -> 0 bytes
+ mjbn46.o             | Bin 1012 -> 0 bytes
+ mjwcbc.o             | Bin 1028 -> 0 bytes
+ ncth7t.o             | Bin 1028 -> 0 bytes
+ npb383.o             | Bin 1116 -> 0 bytes
+ nszwq.o              | Bin 1044 -> 0 bytes
+ ojl8q7.o             | Bin 1020 -> 0 bytes
+ partbr.o             | Bin 1020 -> 0 bytes
+ pbczgf.o             | Bin 1236 -> 0 bytes
+ pdokdf.o             | Bin 996 -> 0 bytes
+ rysgpd.o             | Bin 1036 -> 0 bytes
+ sa5f5.o              | Bin 1068 -> 0 bytes
+ sawgzq.o             | Bin 988 -> 0 bytes
+ sdwfkd.o             | Bin 1036 -> 0 bytes
+ sentences/.DS_Store  | Bin 6148 -> 6148 bytes
+ sentences/_HEADERS.h |   8 ++++----
+ smebmm.o             | Bin 1060 -> 0 bytes
+ sn4fd.o              | Bin 1016 -> 0 bytes
+ spg.o                | Bin 1120 -> 0 bytes
+ story                | Bin 12740 -> 0 bytes
+ story.c              |  23 +++++++++++++++--------
+ story.o              | Bin 1120 -> 0 bytes
+ taezkv.o             | Bin 1020 -> 0 bytes
+ tcy8v6.o             | Bin 1020 -> 0 bytes
+ the_story.txt        |   8 --------
+ tmh9gv.o             | Bin 1076 -> 0 bytes
+ wld9b.o              | Bin 1020 -> 0 bytes
+ xz9rc.o              | Bin 1008 -> 0 bytes
+ zasbdy.o             | Bin 1060 -> 0 bytes
+ zzd8h.o              | Bin 1016 -> 0 bytes
+ 68 files changed, 25 insertions(+), 22 deletions(-)
+
+commit a5777ffbb2e78a71fc01e9a56353ac980c807089
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 24 12:19:26 2021 -0500
+
+    cleaning
+
+ Makefile          |   8 --------
+ aagd8b.o          | Bin 0 -> 1020 bytes
+ aswd62.o          | Bin 0 -> 1072 bytes
+ awjkcc.o          | Bin 0 -> 1004 bytes
+ bjc7p3.o          | Bin 0 -> 1392 bytes
+ bmmrmx.o          | Bin 0 -> 1036 bytes
+ bsr4xm.o          | Bin 0 -> 1028 bytes
+ cfhbvp.o          | Bin 0 -> 1044 bytes
+ cgjnd7.o          | Bin 0 -> 1060 bytes
+ cjbb5f.o          | Bin 0 -> 1060 bytes
+ cjbd8r.o          | Bin 0 -> 1048 bytes
+ crsb74.o          | Bin 0 -> 996 bytes
+ dmqnr.o           | Bin 0 -> 1028 bytes
+ dpp6bk.o          | Bin 0 -> 1012 bytes
+ drbk8v.o          | Bin 0 -> 1188 bytes
+ dtanz8.o          | Bin 0 -> 1044 bytes
+ ejw3md.o          | Bin 0 -> 1044 bytes
+ emgd9h.o          | Bin 0 -> 1008 bytes
+ ghstgf.o          | Bin 0 -> 1060 bytes
+ hcntb.o           | Bin 0 -> 1044 bytes
+ hkg8b.o           | Bin 0 -> 1016 bytes
+ huhmana.o         | Bin 0 -> 1028 bytes
+ icmwx2.o          | Bin 0 -> 1060 bytes
+ jas8dz.o          | Bin 0 -> 1072 bytes
+ jawgrd.o          | Bin 0 -> 1020 bytes
+ jgt7cn.o          | Bin 0 -> 1100 bytes
+ jkmx5v.o          | Bin 0 -> 1104 bytes
+ jlmg9m.o          | Bin 0 -> 1028 bytes
+ jlmygh.o          | Bin 0 -> 1004 bytes
+ jmszq6.o          | Bin 0 -> 996 bytes
+ jtnfx.o           | Bin 0 -> 1076 bytes
+ kpwcg2.o          | Bin 0 -> 1060 bytes
+ ktmcbk.o          | Bin 0 -> 996 bytes
+ malkrc.o          | Bin 0 -> 1140 bytes
+ mankbf.o          | Bin 0 -> 1084 bytes
+ mbb5ym.o          | Bin 0 -> 1028 bytes
+ mjbn46.o          | Bin 0 -> 1012 bytes
+ mjwcbc.o          | Bin 0 -> 1028 bytes
+ ncth7t.o          | Bin 0 -> 1028 bytes
+ npb383.o          | Bin 0 -> 1116 bytes
+ nszwq.o           | Bin 0 -> 1044 bytes
+ ojl8q7.o          | Bin 0 -> 1020 bytes
+ partbr.o          | Bin 0 -> 1020 bytes
+ pbczgf.o          | Bin 0 -> 1236 bytes
+ pdokdf.o          | Bin 0 -> 996 bytes
+ rysgpd.o          | Bin 0 -> 1036 bytes
+ sa5f5.o           | Bin 0 -> 1068 bytes
+ sawgzq.o          | Bin 0 -> 988 bytes
+ sdwfkd.o          | Bin 0 -> 1036 bytes
+ sentences/lhn95.c |  18 ------------------
+ smebmm.o          | Bin 0 -> 1060 bytes
+ sn4fd.o           | Bin 0 -> 1016 bytes
+ spg.o             | Bin 0 -> 1120 bytes
+ taezkv.o          | Bin 0 -> 1020 bytes
+ tcy8v6.o          | Bin 0 -> 1020 bytes
+ tmh9gv.o          | Bin 0 -> 1076 bytes
+ wld9b.o           | Bin 0 -> 1020 bytes
+ xz9rc.o           | Bin 0 -> 1008 bytes
+ zasbdy.o          | Bin 0 -> 1060 bytes
+ zzd8h.o           | Bin 0 -> 1016 bytes
+ 60 files changed, 26 deletions(-)
+
+commit df61d03a12368e47897fb42b2ae86f1e3bda2e9e
+Author: Lingshu Hu <lingshu.hu@hotmail.com>
+Date:   Wed Aug 26 13:45:41 2020 -0500
+
+    two sentences completed
+
+ .DS_Store            | Bin 0 -> 8196 bytes
+ Makefile             |   5 +++--
+ bpbkt7.o             | Bin 0 -> 980 bytes
+ lhn95.o              | Bin 0 -> 1016 bytes
+ sentences/.DS_Store  | Bin 0 -> 6148 bytes
+ sentences/_HEADERS.h |   3 ++-
+ sentences/lhn95.c    |  18 ++++++++++++++++++
+ story                | Bin 0 -> 12740 bytes
+ story.c              |   6 +++++-
+ story.o              | Bin 0 -> 1120 bytes
+ the_story.txt        |   8 ++++++++
+ 11 files changed, 36 insertions(+), 4 deletions(-)
+
+commit dba8a43a7ae9eec73cf0f7c9fe00975cd7d8ff1e
+Author: Goggins, Sean Patrick <s@goggins.com>
+Date:   Tue Aug 11 14:00:19 2020 -0500
+
+    Initial commit
+
+ Github exercise_1.docx | Bin 0 -> 133730 bytes
+ Github exercise_1.pdf  | Bin 0 -> 117575 bytes
+ Makefile               |  70 +++++++++++++++++++++++++++++++++++++++++++++++++
+ README.md              |   4 +++
+ sentences/_HEADERS.h   |  10 +++++++
+ sentences/bpbkt7.c     |  18 +++++++++++++
+ story.c                |  26 ++++++++++++++++++
+ the_story.txt          |   9 +++++++
+ 8 files changed, 137 insertions(+)
