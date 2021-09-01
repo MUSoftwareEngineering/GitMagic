@@ -1,42 +1,32 @@
 #include <stdio.h>
 #include "sentences/_HEADERS.h"
 
-// I assume all of you know C.
-
-int storySentence1()
-{
+int storySentence1() {
   printf("Once upon a time\n");
   return 1;
 }
 
-int storySentence2()
-{
+int storySentence2() {
   printf("\nThe end. \n");
   return 1;
 }
 
-
-int storySentence3()
-{
+int storySentence3() {
   printf("I walked into Lafferre\n");
   return 1;
 }
 
-int storySentence4()
-{
+int storySentence4() {
   printf("And fell down the stairs\n");
   return 1;
 }
 
-int main( void )
-{
+int main(void) {
 	printf("\n\n");
 	storySentence1();
 	printf("\n\n");
 
-	// Add your sentence.
-	// Don't forget to update the header file.
-	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	// Approved submissions.
 	tmgnnwSentence();
 	tmgnnwSentence2();
 	storySentence3();
@@ -48,6 +38,9 @@ int main( void )
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
 
+	// Add your sentence.
+	// Don't forget to update the header file.
+	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	dwmxn8Sentence1();
 	dwmxn8Sentence2();
 		    
