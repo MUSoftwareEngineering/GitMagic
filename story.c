@@ -40,6 +40,7 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 
 	tmgnnwSentence();
+	jslct5Sentence1();
 	tmgnnwSentence2();
 	storySentence3();
 	kafgc2Sentence1();
@@ -47,11 +48,16 @@ int main( void )
 	nrb8qfSentence1();
 	nrb8qfSentence2();
 	kafgc2Sentence2();
-	cpdkd3Sentence1();
+    	cpdkd3Sentence1();
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
-	cpdkd3Sentence2();
-
+	jslct5Sentence2();
+    	cpdkd3Sentence2();
+	dhkzySentence1();
+	dhkzySentence2();
+	srcftSentence1();
+	srcftSentence2();
+	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();
