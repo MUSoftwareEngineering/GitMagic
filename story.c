@@ -25,7 +25,8 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	    
+	ManasSentence1();
+	ManasSentence_FINAL();    
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

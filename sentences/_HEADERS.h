@@ -2,10 +2,12 @@
 // vvvvvvvvvvvvvvv  BASE of exercise
 int storySentence1();
 int storySentence2();
+
 //
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
-
+int ManasSentence1();
+int ManasSentence_FINAL();
 
 
 
