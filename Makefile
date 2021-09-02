@@ -78,3 +78,4 @@ srcft.o: sentences/srcft.c
 	$(CC) -c $<
 nsfq94.o: sentences/nsfq94.c
 	$(CC) -c $<
+	
