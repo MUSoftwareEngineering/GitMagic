@@ -16,6 +16,18 @@ int storySentence2()
 }
 
 
+int storySentence3()
+{
+  printf("I walked into Lafferre\n");
+  return 1;
+}
+
+int storySentence4()
+{
+  printf("And fell down the stairs\n");
+  return 1;
+}
+
 int main( void )
 {
 	printf("\n\n");
@@ -25,13 +37,28 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	    
-	    
+	tmgnnwSentence();
+	jslct5Sentence1();
+	tmgnnwSentence2();
+	storySentence3();
+	kafgc2Sentence1();
+	storySentence4();
+	nrb8qfSentence1();
+	nrb8qfSentence2();
+	kafgc2Sentence2();
+    cpdkd3Sentence1();
+	kgk2btSentenceOne();
+	kgk2btSentenceTwo();
+	jslct5Sentence2();
+    cpdkd3Setence2();
+	dhkzySentence1();
+	dhkzySentence2();
+	srcftSentence1();
+	srcftSentence2();
+		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();
 	printf("\n\n");
 }
-
-
 
