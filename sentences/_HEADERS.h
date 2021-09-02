@@ -23,3 +23,5 @@ int srcftSentence1();
 int srcftSentence2();
 int nsfq94Sentence1();
 int nsfq94Sentence2();
+int jlz83Sentence1();
+int jlz83Sentence2();

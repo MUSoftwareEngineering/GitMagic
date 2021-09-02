@@ -55,7 +55,9 @@ int main( void )
 	dhkzySentence2();
 	srcftSentence1();
 	srcftSentence2();
-		    
+	jlz83Sentence1();
+	jlz83Sentence2();
+	 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();
