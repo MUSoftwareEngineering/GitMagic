@@ -32,7 +32,7 @@ int main( void )
 {
 	printf("\n\n");
 	storySentence1();
-	printf("\n\n");
+	printf("\n");
 
 	// Add your sentence.
 	// Don't forget to update the header file.
@@ -42,6 +42,7 @@ int main( void )
 	tmgnnwSentence2();
 	storySentence3();
 	kafgc2Sentence1();
+	nsfq94Sentence1();
 	storySentence4();
 	nrb8qfSentence1();
 	nrb8qfSentence2();
@@ -50,6 +51,7 @@ int main( void )
 	kgk2btSentenceTwo();
 	jslct5Sentence2();
 	dhkzySentence1();
+	nsfq94Sentence2();
 	dhkzySentence2();
 	srcftSentence1();
 	srcftSentence2();
