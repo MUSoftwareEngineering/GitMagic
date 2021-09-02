@@ -51,6 +51,8 @@ int main( void )
 	jslct5Sentence2();
 	dhkzySentence1();
 	dhkzySentence2();
+	srcftSentence1();
+	srcftSentence2();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

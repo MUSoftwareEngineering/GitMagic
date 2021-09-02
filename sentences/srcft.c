@@ -1,19 +1,13 @@
 # include <stdio.h>
 
-int snehasSentence1()
+int srcftSentence1()
 {
-	printf("Long ago, the four nations lived together in harmony.\n");
+	printf("There was also a student named Sneha.\n");
 	return 1;
 }
 
-int snehasSentence2()
+int srcftSentence2()
 {
-	printf("\nThen, everything changed when the Fire Nation attacked.\n");
-	return 1;
-}
-
-int snehasSentence_FINAL()
-{
-	printf("\nBut I believe Aang can save the world.\n");
+	printf("She was always Reddy.\n");
 	return 1;
 }
