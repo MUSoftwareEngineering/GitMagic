@@ -49,9 +49,9 @@ int main( void )
 	kafgc2Sentence2();
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
+	nsfq94Sentence2();
 	jslct5Sentence2();
 	dhkzySentence1();
-	nsfq94Sentence2();
 	dhkzySentence2();
 	srcftSentence1();
 	srcftSentence2();
