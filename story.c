@@ -15,16 +15,6 @@ int storySentence2()
   return 1;
 }
 
-int newStorySentence()
-{
-	printf("Tottenham is top of the league\n");
-	return 1;
-}
-
-int newStorySentenceFinal() {
-	printf("The Premier League is the toughest league in England\n");
-	return 1;
-}
 
 int storySentence3()
 {
@@ -47,10 +37,20 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	newStorySentence();
-	newStorySentenceFinal();
+	tmgnnwSentence();
+	jslct5Sentence1();
+	tmgnnwSentence2();
 	storySentence3();
+	kafgc2Sentence1();
 	storySentence4();
+	nrb8qfSentence1();
+	nrb8qfSentence2();
+	kafgc2Sentence2();
+	kgk2btSentenceOne();
+	kgk2btSentenceTwo();
+	jslct5Sentence2();
+	dhkzySentence1();
+	dhkzySentence2();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
