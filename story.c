@@ -38,6 +38,7 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	ManasSentence1();
+	nwewnhSentence1();
 	ManasSentence_FINAL();    
 	tmgnnwSentence();
 	jslct5Sentence1();
@@ -55,6 +56,7 @@ int main( void )
 	dhkzySentence1();
 	nsfq94Sentence2();
 	dhkzySentence2();
+	nwewnhSentence2();
 	srcftSentence1();
 	srcftSentence2();
 	rrbxcfSentence1();
@@ -66,6 +68,7 @@ int main( void )
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
+
 	storySentence2();
 	printf("\n\n");
 }

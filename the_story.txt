@@ -3,6 +3,7 @@
 Once upon a time
 
 The King used his powers to slay the serpent.
+The serpent came back to life as a friendly dog.
 The King loved his new dog.
 Tottenham Hotspur is top of the Premier League.
 However, Tottenham is a mid club and will finish near the bottom of the table ;)
@@ -20,16 +21,16 @@ Yet he had to be carried through CS3050
 One day kermit met a pirate named Monkey D. Luffy.
 An individual was told about the fortunes of the lost kingdom fabled to exist in the ruins of the old town.
 Luffy gave Kermit a Frog-Frog fruit which turned him into a frog.
+He solved many of the Frog Kingdom's problems with his ingenious software while in frog form.
 There was also a student named Sneha.
 She was always Reddy.
-<<<<<<< HEAD
 Once upon a time there was a dude named Reese
 
 That's the end of my story. 
-=======
+There was a boy whose name was Momotaro
+He was born out of a big peach
 However, she was never really ready.
 One would say, a late-y.
->>>>>>> 91146791905130bc9a106e459bc7a2bbdd327ed5
 
 The end. 
 

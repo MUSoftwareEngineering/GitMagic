@@ -32,3 +32,5 @@ int nsfq94Sentence1();
 int nsfq94Sentence2();
 int jlz83Sentence1();
 int jlz83Sentence2();
+int nwewnhSentence1();
+int nwewnhSentence2();
