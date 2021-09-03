@@ -53,6 +53,8 @@ int main( void )
 	dhkzySentence2();
 	srcftSentence1();
 	srcftSentence2();
+	rrbxcfSentence1();
+	rrbxcfSentence2();
 		    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

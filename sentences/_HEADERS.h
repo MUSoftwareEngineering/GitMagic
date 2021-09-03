@@ -21,3 +21,5 @@ int dhkzySentence1();
 int dhkzySentence2();
 int srcftSentence1();
 int srcftSentence2();
+int rrbxcfSentence1();
+int rrbxcfSentence2();
