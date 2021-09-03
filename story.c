@@ -37,6 +37,8 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	ManasSentence1();
+	ManasSentence_FINAL();    
 	tmgnnwSentence();
 	jslct5Sentence1();
 	tmgnnwSentence2();
