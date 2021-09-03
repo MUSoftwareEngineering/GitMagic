@@ -7,8 +7,8 @@ int storySentence2();
 // vvvvvvvvvvvvvvv  Student work goes down here
 int tmgnnwSentence();
 int tmgnnwSentence2();
-int storySentence3();
-int storySentence4();
+int sol_sentence1();
+int sol_sentence2();
 int nrb8qfSentence1();
 int nrb8qfSentence2();
 int kafgc2Sentence1();

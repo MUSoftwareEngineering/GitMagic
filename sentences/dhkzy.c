@@ -4,7 +4,7 @@
 // Function to include & execute
 int dhkzySentence1()
 {
-  printf("One day kermit met a pirate named Monkey D. Luffy.\n");
+  printf("One day Kermit met a pirate named Monkey D. Luffy.\n");
   return 1;
 }
 

@@ -15,19 +15,6 @@ int storySentence2()
   return 1;
 }
 
-
-int storySentence3()
-{
-  printf("I walked into Lafferre\n");
-  return 1;
-}
-
-int storySentence4()
-{
-  printf("And fell down the stairs\n");
-  return 1;
-}
-
 int main( void )
 {
 	printf("\n\n");
@@ -40,10 +27,10 @@ int main( void )
 	tmgnnwSentence();
 	jslct5Sentence1();
 	tmgnnwSentence2();
-	storySentence3();
+	sol_sentence1();
+	sol_sentence2();
 	kafgc2Sentence1();
 	nsfq94Sentence1();
-	storySentence4();
 	nrb8qfSentence1();
 	nrb8qfSentence2();
 	kafgc2Sentence2();
@@ -57,7 +44,7 @@ int main( void )
 	srcftSentence2();
 	jlz83Sentence1();
 	jlz83Sentence2();
-	 
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	storySentence2();
