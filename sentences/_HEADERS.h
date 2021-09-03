@@ -8,6 +8,23 @@ int storySentence2();
 // vvvvvvvvvvvvvvv  Student work goes down here
 int ManasSentence1();
 int ManasSentence_FINAL();
-
-
-
+int tmgnnwSentence();
+int tmgnnwSentence2();
+int storySentence3();
+int storySentence4();
+int nrb8qfSentence1();
+int nrb8qfSentence2();
+int kafgc2Sentence1();
+int kafgc2Sentence2();
+int kgk2btSentenceOne();
+int kgk2btSentenceTwo();
+int jslct5Sentence1();
+int jslct5Sentence2();
+int dhkzySentence1();
+int dhkzySentence2();
+int srcftSentence1();
+int srcftSentence2();
+int nsfq94Sentence1();
+int nsfq94Sentence2();
+int jlz83Sentence1();
+int jlz83Sentence2();

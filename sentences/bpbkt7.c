@@ -4,7 +4,7 @@
 // Function to include & executeA
 int bensSentence1()
 {
-  printf("Once upon a time\n");
+  printf("Once upon a time.\n");
   return 1;
 }
 
