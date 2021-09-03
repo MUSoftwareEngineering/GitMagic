@@ -51,7 +51,7 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-story: story.o bpbkt7.o tmgnnw.o nrb8qf.o kafgc2.o kgk2bt.o jslct5.o dhkzy.o srcft.o cpdkd3.o
+story: story.o bpbkt7.o mkcbd.o tmgnnw.o nrb8qf.o kafgc2.o kgk2bt.o jslct5.o srcft.o dhkzy.o nsfq94.o jlz83.o todhw.o rrbxcf.o nwewnh.o nst9fk.o cpdkd3.o
 	$(CC) $^ -o story
 
 ##
@@ -60,6 +60,8 @@ story.o: story.c
 	$(CC) -c $^
 # ----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
+mkcbd.o: sentences/mkcbd.c
+	$(CC) -c $<
 tmgnnw.o: sentences/tmgnnw.c
 	$(CC) -c $<
 bpbkt7.o: sentences/bpbkt7.c
@@ -77,4 +79,16 @@ jslct5.o: sentences/jslct5.c
 dhkzy.o: sentences/dhkzy.c
 	$(CC) -c $<
 srcft.o: sentences/srcft.c
+	$(CC) -c $<
+rrbxcf.o: sentences/rrbxcf.c
+	$(CC) -c $<
+todhw.o: sentences/todhw.c
+	$(CC) -c $<
+nsfq94.o: sentences/nsfq94.c
+	$(CC) -c $<
+jlz83.o: sentences/jlz83.c
+	$(CC) -c $<
+nwewnh.o: sentences/nwewnh.c
+	$(CC) -c $<
+nst9fk.o: sentences/nst9fk.c
 	$(CC) -c $<

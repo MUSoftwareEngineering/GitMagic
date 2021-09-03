@@ -1,1 +1,8 @@
+# Object Files
 *.o
+
+# Executables
+*.exe *.app
+
+# IDE Files
+*.idea *.project
