@@ -56,7 +56,9 @@ int main( void )
 	dhkzySentence1();
 	nsfq94Sentence2();
 	dhkzySentence2();
+	nst9fkSentence1();
 	nwewnhSentence2();
+	nst9fkSentence2();
 	srcftSentence1();
 	srcftSentence2();
 	rrbxcfSentence1();

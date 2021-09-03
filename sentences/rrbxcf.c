@@ -10,7 +10,7 @@ int rrbxcfSentence1()
 
 int rrbxcfSentence2()
 {
-  printf("\nThat's the end of my story. \n");
+  printf("That's the end of my story. \n");
   return 1;
 }
 

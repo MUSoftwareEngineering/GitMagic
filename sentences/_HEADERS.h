@@ -34,3 +34,5 @@ int jlz83Sentence1();
 int jlz83Sentence2();
 int nwewnhSentence1();
 int nwewnhSentence2();
+int nst9fkSentence1();
+int nst9fkSentence2();
