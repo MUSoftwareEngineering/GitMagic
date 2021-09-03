@@ -22,8 +22,14 @@ An individual was told about the fortunes of the lost kingdom fabled to exist in
 Luffy gave Kermit a Frog-Frog fruit which turned him into a frog.
 There was also a student named Sneha.
 She was always Reddy.
+<<<<<<< HEAD
+Once upon a time there was a dude named Reese
+
+That's the end of my story. 
+=======
 However, she was never really ready.
 One would say, a late-y.
+>>>>>>> 91146791905130bc9a106e459bc7a2bbdd327ed5
 
 The end. 
 

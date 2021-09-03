@@ -51,11 +51,7 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-<<<<<<< HEAD
-story: story.o bpbkt7.o tmgnnw.o nrb8qf.o kafgc2.o kgk2bt.o jslct5.o dhkzy.o srcft.o todhw.o
-=======
-story: story.o bpbkt7.o mkcbd.o tmgnnw.o nrb8qf.o kafgc2.o kgk2bt.o jslct5.o srcft.o dhkzy.o nsfq94.o jlz83.o 
->>>>>>> 3237b60b0796e183393a232c66ee92abf2e2a550
+story: story.o bpbkt7.o mkcbd.o tmgnnw.o nrb8qf.o kafgc2.o kgk2bt.o jslct5.o srcft.o dhkzy.o nsfq94.o jlz83.o todhw.o rrbxcf.o
 	$(CC) $^ -o story
 
 ##
@@ -82,13 +78,11 @@ dhkzy.o: sentences/dhkzy.c
 	$(CC) -c $<
 srcft.o: sentences/srcft.c
 	$(CC) -c $<
-<<<<<<< HEAD
+rrbxcf.o: sentences/rrbxcf.c
+	$(CC) -c $<
 todhw.o: sentences/todhw.c
 	$(CC) -c $<
-=======
 nsfq94.o: sentences/nsfq94.c
 	$(CC) -c $<
 jlz83.o: sentences/jlz83.c
 	$(CC) -c $<
-	
->>>>>>> 3237b60b0796e183393a232c66ee92abf2e2a550

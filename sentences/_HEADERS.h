@@ -24,12 +24,11 @@ int dhkzySentence1();
 int dhkzySentence2();
 int srcftSentence1();
 int srcftSentence2();
-<<<<<<< HEAD
+int rrbxcfSentence1();
+int rrbxcfSentence2();
 int todhwSentence1();
 int todhwSentence2();
-=======
 int nsfq94Sentence1();
 int nsfq94Sentence2();
 int jlz83Sentence1();
 int jlz83Sentence2();
->>>>>>> 3237b60b0796e183393a232c66ee92abf2e2a550
