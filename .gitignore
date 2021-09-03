@@ -6,3 +6,6 @@
 
 # IDE Files
 *.idea *.project
+
+# IML and XML
+*.iml *.xml
