@@ -50,7 +50,9 @@ int main( void )
 	nsfq94Sentence1();
 	storySentence4();
 	mattsSentence1();
+	tjw38tSentence1();
 	mattsSentence2();
+	tjw38tSentence2();
 	nrb8qfSentence1();
 	nrb8qfSentence2();
 	kafgc2Sentence2();
