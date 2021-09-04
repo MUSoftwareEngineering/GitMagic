@@ -56,13 +56,13 @@ int main( void )
 	nrb8qfSentence1();
 	nrb8qfSentence2();
 	kafgc2Sentence2();
-  cpdkd3Sentence1();
+  	cpdkd3Sentence1();
 	cqrqfdSentence1();
 	cqrqfdSentence2();
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
 	jslct5Sentence2();
-  cpdkd3Sentence2();
+  	cpdkd3Sentence2();
 	jmdm4rSentence1();
 	dhkzySentence1();
 	nsfq94Sentence2();
@@ -80,8 +80,10 @@ int main( void )
 	jlz83Sentence1();
 	jlz83Sentence2();
 	motc34Sentence1();
+	crwxnwSentence2();
 	motc34Sentence2();
 	caresSentence1();
+	crwxnwSentence1();
 	caresSentence_FINAL();
 	ttdghkSentence1();
 	ttdghkSentence2();
