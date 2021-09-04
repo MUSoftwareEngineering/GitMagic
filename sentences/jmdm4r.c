@@ -4,12 +4,12 @@
 // Function to include & execute
 int jmdm4rSentence1()
 {
-  printf("The princess was very beautiful\n");
+  printf("This was the day that I knew I would achieve my goal.\n");
   return 1;
 }
 
 int jmdm4rSentence2()
 {
-  printf("The dragon was very terrible.\n");
+  printf("So there I was, about to launch myself into a volcano, when the last thing I expected happened.\n");
   return 1;
 }
