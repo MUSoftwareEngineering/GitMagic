@@ -57,5 +57,6 @@ int ttdghkSentence1();
 int ttdghkSentence2();
 int sd7mySentence1();
 int sd7mySentence2();
-
+int rsb3xmySentence1();
+int rsb3xmySentence2();
 
