@@ -55,6 +55,7 @@ int crwxnwSentence1();
 int crwxnwSentence2();
 int ttdghkSentence1();
 int ttdghkSentence2();
-
+int sd7mySentence1();
+int sd7mySentence2();
 
 
