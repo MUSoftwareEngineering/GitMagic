@@ -89,7 +89,11 @@ int main( void )
 	ttdghkSentence1();
 	ttdghkSentence2();
 	jnqqqSentence2();
-
+	sd7mySentence1();
+	sd7mySentence2();
+	rsb3xSentence1();
+	rsb3xSentence2();
+	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 

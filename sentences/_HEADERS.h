@@ -57,3 +57,8 @@ int ttdghkSentence1();
 int ttdghkSentence2();
 int jnqqqSentence1();
 int jnqqqSentence2();
+int sd7mySentence1();
+int sd7mySentence2();
+int rsb3xSentence1();
+int rsb3xSentence2();
+

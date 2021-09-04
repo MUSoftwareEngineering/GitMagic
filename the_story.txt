@@ -51,7 +51,12 @@ His favorite color was chartreuse.
 He liked to drink a lot of juice.
 The moose's name was Fred.
 He liked to drink his juice in bed.
+<<<<<<< HEAD
 Or so it has been said.
+=======
+Fred was walking home on a bit og a gloomy day.
+When he turned the corner, he suddenly saw what a lake of juice - his favorite, too.
+>>>>>>> 6a44feefc4b1e09660079aa87fc42e03991db038
 
 The end. 
 
