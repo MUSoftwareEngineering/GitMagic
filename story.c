@@ -57,12 +57,14 @@ int main( void )
 	kgk2btSentenceTwo();
 	jslct5Sentence2();
     cpdkd3Sentence2();
+	jmdm4rSentence1();
 	dhkzySentence1();
 	nsfq94Sentence2();
 	dhkzySentence2();
 	nst9fkSentence1();
 	nwewnhSentence2();
 	nst9fkSentence2();
+	jmdm4rSentence2();
 	srcftSentence1();
 	srcftSentence2();
 	rrbxcfSentence1();
@@ -73,8 +75,6 @@ int main( void )
 	jlz83Sentence2();
 	motc34Sentence1();
 	motc34Sentence2();
-	jmdm4rSentence1();
-	jmdm4rSentence2();
 	
 
 	// DO NOT ADD AFTER THIS COMMENT
