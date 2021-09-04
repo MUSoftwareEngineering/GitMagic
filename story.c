@@ -87,6 +87,8 @@ int main( void )
 	caresSentence_FINAL();
 	ttdghkSentence1();
 	ttdghkSentence2();
+	sd7mySentence1();
+	sd7mySentence2();
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
