@@ -1,2 +1,11 @@
+# Object Files
 *.o
-*.exe
+
+# Executables
+*.exe *.app
+
+# IDE Files
+*.idea *.project
+
+# IML and XML
+*.iml *.xml

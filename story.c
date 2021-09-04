@@ -2,6 +2,7 @@
 #include "sentences/_HEADERS.h"
 
 // I assume all of you know C.
+int cpdkd3Sentence1();
 
 int storySentence1()
 {
@@ -37,9 +38,10 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+
 	ManasSentence1();
 	nwewnhSentence1();
-	ManasSentence_FINAL();    
+	ManasSentence_FINAL();
 	tmgnnwSentence();
 	jslct5Sentence1();
 	tmgnnwSentence2();
@@ -50,9 +52,11 @@ int main( void )
 	nrb8qfSentence1();
 	nrb8qfSentence2();
 	kafgc2Sentence2();
+    cpdkd3Sentence1();
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
 	jslct5Sentence2();
+    cpdkd3Sentence2();
 	dhkzySentence1();
 	nsfq94Sentence2();
 	dhkzySentence2();
