@@ -2,7 +2,7 @@
 
 int sd7mySentence1()
 {
-    printf("Fred was walking home on a bit og a gloomy day.\n");
+    printf("Fred was walking home on a bit of a gloomy day.\n");
     return 1;
 }
 
