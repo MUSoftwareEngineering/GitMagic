@@ -52,8 +52,13 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
+<<<<<<< Updated upstream
 story.o: story.o bpbkt7.o 
 	$(CC) -c $^
+=======
+story: story.o bpbkt7.o mkcbd.o tmgnnw.o nrb8qf.o kafgc2.o kgk2bt.o jslct5.o srcft.o dhkzy.o nsfq94.o jlz83.o todhw.o rrbxcf.o nwewnh.o nst9fk.o motc34.o cpdkd3.o cdsccc.o
+	$(CC) $^ -o story
+>>>>>>> Stashed changes
 
 ##
 
@@ -63,5 +68,38 @@ story.o: story.o bpbkt7.o
 #pawprint.o -  where is your .c derived object file - where is your file
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
+<<<<<<< Updated upstream
 
 
+=======
+nrb8qf.o: sentences/nrb8qf.c
+	$(CC) -c $<
+kafgc2.o: sentences/kafgc2.c
+	$(CC) -c $<
+kgk2bt.o: sentences/kgk2bt.c
+	$(CC) -c $<
+cpdkd3.o: sentences/cpdkd3.c
+	$(CC) -c $<
+jslct5.o: sentences/jslct5.c
+	$(CC) -c $<
+dhkzy.o: sentences/dhkzy.c
+	$(CC) -c $<
+srcft.o: sentences/srcft.c
+	$(CC) -c $<
+rrbxcf.o: sentences/rrbxcf.c
+	$(CC) -c $<
+todhw.o: sentences/todhw.c
+	$(CC) -c $<
+nsfq94.o: sentences/nsfq94.c
+	$(CC) -c $<
+jlz83.o: sentences/jlz83.c
+	$(CC) -c $<
+nwewnh.o: sentences/nwewnh.c
+	$(CC) -c $<
+nst9fk.o: sentences/nst9fk.c
+	$(CC) -c $<
+motc34.o: sentences/motc34.c
+	$(CC) -c $<
+cdsccc.o: sentences/cdsccc.c
+	$(CC) -c $<
+>>>>>>> Stashed changes
