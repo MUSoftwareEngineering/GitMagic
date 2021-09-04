@@ -49,6 +49,8 @@ int mattsSentence1();
 int mattsSentence2();
 int caresSentence1();
 int caresSentence_FINAL();
+int tjw38tSentence1();
+int tjw38tSentence2();
 
 
 
