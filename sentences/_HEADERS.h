@@ -47,3 +47,8 @@ int cqrqfdSentence1();
 int cqrqfdSentence2();
 int mattsSentence1();
 int mattsSentence2();
+int caresSentence1();
+int caresSentence_FINAL();
+
+
+

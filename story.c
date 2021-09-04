@@ -79,8 +79,9 @@ int main( void )
 	jlz83Sentence2();
 	motc34Sentence1();
 	motc34Sentence2();
-	
-
+	caresSentence1();
+	caresSentence_FINAL();
+	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 
