@@ -83,6 +83,8 @@ int main( void )
 	motc34Sentence2();
 	caresSentence1();
 	caresSentence_FINAL();
+	ttdghkSentence1();
+	ttdghkSentence2();
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
