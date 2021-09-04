@@ -39,3 +39,5 @@ int nwewnhSentence1();
 int nwewnhSentence2();
 int nst9fkSentence1();
 int nst9fkSentence2();
+int motc34Sentence1();
+int motc34Sentence2();
