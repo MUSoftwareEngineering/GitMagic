@@ -43,3 +43,5 @@ int motc34Sentence1();
 int motc34Sentence2();
 int jmdm4rSentence1();
 int jmdm4rSentence2();
+int cqrqfdSentence1();
+int cqrqfdSentence2();

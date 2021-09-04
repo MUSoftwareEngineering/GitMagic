@@ -53,6 +53,8 @@ int main( void )
 	nrb8qfSentence2();
 	kafgc2Sentence2();
     cpdkd3Sentence1();
+	cqrqfdSentence1();
+	cqrqfdSentence2();
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
 	jslct5Sentence2();
