@@ -51,6 +51,7 @@ int caresSentence1();
 int caresSentence_FINAL();
 int tjw38tSentence1();
 int tjw38tSentence2();
-
+int crwxnwSentence1();
+int crwxnwSentence2();
 
 
