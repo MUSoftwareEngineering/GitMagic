@@ -53,5 +53,8 @@ int tjw38tSentence1();
 int tjw38tSentence2();
 int crwxnwSentence1();
 int crwxnwSentence2();
+int ttdghkSentence1();
+int ttdghkSentence2();
+
 
 

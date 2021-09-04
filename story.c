@@ -85,6 +85,8 @@ int main( void )
 	caresSentence1();
 	crwxnwSentence1();
 	caresSentence_FINAL();
+	ttdghkSentence1();
+	ttdghkSentence2();
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
