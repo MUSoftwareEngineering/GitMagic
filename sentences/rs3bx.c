@@ -1,4 +1,4 @@
-# include<st.dio>
+# include<stdio.h>
 int rsb3xSentence1()
 {
   printf("Not only was it just a lake of juice but a lake full of cereal fish");
