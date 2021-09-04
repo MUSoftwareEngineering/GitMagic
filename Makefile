@@ -110,3 +110,5 @@ ttdghk.o: sentences/ttdghk.c
 	$(CC) -c $<
 sd7my.o: sentences/sd7my.c
 	$(CC) -c $<
+rsb3x.o: sentences/rsb3x.c
+	$(CC) -c $<
