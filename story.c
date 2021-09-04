@@ -39,6 +39,7 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 
+	jnqqqSentence1();
 	ManasSentence1();
 	nwewnhSentence1();
 	ManasSentence_FINAL();
@@ -87,7 +88,8 @@ int main( void )
 	caresSentence_FINAL();
 	ttdghkSentence1();
 	ttdghkSentence2();
-	    
+	jnqqqSentence2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 
