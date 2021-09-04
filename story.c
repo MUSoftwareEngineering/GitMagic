@@ -77,6 +77,8 @@ int main( void )
 	jlz83Sentence2();
 	motc34Sentence1();
 	motc34Sentence2();
+	rpbmqdSentence1();
+	rpbmqdSentence2();
 	
 
 	// DO NOT ADD AFTER THIS COMMENT

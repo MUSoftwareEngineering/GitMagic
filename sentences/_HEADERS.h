@@ -45,3 +45,5 @@ int jmdm4rSentence1();
 int jmdm4rSentence2();
 int cqrqfdSentence1();
 int cqrqfdSentence2();
+int rpbmqdSentence1();
+int rpbmqdSentence2();
