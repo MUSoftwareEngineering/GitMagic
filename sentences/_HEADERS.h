@@ -61,4 +61,6 @@ int sd7mySentence1();
 int sd7mySentence2();
 int rsb3xSentence1();
 int rsb3xSentence2();
+int jts9z8Sentence1();
+int jts9z8Sentence2();
 
