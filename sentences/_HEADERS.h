@@ -63,4 +63,5 @@ int rsb3xSentence1();
 int rsb3xSentence2();
 int jts9z8Sentence1();
 int jts9z8Sentence2();
-
+int gatxmrSentence1();
+int gatxmrSentence2();
