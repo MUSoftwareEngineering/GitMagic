@@ -63,6 +63,8 @@ int rsb3xSentence1();
 int rsb3xSentence2();
 int jts9z8Sentence1();
 int jts9z8Sentence2();
+int gatxmrSentence1();
+int gatxmrSentence2();
 int yy9p4Sentence1();
 int yy9p4Sentence2();
 int aahb8fSentence1();
