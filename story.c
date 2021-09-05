@@ -97,7 +97,9 @@ int main( void )
 	jts9z8Sentence1();
 	yy9p4Sentence1();
 	yy9p4Sentence2();
-	    
+  aahb8fSentence1();
+  aahb8fSentence2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 
