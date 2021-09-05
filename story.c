@@ -88,11 +88,13 @@ int main( void )
 	caresSentence_FINAL();
 	ttdghkSentence1();
 	ttdghkSentence2();
+	jts9z8Sentence2();
 	jnqqqSentence2();
 	sd7mySentence1();
 	sd7mySentence2();
 	rsb3xSentence1();
 	rsb3xSentence2();
+	jts9z8Sentence1();
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
