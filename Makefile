@@ -116,3 +116,5 @@ rsb3x.o: sentences/rsb3x.c
 	$(CC) -c $<
 jts9z8.o: sentences/jts9z8.c
 	$(CC) -c $<
+yy9p4.o: sentences/yy9p4.c
+	$(CC) -c $<

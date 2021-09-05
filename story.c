@@ -95,6 +95,8 @@ int main( void )
 	rsb3xSentence1();
 	rsb3xSentence2();
 	jts9z8Sentence1();
+	yy9p4Sentence1();
+	yy9p4Sentence2();
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
