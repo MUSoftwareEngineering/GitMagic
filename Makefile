@@ -65,5 +65,3 @@ tmgnnw.o: sentences/tmgnnw.c
 	$(CC) -c $ <
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
-
-
