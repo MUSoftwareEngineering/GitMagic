@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-int newSentence1() {
-	printf("Tottenham Hotspur is top of the league\n");
+int tmgnnwSentence() {
+	printf("Tottenham Hotspur is top of the Premier League.\n");
 	return 1;
 }
 
-int newSentenceFinal() {
-	printf("The Premiere League is the toughest league in England\n");
+int tmgnnwSentence2() {
+	printf("The Premier League is the toughest league in England.\n");
 	return 1;
 }
