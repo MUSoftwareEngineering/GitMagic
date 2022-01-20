@@ -99,8 +99,10 @@ int main( void )
 	gatxmrSentence2();	
 	yy9p4Sentence1();
 	yy9p4Sentence2();
-  aahb8fSentence1();
-  aahb8fSentence2();
+  	aahb8fSentence1();
+	aahb8fSentence2();
+	akyvvSentence1();
+	akyvvSentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
