@@ -61,10 +61,10 @@ story.o: story.c
 # ----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
 
-
+bpbkt7.o: sentences/bpbkt7.c
+	$(CC) -c $<
 bebz4t.o: sentences/bebz4t.c
 	$(CC) -c $<
-	
 zwsx9f.o: sentences/zwsx9f.c
 	$(CC) -c $<
 #story.o: story.c 
