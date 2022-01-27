@@ -40,12 +40,12 @@ int main( void )
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 
 	zwsx9fSentence1();
-
+	tashaSentence1();
 
 
 
 	zwsx9fSentence2();
-
+	tashaSentence2();
 	// Bens sentence should be last.
 
 	storySentence2();
