@@ -43,7 +43,7 @@ int main( void )
 
 
 
-	zwsx9fSentence2();
+	tashaSentence2();
 	// Bens sentence should be last.
 
 	storySentence2();
