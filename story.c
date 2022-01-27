@@ -37,7 +37,7 @@ int main( void )
 
 	// Add your sentence.
 	// Don't forget to update the header file.
-	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	// STUDENT WORK HERE
 	bebz4tSentence1();
 	dmmdnrSentence1();
 	zwsx9fSentence1();

@@ -63,7 +63,7 @@ story.o: story.c
 
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
-
+	
 bebz4t.o: sentences/bebz4t.c
 	$(CC) -c $<
 	
