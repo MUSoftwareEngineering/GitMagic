@@ -38,7 +38,8 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-
+	bebz4tSentence1();
+	bebz4tSentence2();
 	// Bens sentence should be last.
 
 	storySentence2();

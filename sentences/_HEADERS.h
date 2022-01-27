@@ -7,3 +7,5 @@ int storySentence2();
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
 
+int bebz4tSentence1();
+int bebz4tSentence2();
