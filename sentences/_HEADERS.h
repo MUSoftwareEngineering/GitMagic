@@ -13,3 +13,5 @@ int zwsx9fSentence1();
 int zwsx9fSentence2();
 int dmmdnrSentence1();
 int dmmdnrSentence2();
+int qpty9tSentence1();
+int qpty9tSentence2();
