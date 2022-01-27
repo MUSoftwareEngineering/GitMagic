@@ -9,3 +9,5 @@ int storySentence2();
 
 int bebz4tSentence1();
 int bebz4tSentence2();
+int zwsx9fSentence1();
+int zwsx9fSentence2();

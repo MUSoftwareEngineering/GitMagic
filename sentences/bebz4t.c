@@ -10,6 +10,6 @@ int bebz4tSentence1()
 
 int bebz4tSentence2()
 {
-  printf("\nI got a coffee from potential energy. \n");
+  printf("\nThey where bold and returning. \n");
   return 1;
 }

@@ -39,7 +39,10 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	bebz4tSentence1();
+	zwsx9fSentence1();
 	bebz4tSentence2();
+	zwsx9fSentence2();
+
 	// Bens sentence should be last.
 
 	storySentence2();
