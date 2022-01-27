@@ -10,6 +10,6 @@ int dmmdnrSentence1()
 
 int dmmdnrSentence2()
 {
-  printf("They enjoyed their night thoroughly, know they would be given their next quest in the morning.\n");
+  printf("They enjoyed their night thoroughly, knowing they would be given their next quest in the morning.\n");
   return 1;
 }
