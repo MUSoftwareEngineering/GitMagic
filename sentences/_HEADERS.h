@@ -7,6 +7,8 @@ int storySentence2();
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
 
+int jmchpdSentence1();
+int jmchpdSentence2();
 int ManasSentence1();
 int ManasSentence_FINAL();
 int tmgnnwSentence();

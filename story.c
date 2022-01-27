@@ -2,7 +2,6 @@
 #include "sentences/_HEADERS.h"
 
 // I assume all of you know C.
-int cpdkd3Sentence1();
 
 int storySentence1()
 {
@@ -59,6 +58,7 @@ int main( void )
 	kafgc2Sentence2();
   cpdkd3Sentence1();
 	cqrqfdSentence1();
+    jmchpdSentence1();
 	cqrqfdSentence2();
 	kgk2btSentenceOne();
 	kgk2btSentenceTwo();
@@ -66,6 +66,7 @@ int main( void )
   cpdkd3Sentence2();
 	jmdm4rSentence1();
 	dhkzySentence1();
+    jmchpdSentence2();
 	nsfq94Sentence2();
 	dhkzySentence2();
 	nst9fkSentence1();
