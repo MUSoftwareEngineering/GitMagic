@@ -43,9 +43,12 @@ int main( void )
 	zwsx9fSentence1();
 	bebz4tSentence2();
 	zwsx9fSentence2();
+    jmchpdSentence2();
 	dmmdnrSentence2();
+    jmchpdSentence1();
 	qpty9tSentence1();
 	qpty9tSentence2();
+
 	// Bens sentence should be last.
 
 	storySentence2();
