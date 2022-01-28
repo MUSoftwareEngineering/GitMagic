@@ -64,6 +64,8 @@ int main( void )
 	rkg7ggSentence2();
 	cejnfpSentence1();
 	cejnfpSentence2();
+	cytbmSentence1();
+	cytbmSentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();

@@ -35,3 +35,5 @@ int rkg7ggSentence1();
 int rkg7ggSentence2();
 int cejnfpSentence1();
 int cejnfpSentence2();
+int cytbmSentence1();
+int cytbmSentence2();
