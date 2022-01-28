@@ -51,7 +51,7 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o nrmb9r.o hgc8zc.o
+story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o nrmb9r.o hgc8zc.o rkg7gg.o
 	$(CC) $^ -o story
 
 ##
@@ -99,6 +99,8 @@ nrmb9r.o: sentences/nrmb9r.c
 hgc8zc.0: sentences/hgc8zc.c
 	$(CC) -c $<
 	
+rkg7gg.o: sentences/rkg7gg.c
+	$(CC) -c $<
 #story.o: story.c 
 
 

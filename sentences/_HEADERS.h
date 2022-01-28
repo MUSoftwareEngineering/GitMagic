@@ -31,3 +31,5 @@ int nrmb9rSentence1();
 int nrmb9rSentence2();
 int hgc8zcSentence1();
 int hgc8zcSentence2();
+int rkg7ggSentence1();
+int rkg7ggSentence2();

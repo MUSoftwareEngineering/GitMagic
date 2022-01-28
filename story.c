@@ -60,7 +60,9 @@ int main( void )
 	rjkncdSentence2();
 	nrmb9rSentence1();
 	nrmb9rSentence2();
-	// Bens sentence should be last.
+	rkg7ggSentence1();
+	rkg7ggSentence2();
+	// Ben's sentence should be last.
 
 	storySentence2();
 	printf("\n\n");
