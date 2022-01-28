@@ -51,7 +51,7 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-story: story.o bpbkt7.o mkcbd.o tmgnnw.o nrb8qf.o kafgc2.o kgk2bt.o jslct5.o srcft.o dhkzy.o nsfq94.o crwxnw.o jlz83.o todhw.o rrbxcf.o nwewnh.o nst9fk.o motc34.o cpdkd3.o jmdm4r.o cqrqfd.o mdhtf3.o cslgbt.o tjw38t.o ttdghk.o sd7my.o rsb3x.o jnqqq.o jts9z8.o gatxmr.o yy9p4.o aahb8f.o 
+story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o
 	$(CC) $^ -o story
 
 ##
@@ -60,80 +60,28 @@ story.o: story.c
 	$(CC) -c $^
 # ----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
-mkcbd.o: sentences/mkcbd.c
-	$(CC) -c $<
-tmgnnw.o: sentences/tmgnnw.c
-	$(CC) -c $<
+
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
-nrb8qf.o: sentences/nrb8qf.c
-	$(CC) -c $<
-kafgc2.o: sentences/kafgc2.c
-	$(CC) -c $<
-kgk2bt.o: sentences/kgk2bt.c
-	$(CC) -c $<
-cpdkd3.o: sentences/cpdkd3.c
-	$(CC) -c $<
-jslct5.o: sentences/jslct5.c
-	$(CC) -c $<
-dhkzy.o: sentences/dhkzy.c
-	$(CC) -c $<
-srcft.o: sentences/srcft.c
-	$(CC) -c $<
-rrbxcf.o: sentences/rrbxcf.c
-	$(CC) -c $<
-todhw.o: sentences/todhw.c
-	$(CC) -c $<
-nsfq94.o: sentences/nsfq94.c
-	$(CC) -c $<
-jlz83.o: sentences/jlz83.c
-	$(CC) -c $<
-nwewnh.o: sentences/nwewnh.c
-	$(CC) -c $<
-nst9fk.o: sentences/nst9fk.c
-	$(CC) -c $<
-motc34.o: sentences/motc34.c
-	$(CC) -c $<
-jmdm4r.o: sentences/jmdm4r.c
-	$(CC) -c $<
-cqrqfd.o: sentences/cqrqfd.c
-	$(CC) -c $<
-mdhtf3.o: sentences/mdhtf3.c
-	$(CC) -c $<
-cslgbt.o: sentences/cslgbt.c
-	$(CC) -c $<
-tjw38t.o: sentences/tjw38t.c
-	$(CC) -c $<
-crwxnw.o: sentences/crwxnw.c
-	$(CC) -c $<
-ttdghk.o: sentences/ttdghk.c
-	$(CC) -c $<
-jnqqq.o: sentences/jnqqq.c
-	$(CC) -c $<
-sd7my.o: sentences/sd7my.c
-	$(CC) -c $<
-rsb3x.o: sentences/rsb3x.c
-	$(CC) -c $<
-jts9z8.o: sentences/jts9z8.c
-	$(CC) -c $<
-gatxmr.o: sentences/gatxmr.c
-	$(CC) -c $<
-yy9p4.o: sentences/yy9p4.c
-	$(CC) -c $<
-aahb8f.o: sentences/aahb8f.c
-	$(CC) -c $<
-
 	
-story.o: story.o bpbkt7.o tmgnnw.o
+bebz4t.o: sentences/bebz4t.c
+	$(CC) -c $<
+	
+zwsx9f.o: sentences/zwsx9f.c
+	$(CC) -c $<
+dmmdnr.o: sentences/dmmdnr.c
 	$(CC) -c $<
 
-##
+qpty9t.o: sentences/qpty9t.c
+	$(CC) -c $<
+	
+jmchpd.o: sentences/jmchpd.c
+	$(CC) -c $<
+	
+amz28.o: sentences/amz28.c
+	$(CC) -c $<
 
+rbhmm5.o: sentences/rbhmm5.c
+	$(CC) -c $<
+	
 #story.o: story.c 
-
-# -----------------------------------------------
-#pawprint.o -  where is your .c derived object file - where is your file
-tmgnnw.o: sentences/tmgnnw.c
-	$(CC) -c $<
-bpbkt7.o: sentences/bpbkt7.c
-	$(CC) -c $<
