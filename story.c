@@ -45,6 +45,7 @@ int main( void )
 	bebz4tSentence2();
 	zwsx9fSentence2();
     jmchpdSentence2();
+	jee9pvSentence1();
 	dmmdnrSentence2();
     jmchpdSentence1();
 	qpty9tSentence1();
@@ -54,6 +55,7 @@ int main( void )
 	rbhmm5Sentence2();
     esdnk7Sentence1();
     esdnk7Sentence2();
+	jee9pvSentence2();
 
 	// Bens sentence should be last.
 

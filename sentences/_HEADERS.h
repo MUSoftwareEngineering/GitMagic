@@ -23,3 +23,5 @@ int rbhmm5Sentence1();
 int rbhmm5Sentence2();
 int esdnk7Sentence1();
 int esdnk7Sentence2();
+int jee9pvSentence1();
+int jee9pvSentence2();
