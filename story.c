@@ -50,6 +50,8 @@ int main( void )
 	qpty9tSentence1();
 	qpty9tSentence2();
     amz28Sentence2();
+	rbhmm5Sentence1();
+	rbhmm5Sentence2();
 
 	// Bens sentence should be last.
 
