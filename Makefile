@@ -85,5 +85,3 @@ rbhmm5.o: sentences/rbhmm5.c
 	$(CC) -c $<
 	
 #story.o: story.c 
-
-
