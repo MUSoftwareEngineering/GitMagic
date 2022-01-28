@@ -96,7 +96,7 @@ rjkncd.o: sentences/rjkncd.c
 nrmb9r.o: sentences/nrmb9r.c
 	$(CC) -c $<
 
-hgc8zc.0: sentences/hgc8zc.c
+hgc8zc.o: sentences/hgc8zc.c
 	$(CC) -c $<
 	
 rkg7gg.o: sentences/rkg7gg.c
