@@ -17,5 +17,3 @@ int qpty9tSentence1();
 int qpty9tSentence2();
 int jmchpdSentence1();
 int jmchpdSentence2();
-int amz28Sentence1();
-int amz28Sentence2();

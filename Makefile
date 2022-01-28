@@ -77,10 +77,6 @@ qpty9t.o: sentences/qpty9t.c
 	
 jmchpd.o: sentences/jmchpd.c
 	$(CC) -c $<
-	
-amz28.o: sentences/amz28.c
-	$(CC) -c $<
-	
 #story.o: story.c 
 
 
