@@ -58,7 +58,8 @@ int main( void )
 	rjkncdSentence1();
 	jee9pvSentence2();
 	rjkncdSentence2();
-
+	nrmb9rSentence1();
+	nrmb9rSentence2();
 	// Bens sentence should be last.
 
 	storySentence2();
