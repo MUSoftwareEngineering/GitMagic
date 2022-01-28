@@ -19,3 +19,5 @@ int jmchpdSentence1();
 int jmchpdSentence2();
 int amz28Sentence1();
 int amz28Sentence2();
+int hgc8zcSentence1();
+int hgc8zcSentence2();
