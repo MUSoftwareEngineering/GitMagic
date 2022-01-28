@@ -55,7 +55,9 @@ int main( void )
 	rbhmm5Sentence2();
     esdnk7Sentence1();
     esdnk7Sentence2();
+	rjkncdSentence1();
 	jee9pvSentence2();
+	rjkncdSentence2();
 
 	// Bens sentence should be last.
 

@@ -25,3 +25,5 @@ int esdnk7Sentence1();
 int esdnk7Sentence2();
 int jee9pvSentence1();
 int jee9pvSentence2();
+int rjkncdSentence1();
+int rjkncdSentence2();
