@@ -5,7 +5,10 @@
 *.exe *.app
 
 # IDE Files
-*.idea *.project
+*.idea *.project *.vscode
 
 # IML and XML
 *.iml *.xml
+
+# Mac
+.DS_Store
