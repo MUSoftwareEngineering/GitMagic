@@ -37,3 +37,5 @@ int cejnfpSentence1();
 int cejnfpSentence2();
 int cytbmSentence1();
 int cytbmSentence2();
+int kjkvfwSentence1();
+int kjkvfwSentence2();
