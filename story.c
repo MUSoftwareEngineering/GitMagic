@@ -62,7 +62,9 @@ int main( void )
 	nrmb9rSentence2();
 	rkg7ggSentence1();
 	rkg7ggSentence2();
+	mnygpSentence1();
 	cejnfpSentence1();
+	mnygpSentence2();
 	edmqgcSentence1();
 	cejnfpSentence2();
 	edmqgcSentence2();

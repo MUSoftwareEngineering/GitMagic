@@ -43,3 +43,5 @@ int edmqgcSentence1();
 int edmqgcSentence2();
 int rdcr2nSentence1();
 int rdcr2nSentence2();
+int mnygpSentence1();
+int mnygpSentence2();
