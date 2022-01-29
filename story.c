@@ -70,6 +70,8 @@ int main( void )
 	cytbmSentence2();
 	kjkvfwSentence1();
 	kjkvfwSentence2();
+	rdcr2nSentence1();
+	rdcr2nSentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();

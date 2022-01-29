@@ -41,3 +41,5 @@ int kjkvfwSentence1();
 int kjkvfwSentence2();
 int edmqgcSentence1();
 int edmqgcSentence2();
+int rdcr2nSentence1();
+int rdcr2nSentence2();
