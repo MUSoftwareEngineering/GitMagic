@@ -60,8 +60,10 @@ int main( void )
 	rjkncdSentence2();
 	nrmb9rSentence1();
 	nrmb9rSentence2();
+    jdhvdySentence1();
 	rkg7ggSentence1();
 	rkg7ggSentence2();
+    jdhvdySentence2();
 	mnygpSentence1();
 	cejnfpSentence1();
 	mnygpSentence2();

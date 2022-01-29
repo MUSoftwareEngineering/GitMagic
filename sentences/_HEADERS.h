@@ -51,3 +51,5 @@ int rdcb2fSentence1();
 int rdcb2fSentence2();
 int sjmkxwSentence1();
 int sjmkxwSentence2();
+int jdhvdySentence1();
+int jdhvdySentence2();
