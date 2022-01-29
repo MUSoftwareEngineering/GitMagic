@@ -85,13 +85,18 @@ int main( void )
 	aspg84Sentence1();
 	erikasSentence2();
 	rdcb2fSentence2();
-	tmdbq2Sentence1(); //Tyler Dunaway
+	tmdbq2Sentence1();
 	tmdbq2Sentence2();
-    cmm5b7Sentence1();
+	cmm5b7Sentence1();
     cmm5b7Sentence2();
+	iisbbqSentence1();
 	erikasSentence3();
 	aspg84Sentence2();
-	// Bens sentence should be last.
+	amb5cbSentence1();
+	amb5cbSentence2();
+	iisbbqSentence2();
+	iisbbqSentence3();
+	// Ben's sentence should be last.
 
 	storySentence2();
 	printf("\n\n");

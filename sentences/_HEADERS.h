@@ -62,3 +62,8 @@ int cmm5b7Sentence1();
 int cmm5b7Sentence2();
 int aspg84Sentence1();
 int aspg84Sentence2();
+int iisbbqSentence1();
+int iisbbqSentence2();
+int iisbbqSentence3();
+int amb5cbSentence1();
+int amb5cbSentence2();
