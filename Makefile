@@ -119,6 +119,10 @@ rdcr2n.o: sentences/rdcr2n.c
 
 mnygp.o: sentences/mnygp.c
 	$(CC) -c $<
+
+jwskzh.o: sentences/jwskzh.c
+	$(CC) -c $<
+
 #story.o: story.c 
 
 

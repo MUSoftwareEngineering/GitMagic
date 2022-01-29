@@ -45,3 +45,5 @@ int rdcr2nSentence1();
 int rdcr2nSentence2();
 int mnygpSentence1();
 int mnygpSentence2();
+int jwskzhSentence1();
+int jwskzhSentence2();
