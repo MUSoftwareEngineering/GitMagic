@@ -84,6 +84,8 @@ int main( void )
 	rdcb2fSentence1();
 	erikasSentence2();
 	rdcb2fSentence2();
+	tmdbq2Sentence1(); //Tyler Dunaway
+	tmdbq2Sentence2();
     cmm5b7Sentence1();
     cmm5b7Sentence2();
 	erikasSentence3();
