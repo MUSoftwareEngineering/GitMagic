@@ -111,7 +111,7 @@ cytbm.o: sentences/cytbm.c
 kjkvfw.o: sentences/kjkvfw.c
 	$(CC) -c $<
 
-edmqgc.o: sentence/edmqgc.c
+edmqgc.o: sentences/edmqgc.c
 	$(CC) -c $<
 #story.o: story.c 
 
