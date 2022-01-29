@@ -1,5 +1,5 @@
 # Software engineering
-Software Engineering Fall 2021 Repo for practice exercises
+Software Engineering Spring 2022 Repo for practice exercises
 
 Look at the assignment for detailed instructions. 
 

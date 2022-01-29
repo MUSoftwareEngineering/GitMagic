@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 Once upon a time
@@ -70,3 +71,5 @@ And it didnt't stop raining for days.
 The end. 
 
 
+=======
+>>>>>>> amnd7d
