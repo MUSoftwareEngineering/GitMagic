@@ -89,7 +89,9 @@ int main( void )
     cmm5b7Sentence1();
     cmm5b7Sentence2();
 	erikasSentence3();
-	// Ben's sentence should be last.
+	aspg84Sentence1();
+	aspg84Sentence2();
+	// Bens sentence should be last.
 
 	storySentence2();
 	printf("\n\n");
