@@ -82,6 +82,7 @@ int main( void )
 	sjmkxwSentence1();
 	sjmkxwSentence2();
 	rdcb2fSentence1();
+	aspg84Sentence1();
 	erikasSentence2();
 	rdcb2fSentence2();
 	tmdbq2Sentence1();
@@ -90,6 +91,7 @@ int main( void )
     cmm5b7Sentence2();
 	iisbbqSentence1();
 	erikasSentence3();
+	aspg84Sentence2();
 	amb5cbSentence1();
 	amb5cbSentence2();
 	iisbbqSentence2();
