@@ -90,9 +90,10 @@ int main( void )
     cmm5b7Sentence2();
 	iisbbqSentence1();
 	erikasSentence3();
+	amb5cbSentence1();
+	amb5cbSentence2();
 	iisbbqSentence2();
 	iisbbqSentence3();
-
 	// Ben's sentence should be last.
 
 	storySentence2();
