@@ -8,7 +8,7 @@ int iisbbqSentence1(){
 
 //Isaac Sexe's Sentence 2
 int iisbbqSentence2(){
-    printf("Oh, what a woeful sight it was.  The princess was gleefully riding along with her horse all while the dragon was breaking through the lines of adventurers sent to defend her.\n");
+    printf("Oh, what a woeful sight it was.  The princess was gleefully riding along with her horse while the man with the most gorgeous, silky, red hair you've ever seen, was bleeding out next to her.\nWhile this was happening the dragon was breaking through the lines of adventurers sent to defend her.\n");
     return 1;
 }
 
