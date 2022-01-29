@@ -60,3 +60,6 @@ int jdhvdySentence1();
 int jdhvdySentence2();
 int cmm5b7Sentence1();
 int cmm5b7Sentence2();
+int iisbbqSentence1();
+int iisbbqSentence2();
+int iisbbqSentence3();

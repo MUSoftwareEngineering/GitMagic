@@ -84,11 +84,15 @@ int main( void )
 	rdcb2fSentence1();
 	erikasSentence2();
 	rdcb2fSentence2();
-	tmdbq2Sentence1(); //Tyler Dunaway
+	tmdbq2Sentence1();
 	tmdbq2Sentence2();
-    cmm5b7Sentence1();
+	cmm5b7Sentence1();
     cmm5b7Sentence2();
+	iisbbqSentence1();
 	erikasSentence3();
+	iisbbqSentence2();
+	iisbbqSentence3();
+
 	// Ben's sentence should be last.
 
 	storySentence2();
