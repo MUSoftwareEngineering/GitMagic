@@ -54,3 +54,5 @@ int sjmkxwSentence2();
 int erikasSentence1();
 int erikasSentence2();
 int erikasSentence3();
+int jdhvdySentence1();
+int jdhvdySentence2();

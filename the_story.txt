@@ -26,8 +26,10 @@ The Capybaras squealed and grunted, running circles around the wizard until he g
 The adventurers, now human once again, continued on their journey to find the princess.
 Days into their journey, they spotted it. The evil structure where the princess was being held.
 The structure was surrounded by a moat of lava, and being guarded by a dragon.
+The dragon looked rather plump and sedentary, so the adventurers thought up a plan
 They brought the dragon peperroni pizza and fancy wine.
 The dragon drank the wine and ate the pizza, growing drowsy.
+The inebriated dragon's eyelids drooped and head stooped from the wine and full belly
 On this island of peaches, there lived a girl too.
 The girl challenged the Lafferre Guild champion to a cybersecurity duel.
 The dragon decided to take a long nap
@@ -46,10 +48,15 @@ Unfortunately, the slipper continued falling and landed directly on her face. Ou
 The slipper hit her so hard on the head.
 That she now has a fractured skull.
 However, the princess was unfazed!
+<<<<<<< HEAD
 Suddenly, the dragon broke through the adventurers' plasma shields.
 
 She continued her journey and made sure that nothing else would get in her way.
 She was cheerfully unaware that her heroic friends were screaming on mute as the dragon severed their networks.
+=======
+
+She continued her journey and made sure that nothing else would get in her way.
+>>>>>>> 98325d107ee8b950f53dc3e8dde001945fc98eb5
 
 The end. 
 
