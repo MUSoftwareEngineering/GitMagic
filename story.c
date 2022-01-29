@@ -63,7 +63,9 @@ int main( void )
 	rkg7ggSentence1();
 	rkg7ggSentence2();
 	cejnfpSentence1();
+	edmqgcSentence1();
 	cejnfpSentence2();
+	edmqgcSentence2();
 	cytbmSentence1();
 	cytbmSentence2();
 	kjkvfwSentence1();
