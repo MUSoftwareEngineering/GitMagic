@@ -82,6 +82,8 @@ int main( void )
 	sjmkxwSentence2();
 	rdcb2fSentence1();
 	rdcb2fSentence2();
+	tmdbq2Sentence1(); //Tyler Dunaway
+	tmdbq2Sentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();
