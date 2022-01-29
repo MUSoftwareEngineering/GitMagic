@@ -76,6 +76,8 @@ int main( void )
 	rdcr2nSentence2();
 	jwskzhSentence1();
 	jwskzhSentence2();
+	sjmkxwSentence1();
+	sjmkxwSentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();

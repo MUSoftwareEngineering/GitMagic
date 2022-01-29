@@ -6,6 +6,6 @@ int jwskzhSentence1(){
 }
 
 int jwskzhSentence2(){
-	printf("Unfortunately, the slipper continued falling and landed directly on her face. Ouch.");
+	printf("Unfortunately, the slipper continued falling and landed directly on her face. Ouch.\n");
 	return 1;
 }
