@@ -82,6 +82,7 @@ int main( void )
 	sjmkxwSentence1();
 	sjmkxwSentence2();
 	rdcb2fSentence1();
+	aspg84Sentence1();
 	erikasSentence2();
 	rdcb2fSentence2();
 	tmdbq2Sentence1(); //Tyler Dunaway
@@ -89,7 +90,6 @@ int main( void )
     cmm5b7Sentence1();
     cmm5b7Sentence2();
 	erikasSentence3();
-	aspg84Sentence1();
 	aspg84Sentence2();
 	// Bens sentence should be last.
 

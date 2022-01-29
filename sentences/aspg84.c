@@ -2,12 +2,12 @@
 
 int aspg84Sentence1()
 {
-    printf("The courageous heroes could not fix their networks, and decided to switch to mobile data.\n");
+    printf("The princess had been blessed with a thick head.\n");
     return 1;
 }
 
 int aspg84Sentence2()
 {
-    printf("However, their ping was far too high for the princess to understand them.\n");
+    printf("The courageous heroes could not fix their networks, and had no mobile data here.\n");
     return 1;
 }
