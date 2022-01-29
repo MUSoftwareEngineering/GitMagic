@@ -89,6 +89,8 @@ int main( void )
     cmm5b7Sentence1();
     cmm5b7Sentence2();
 	erikasSentence3();
+	amb5cbSentence1();
+	amb5cbSentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();
