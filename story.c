@@ -42,6 +42,7 @@ int main( void )
 	dmmdnrSentence1();
 	zwsx9fSentence1();
     	amz28Sentence1();
+	bjwhpqSentence1(); // "So they all made hot chocolate."
 	bebz4tSentence2();
 	zwsx9fSentence2();
     	jmchpdSentence2();
@@ -73,6 +74,7 @@ int main( void )
 	kjkvfwSentence1();
 	kjkvfwSentence2();
 	rdcr2nSentence1();
+	bjwhpqSentence2(); //"It strikes the dragon on the head with surprising force for such a small object."
 	rdcr2nSentence2();
 	// Ben's sentence should be last.
 
