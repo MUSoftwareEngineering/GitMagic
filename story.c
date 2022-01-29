@@ -41,20 +41,20 @@ int main( void )
 	bebz4tSentence1();
 	dmmdnrSentence1();
 	zwsx9fSentence1();
-    amz28Sentence1();
+    	amz28Sentence1();
 	bebz4tSentence2();
 	zwsx9fSentence2();
-    jmchpdSentence2();
+    	jmchpdSentence2();
 	jee9pvSentence1();
 	dmmdnrSentence2();
-    jmchpdSentence1();
+    	jmchpdSentence1();
 	qpty9tSentence1();
 	qpty9tSentence2();
-    amz28Sentence2();
+    	amz28Sentence2();
 	rbhmm5Sentence1();
 	rbhmm5Sentence2();
-    esdnk7Sentence1();
-    esdnk7Sentence2();
+    	esdnk7Sentence1();
+    	esdnk7Sentence2();
 	rjkncdSentence1();
 	jee9pvSentence2();
 	rjkncdSentence2();
@@ -66,6 +66,8 @@ int main( void )
 	cejnfpSentence2();
 	cytbmSentence1();
 	cytbmSentence2();
+	kjkvfwSentence1();
+	kjkvfwSentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();
