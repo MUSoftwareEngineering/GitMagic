@@ -63,6 +63,7 @@ int main( void )
 	rkg7ggSentence1();
 	rkg7ggSentence2();
 	mnygpSentence1();
+	erikasSentence1();
 	cejnfpSentence1();
 	mnygpSentence2();
 	edmqgcSentence1();
@@ -79,7 +80,9 @@ int main( void )
 	sjmkxwSentence1();
 	sjmkxwSentence2();
 	rdcb2fSentence1();
+	erikasSentence2();
 	rdcb2fSentence2();
+	erikasSentence3();
 	// Ben's sentence should be last.
 
 	storySentence2();
