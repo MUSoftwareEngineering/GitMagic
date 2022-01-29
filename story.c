@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "sentences/_HEADERS.h"
 
+
 // I assume all of you know C.
 int cpdkd3Sentence1();
 
@@ -41,6 +42,7 @@ int main( void )
 	bebz4tSentence1();
 	dmmdnrSentence1();
 	zwsx9fSentence1();
+	amnd7dSentence2();
     	amz28Sentence1();
 	bebz4tSentence2();
 	zwsx9fSentence2();
@@ -76,10 +78,9 @@ int main( void )
 	rdcr2nSentence2();
 	jwskzhSentence1();
 	jwskzhSentence2();
-	sjmkxwSentence1();
-	sjmkxwSentence2();
 	rdcb2fSentence1();
 	rdcb2fSentence2();
+	amnd7dSentence1();
 	// Ben's sentence should be last.
 
 	storySentence2();
