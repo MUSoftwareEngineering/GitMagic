@@ -1,10 +1,9 @@
 # include <stdio.h>
 
 
-// Function to include & executeA
 int litnczSentence1()
 {
-  printf("What he possessed was a rainbow colored mechanical keyboard.\n");
+  printf("To accompany the macbook, he pulled out a rainbow colored mechanical keyboard.\n");
   return 1;
 }
 
