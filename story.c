@@ -108,6 +108,7 @@ int main( void )
 	iwegbcSentence1();
 	iwegbcSentence2();
 	am9fqSentence1();
+	jahm6vSentence2();
 	am9fqSentence2();
 	litnczSentence1();
 	litnczSentence2();
@@ -115,7 +116,7 @@ int main( void )
 	elk3xSentence2();
 	kaz42cSentence2();
 	jahm6vSentence1();
-	jahm6vSentence2();
+
 	// Ben's sentence should be last.
 
 	storySentence2();
