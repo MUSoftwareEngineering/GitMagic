@@ -108,6 +108,8 @@ int main( void )
 	iwegbcSentence2();
 	am9fqSentence1();
 	am9fqSentence2();
+	litnczSentence1();
+	litnczSentence2();
 	elk3xSentence1();
 	elk3xSentence2();
     	kaz42cSentence2();
