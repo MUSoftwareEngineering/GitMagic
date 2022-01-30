@@ -81,6 +81,8 @@ int main( void )
 	rdcr2nSentence2();
 	jwskzhSentence1();
 	jwskzhSentence2();
+	thadeusSentence1();
+	thadeusSentence2();
 	sjmkxwSentence1();
 	sjmkxwSentence2();
 	rdcb2fSentence1();
