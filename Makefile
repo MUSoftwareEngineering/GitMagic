@@ -52,7 +52,9 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o nrmb9r.o hgc8zc.o rkg7gg.o cejnfp.o cytbm.o kjkvfw.o edmqgc.o rdcr2n.o mnygp.o jwskzh.o sjmkxw.o rdcb2f.o jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o elk3x.o wjo5m5.o
+story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o \
+	   nrmb9r.o hgc8zc.o rkg7gg.o cejnfp.o cytbm.o kjkvfw.o edmqgc.o rdcr2n.o mnygp.o jwskzh.o sjmkxw.o rdcb2f.o \
+	   jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o kaz42c.o am9fq.o elk3x.o sdlp6f.o wjo5m5.o
 	$(CC) $^ -o story
 
 ##
@@ -64,10 +66,10 @@ story.o: story.c
 
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
-	
+
 bebz4t.o: sentences/bebz4t.c
 	$(CC) -c $<
-	
+
 zwsx9f.o: sentences/zwsx9f.c
 	$(CC) -c $<
 
@@ -76,10 +78,10 @@ dmmdnr.o: sentences/dmmdnr.c
 
 qpty9t.o: sentences/qpty9t.c
 	$(CC) -c $<
-	
+
 jmchpd.o: sentences/jmchpd.c
 	$(CC) -c $<
-	
+
 amz28.o: sentences/amz28.c
 	$(CC) -c $<
 
@@ -100,7 +102,7 @@ nrmb9r.o: sentences/nrmb9r.c
 
 hgc8zc.o: sentences/hgc8zc.c
 	$(CC) -c $<
-	
+
 rkg7gg.o: sentences/rkg7gg.c
 	$(CC) -c $<
 
@@ -127,7 +129,7 @@ mnygp.o: sentences/mnygp.c
 
 rdcb2f.o: sentences/rdcb2f.c
 	$(CC) -c $<
-	
+
 sjmkxw.o: sentences/sjmkxw.c
 	$(CC) -c $<
     
@@ -158,12 +160,19 @@ amb5cb.o: sentences/amb5cb.c
 iwegbc.o: sentences/iwegbc.c
 	$(CC) -c $<
 
+am9fq.o: sentences/am9fq.c
+	$(CC) -c $<
+
 elk3x.o: sentences/elk3x.c
+	$(CC) -c $<
+
+sdlp6f.o: sentences/sdlp6f.c
 	$(CC) -c $<
 
 wjo5m5.o: sentences/wjo5m5.c
 	$(CC) -c $<
 
-#story.o: story.c 
-
+#story.o: story.c
+kaz42c.o: sentences/kaz42c.c
+	$(CC) -c $<
 
