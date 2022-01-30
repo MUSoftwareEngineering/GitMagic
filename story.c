@@ -97,9 +97,11 @@ int main( void )
 	amb5cbSentence1();
 	amb5cbSentence2();
 	iisbbqSentence2();
+	wjo5m5Sentence1();
 	iisbbqSentence3();
 	iwegbcSentence1();
 	iwegbcSentence2();
+	wjo5m5Sentence2();
 	elk3xSentence1();
 	elk3xSentence2();
 	// Ben's sentence should be last.

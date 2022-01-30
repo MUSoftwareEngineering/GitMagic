@@ -52,7 +52,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o nrmb9r.o hgc8zc.o rkg7gg.o cejnfp.o cytbm.o kjkvfw.o edmqgc.o rdcr2n.o mnygp.o jwskzh.o sjmkxw.o rdcb2f.o jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o elk3x.o
+story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o nrmb9r.o hgc8zc.o rkg7gg.o cejnfp.o cytbm.o kjkvfw.o edmqgc.o rdcr2n.o mnygp.o jwskzh.o sjmkxw.o rdcb2f.o jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o elk3x.o wjo5m5.o
 	$(CC) $^ -o story
 
 ##
@@ -159,6 +159,9 @@ iwegbc.o: sentences/iwegbc.c
 	$(CC) -c $<
 
 elk3x.o: sentences/elk3x.c
+	$(CC) -c $<
+
+wjo5m5.o: sentences/wjo5m5.c
 	$(CC) -c $<
 
 #story.o: story.c 
