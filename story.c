@@ -101,11 +101,13 @@ int main( void )
 	amb5cbSentence2();
 	sdlp6fSentence1();
 	sdlp6fSentence2();
+	krspcpSentence1();
 	jrwhyySentence2();
 	iisbbqSentence2();
 	wjo5m5Sentence1();
 	iisbbqSentence3();
 	smgxpSentence1();
+	krspcpSentence2();
 	wjo5m5Sentence2();
 	iwegbcSentence1();
 	iwegbcSentence2();

@@ -91,3 +91,5 @@ int grsncdSentence1();
 int grsncdSentence2();
 int jwhdhwSentence1();
 int jwhdhwSentence2();
+int krspcpSentence1();
+int krspcpSentence2();
