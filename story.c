@@ -98,18 +98,12 @@ int main( void )
 	amb5cbSentence2();
 	iisbbqSentence2();
 	iisbbqSentence3();
-<<<<<<< HEAD
 	iwegbcSentence1();
 	iwegbcSentence2();
-<<<<<<< HEAD
 	am9fqSentence1();
 	am9fqSentence2();
-=======
-=======
 	elk3xSentence1();
 	elk3xSentence2();
->>>>>>> elk3x
->>>>>>> 7e989afdd6dd5229d0ba4b1f7646c911da700999
 	// Ben's sentence should be last.
 
 	storySentence2();
