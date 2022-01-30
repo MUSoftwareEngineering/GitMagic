@@ -89,6 +89,7 @@ int main( void )
 	kaz42cSentence1();
 	rdcb2fSentence2();
 	tmdbq2Sentence1();
+	jrwhyySentence1();
 	tmdbq2Sentence2();
 	cmm5b7Sentence1();
 	cmm5b7Sentence2();
@@ -99,6 +100,7 @@ int main( void )
 	amb5cbSentence2();
 	sdlp6fSentence1();
 	sdlp6fSentence2();
+	jrwhyySentence2();
 	iisbbqSentence2();
 	wjo5m5Sentence1();
 	iisbbqSentence3();
@@ -116,4 +118,7 @@ int main( void )
 
 	storySentence2();
 	printf("\n\n");
+
+
+	
 }
