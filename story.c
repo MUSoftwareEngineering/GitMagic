@@ -104,11 +104,13 @@ int main( void )
 	iisbbqSentence2();
 	wjo5m5Sentence1();
 	iisbbqSentence3();
+	smgxpSentence1();
 	wjo5m5Sentence2();
 	iwegbcSentence1();
 	iwegbcSentence2();
 	am9fqSentence1();
 	am9fqSentence2();
+	smgxpSentence2();
 	litnczSentence1();
 	litnczSentence2();
 	elk3xSentence1();
