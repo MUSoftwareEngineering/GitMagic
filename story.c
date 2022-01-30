@@ -96,6 +96,8 @@ int main( void )
 	aspg84Sentence2();
 	amb5cbSentence1();
 	amb5cbSentence2();
+	sdlp6fSentence1();
+	sdlp6fSentence2();
 	iisbbqSentence2();
 	iisbbqSentence3();
 	iwegbcSentence1();
