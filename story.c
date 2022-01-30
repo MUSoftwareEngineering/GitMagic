@@ -60,9 +60,14 @@ int main( void )
 	rjkncdSentence2();
 	nrmb9rSentence1();
 	nrmb9rSentence2();
+  kwcnrSentence1();
+    jdhvdySentence1();
 	rkg7ggSentence1();
 	rkg7ggSentence2();
+    jdhvdySentence2();
 	mnygpSentence1();
+	kwcnrSentence2();
+	erikasSentence1();
 	cejnfpSentence1();
 	mnygpSentence2();
 	edmqgcSentence1();
@@ -74,6 +79,29 @@ int main( void )
 	kjkvfwSentence2();
 	rdcr2nSentence1();
 	rdcr2nSentence2();
+	jwskzhSentence1();
+	jwskzhSentence2();
+	sjmkxwSentence1();
+	sjmkxwSentence2();
+	rdcb2fSentence1();
+	aspg84Sentence1();
+	erikasSentence2();
+	rdcb2fSentence2();
+	tmdbq2Sentence1();
+	tmdbq2Sentence2();
+	cmm5b7Sentence1();
+    cmm5b7Sentence2();
+	iisbbqSentence1();
+	erikasSentence3();
+	aspg84Sentence2();
+	amb5cbSentence1();
+	amb5cbSentence2();
+	iisbbqSentence2();
+	iisbbqSentence3();
+	iwegbcSentence1();
+	iwegbcSentence2();
+	am9fqSentence1();
+	am9fqSentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();

@@ -51,7 +51,7 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o nrmb9r.o hgc8zc.o rkg7gg.o cejnfp.o cytbm.o kjkvfw.o edmqgc.o rdcr2n.o mnygp.o
+story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o nrmb9r.o hgc8zc.o rkg7gg.o cejnfp.o cytbm.o kjkvfw.o edmqgc.o rdcr2n.o mnygp.o jwskzh.o sjmkxw.o rdcb2f.o jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o
 	$(CC) $^ -o story
 
 ##
@@ -69,6 +69,7 @@ bebz4t.o: sentences/bebz4t.c
 	
 zwsx9f.o: sentences/zwsx9f.c
 	$(CC) -c $<
+
 dmmdnr.o: sentences/dmmdnr.c
 	$(CC) -c $<
 
@@ -83,7 +84,7 @@ amz28.o: sentences/amz28.c
 
 rbhmm5.o: sentences/rbhmm5.c
 	$(CC) -c $<
-	
+
 esdnk7.o: sentences/esdnk7.c
 	$(CC) -c $<
 
@@ -117,7 +118,46 @@ edmqgc.o: sentences/edmqgc.c
 rdcr2n.o: sentences/rdcr2n.c
 	$(CC) -c $<
 
+jwskzh.o: sentences/jwskzh.c
+	$(CC) -c $<
+
 mnygp.o: sentences/mnygp.c
+	$(CC) -c $<
+
+rdcb2f.o: sentences/rdcb2f.c
+	$(CC) -c $<
+	
+sjmkxw.o: sentences/sjmkxw.c
+	$(CC) -c $<
+    
+jdhvdy.o: sentences/jdhvdy.c
+	$(CC) -c $<
+
+cmm5b7.o: sentences/cmm5b7.c
+	$(CC) -c $<
+
+zhoue.o: sentences/zhoue.c
+	$(CC) -c $<
+
+kwcnr.o: sentences/kwcnr.c
+	$(CC) -c $<
+
+aspg84.o: sentences/aspg84.c
+	$(CC) -c $<
+
+tmdbq2.o: sentences/tmdbq2.c
+	$(CC) -c $<
+
+iisbbq.o: sentences/iisbbq.c
+	$(CC) -c $<
+
+amb5cb.o: sentences/amb5cb.c
+	$(CC) -c $<
+
+iwegbc.o: sentences/iwegbc.c
+	$(CC) -c $<
+
+am9fq.o: sentences/am9fq.c
 	$(CC) -c $<
 #story.o: story.c 
 
