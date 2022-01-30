@@ -100,6 +100,8 @@ int main( void )
 	iisbbqSentence3();
 	iwegbcSentence1();
 	iwegbcSentence2();
+	litnczSentence1();
+	litnczSentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();

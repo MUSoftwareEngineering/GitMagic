@@ -71,4 +71,5 @@ int amb5cbSentence1();
 int amb5cbSentence2();
 int iwegbcSentence1();
 int iwegbcSentence2();
-
+int litnczSentence1();
+int litnczSentence2();
