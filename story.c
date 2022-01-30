@@ -96,6 +96,8 @@ int main( void )
 	amb5cbSentence2();
 	iisbbqSentence2();
 	iisbbqSentence3();
+	elk3xSentence1();
+	elk3xSentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();
