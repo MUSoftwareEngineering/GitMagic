@@ -210,6 +210,12 @@ int sdlp6fSentence1();
 int sdlp6fSentence2();
 int kaz42cSentence1();
 int kaz42cSentence2();
+<<<<<<< HEAD
 int grzmc7Sentence1();
 int grzmc7Sentence2();
 >>>>>>> grzmc7
+=======
+int trhdwxSentence1();
+int trhdwxSentence2();
+>>>>>>> trhdwx
+>>>>>>> d128c7e98043153312761ce2a6f6eff9c59191c9

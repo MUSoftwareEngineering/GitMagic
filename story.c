@@ -313,10 +313,19 @@ int main( void )
 	elk3xSentence1();
 	elk3xSentence2();
     kaz42cSentence2();
+<<<<<<< HEAD
 	grzmc7Sentence2();
+=======
+	trhdwxSentence1();
+	trhdwxSentence2();
+>>>>>>> d128c7e98043153312761ce2a6f6eff9c59191c9
 	// Ben's sentence should be last.
 
 	storySentence2();
 	printf("\n\n");
 }
+<<<<<<< HEAD
 >>>>>>> grzmc7
+=======
+>>>>>>> trhdwx
+>>>>>>> d128c7e98043153312761ce2a6f6eff9c59191c9

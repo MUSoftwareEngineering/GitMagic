@@ -68,6 +68,10 @@ Fred was surrounded by a strange light, and when he woke up, he found himself in
 There is a strange maid in the Scarlet Devil Mansion, named Sakuya Izayoi.
 And then it started raining.
 And it didnt't stop raining for days.
+<<<<<<< HEAD
+=======
+
+>>>>>>> d128c7e98043153312761ce2a6f6eff9c59191c9
 =======
 
 It was cold. 
@@ -140,9 +144,16 @@ The greatly feared but ever-present macbook that rampantly terrorizes the lectur
 "OH MY GOD! HE'S GONNA CODE THE DRAGON AWAY," yelled the princess.
 With a single flick, he opened his laptop and began to type.
 Goggins some how slayed the dragon. pleased with his success he took the dragon head as a trophy for his newly finished garage.
+<<<<<<< HEAD
 Turning to the princess he held out his hand."Zip the two files together and submit to canvas before the due date," he whispered.
 >>>>>>> grzmc7
 
+=======
+Turning to the princess he held out his hand.
+ All the sudden, a knight appeared out of nowhere!
+ He offered me cookies and milk... how could I turn that down?
+>>>>>>> trhdwx
+>>>>>>> d128c7e98043153312761ce2a6f6eff9c59191c9
 The end. 
 
 
