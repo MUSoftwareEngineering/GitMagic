@@ -54,7 +54,7 @@ cleanwin:
 
 story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o \
 	   nrmb9r.o hgc8zc.o rkg7gg.o cejnfp.o cytbm.o kjkvfw.o edmqgc.o rdcr2n.o mnygp.o jwskzh.o sjmkxw.o rdcb2f.o \
-	   jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o kaz42c.o am9fq.o elk3x.o sdlp6f.o litncz.o wjo5m5.o jrwhyy.o smgxp.o
+	   jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o kaz42c.o am9fq.o elk3x.o sdlp6f.o litncz.o wjo5m5.o jrwhyy.o smgxp.o jahm6v.o
 	$(CC) $^ -o story
 
 ##
@@ -183,6 +183,7 @@ kaz42c.o: sentences/kaz42c.c
 
 smgxp.o: sentences/smgxp.c
 	$(CC) -c $<
-
+jahm6v.o: sentences/jahm6v.c
+	$(CC) -c $<
 #story.o: story.c 
 
