@@ -75,3 +75,5 @@ int am9fqSentence1();
 int am9fqSentence2();
 int elk3xSentence1();
 int elk3xSentence2();
+int sdlp6fSentence1();
+int sdlp6fSentence2();
