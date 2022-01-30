@@ -168,7 +168,7 @@ elk3x.o: sentences/elk3x.c
 sdlp6f.o: sentences/sdlp6f.c
 	$(CC) -c $<
 
-litncz.o: sentences/sdlp6f.c
+litncz.o: sentences/litncz.c
 	$(CC) -c $<
 
 #story.o: story.c
