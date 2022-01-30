@@ -157,7 +157,8 @@ amb5cb.o: sentences/amb5cb.c
 iwegbc.o: sentences/iwegbc.c
 	$(CC) -c $<
 
-	
+am9fq.o: sentences/am9fq.c
+	$(CC) -c $<
 #story.o: story.c 
 
 
