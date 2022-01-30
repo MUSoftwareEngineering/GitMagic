@@ -79,3 +79,5 @@ int sdlp6fSentence1();
 int sdlp6fSentence2();
 int kaz42cSentence1();
 int kaz42cSentence2();
+int trhdwxSentence1();
+int trhdwxSentence2();
