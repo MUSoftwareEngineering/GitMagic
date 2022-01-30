@@ -2,7 +2,7 @@
 
 int jahm6vSentence1()
 {
-  printf("The Rams beat the 49ers 34-31.\n");
+  printf("\nThe Rams beat the 49ers 34-31.\n");
   return 0;
 }
 
