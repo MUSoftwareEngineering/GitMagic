@@ -77,6 +77,8 @@ int elk3xSentence1();
 int elk3xSentence2();
 int sdlp6fSentence1();
 int sdlp6fSentence2();
+int litnczSentence1();
+int litnczSentence2();
 int kaz42cSentence1();
 int kaz42cSentence2();
 int wjo5m5Sentence1();
