@@ -83,6 +83,8 @@ int main( void )
 	jwskzhSentence2();
 	sjmkxwSentence1();
 	sjmkxwSentence2();
+	tvmfp8Sentence1();
+	tvmfp8Sentence2();
 	rdcb2fSentence1();
 	aspg84Sentence1();
 	erikasSentence2();
