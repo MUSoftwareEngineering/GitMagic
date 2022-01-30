@@ -89,4 +89,6 @@ int smgxpSentence1();
 int smgxpSentence2();
 int grsncdSentence1();
 int grsncdSentence2();
+int dlbhczSentence1();
+int dlbhczSentence2();
 
