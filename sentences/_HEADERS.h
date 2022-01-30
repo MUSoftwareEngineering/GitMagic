@@ -67,3 +67,5 @@ int iisbbqSentence2();
 int iisbbqSentence3();
 int amb5cbSentence1();
 int amb5cbSentence2();
+int jrwhyySentence1();
+int jrwhyySentence2();
