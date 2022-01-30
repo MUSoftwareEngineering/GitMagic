@@ -111,8 +111,10 @@ int main( void )
 	jahm6vSentence2();
 	am9fqSentence2();
 	litnczSentence1();
+	smgxpSentence1();
 	litnczSentence2();
 	elk3xSentence1();
+	smgxpSentence2();
 	elk3xSentence2();
 	kaz42cSentence2();
 	jahm6vSentence1();

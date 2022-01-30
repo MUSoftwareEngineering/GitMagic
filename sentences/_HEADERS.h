@@ -8,7 +8,8 @@ int storySentence2();
 // vvvvvvvvvvvvvvv  Student work goes down here
 int jahm6vSentence2();
 int jahm6vSentence1();
-
+int smgxpSentence1();
+int smgxpSentence2();
 int bebz4tSentence1();
 int bebz4tSentence2();
 int zwsx9fSentence1();
