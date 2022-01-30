@@ -1,0 +1,2653 @@
+commit 280717c2397d1538f7f574b82e64f382b155696d
+Author: AnushaMishra <am284401@gmail.com>
+Date:   Sat Jan 29 20:33:53 2022 -0600
+
+    story changes am9fq
+
+ story         | Bin 0 -> 53184 bytes
+ the_story.txt |   2 ++
+ 2 files changed, 2 insertions(+)
+
+commit c3183c8c5d8d44f0a9121d1ed01ba94808b42b2d
+Author: AnushaMishra <am284401@gmail.com>
+Date:   Sat Jan 29 20:09:56 2022 -0600
+
+    am9fq makefile change
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 383e9e3b8c4a021a46b63159ddeed34bdeb353f6
+Author: AnushaMishra <am284401@gmail.com>
+Date:   Sat Jan 29 20:02:23 2022 -0600
+
+    fixed syntax issue
+
+ sentences/_HEADERS.h | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit a3ab601153060dc07d78768d19f05d324a7e7a01
+Merge: a8cbce6 227544a
+Author: AnushaMishra <am284401@gmail.com>
+Date:   Sat Jan 29 19:59:21 2022 -0600
+
+    Merge branch 'main' into am9fq
+
+commit a8cbce6ca9142e7489ade1750f3508f142d881fa
+Author: AnushaMishra <am284401@gmail.com>
+Date:   Sat Jan 29 19:58:52 2022 -0600
+
+    story changes
+
+ story         | Bin 0 -> 51720 bytes
+ the_story.txt |  46 ++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 46 insertions(+)
+
+commit 227544a21239596e7a0523bd1a5ed089faa1c736
+Author: AnushaMishra <am284401@gmail.com>
+Date:   Sat Jan 29 19:51:02 2022 -0600
+
+    am9fq sentences functions added
+
+ Makefile             |   3 ++-
+ sentences/_HEADERS.h |   4 ++--
+ story                | Bin 52976 -> 0 bytes
+ story.c              |   2 ++
+ 4 files changed, 6 insertions(+), 3 deletions(-)
+
+commit e82974a52e2a7a73f1214fa1fa933e4c60200e20
+Author: AnushaMishra <am284401@gmail.com>
+Date:   Sat Jan 29 19:46:25 2022 -0600
+
+    added am9fq functions
+
+ sentences/_HEADERS.h | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit ef72aedeb0f41c96e899c4895769df102aa2ac6e
+Author: AnushaMishra <am284401@gmail.com>
+Date:   Sat Jan 29 19:15:32 2022 -0600
+
+    added sentence functions
+
+ sentences/am9fq.c | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit adee8bd1f1feebe6cd4e1c4eda9ab2700afe6f00
+Merge: f2bf694 ea458d1
+Author: Kylee Willis <23221736+raspberrymilkyway@users.noreply.github.com>
+Date:   Sat Jan 29 18:41:43 2022 -0600
+
+    Merge pull request #92 from MUSoftwareEngineering/kwcnr
+    
+    Added my content - kwcnr
+
+commit ea458d1f6fca4aed86eab932c0f7b888b1b1303c
+Author: Kylee Willis <kwcnr@umsystem.edu>
+Date:   Sat Jan 29 18:32:44 2022 -0600
+
+    Added my content
+    
+    kwcnr - Kylee Willis
+
+ Makefile             |  6 +++++-
+ sentences/_HEADERS.h |  4 +++-
+ sentences/kwcnr.c    | 13 +++++++++++++
+ story.c              |  8 +++++---
+ the_story.txt        |  2 ++
+ 5 files changed, 28 insertions(+), 5 deletions(-)
+
+commit f2bf6940a66f8705054c6b684e2c4cd4d74c6343
+Author: Isaac Ernst <iwegbc@umsystem.edu>
+Date:   Sat Jan 29 18:25:37 2022 -0600
+
+    iwegbc added files
+
+ Makefile             |   5 ++++-
+ sentences/_HEADERS.h |   3 +++
+ sentences/iwegbc.c   |  13 +++++++++++++
+ story                | Bin 24376 -> 52976 bytes
+ story.c              |   2 ++
+ the_story.txt        |   4 +++-
+ 6 files changed, 25 insertions(+), 2 deletions(-)
+
+commit ad78408d337c7e04703dbd2630eb82721034759b
+Merge: c20c00e f05e53f
+Author: Ashwin <aspg84@umsystem.edu>
+Date:   Sat Jan 29 17:03:54 2022 -0600
+
+    Merge pull request #91 from MUSoftwareEngineering/aspg84
+    
+    aspg84 sentences
+
+commit f05e53fdcd1e83996c346ff1963ea3261d225b40
+Merge: aebc5de c20c00e
+Author: Ashwin <aspg84@umsystem.edu>
+Date:   Sat Jan 29 17:01:47 2022 -0600
+
+    Merge branch 'main' into aspg84
+
+commit aebc5de1464014e4ad1ae81e0b6cab90b3719350
+Author: Ashwin <ashwinprayaga@gmail.com>
+Date:   Sat Jan 29 16:45:30 2022 -0600
+
+    changed sentences
+
+ sentences/aspg84.c | 4 ++--
+ story.c            | 2 +-
+ the_story.txt      | 4 ++--
+ 3 files changed, 5 insertions(+), 5 deletions(-)
+
+commit 939a24458ec4a3c9a82f8e0ced036ffac09e8351
+Author: Ashwin <ashwinprayaga@gmail.com>
+Date:   Sat Jan 29 16:42:02 2022 -0600
+
+    initial changes
+
+ Makefile             | 10 ++++++++--
+ sentences/_HEADERS.h |  2 ++
+ sentences/aspg84.c   | 13 +++++++++++++
+ story.c              |  4 +++-
+ the_story.txt        |  2 ++
+ 5 files changed, 28 insertions(+), 3 deletions(-)
+
+commit c20c00e218533e63db7027c66ab990de762d8dcf
+Author: isexe <isaac.sexe@gmail.com>
+Date:   Sat Jan 29 16:34:11 2022 -0600
+
+    Fixes
+    
+    Updates my original commit to account for amb5cb's changes
+
+ sentences/iisbbq.c |   2 +-
+ story              | Bin 24264 -> 24376 bytes
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+commit 0e9a6721f9b1de2f071f88598b25c97dcf55d75f
+Merge: 64463d3 1a7e163
+Author: isexe <isaac.sexe@gmail.com>
+Date:   Sat Jan 29 16:33:27 2022 -0600
+
+    Merge branch 'main' into iisbbq
+
+commit 64463d3793ca715543d8ee354359c27ca72e020d
+Author: isexe <isaac.sexe@gmail.com>
+Date:   Sat Jan 29 16:23:36 2022 -0600
+
+    Amendments and Error Fixes
+    
+    Adds sentences for iisbbq, as well as, fixes errors caused by tmdbq2.
+
+ Makefile             |   8 +++++++-
+ sentences/_HEADERS.h |   3 +++
+ sentences/iisbbq.c   |  19 +++++++++++++++++++
+ story                | Bin 0 -> 24264 bytes
+ story.c              |   8 ++++++--
+ the_story.txt        |   6 +++++-
+ 6 files changed, 40 insertions(+), 4 deletions(-)
+
+commit 1a7e1633d75b6b6baccfc4d0eb02040da751af49
+Author: Andrew Brain <61482022+ABrain7710@users.noreply.github.com>
+Date:   Sat Jan 29 16:08:20 2022 -0600
+
+    Add amb5cb sentences
+    
+    Signed-off-by: Andrew Brain <61482022+ABrain7710@users.noreply.github.com>
+
+ Makefile             |  5 ++++-
+ sentences/_HEADERS.h |  2 ++
+ sentences/amb5cb.c   | 13 +++++++++++++
+ story.c              |  2 ++
+ the_story.txt        |  4 +++-
+ 5 files changed, 24 insertions(+), 2 deletions(-)
+
+commit d5746843d585a1f5305246ba4f09d9d862743c0d
+Author: Andrew Brain <61482022+ABrain7710@users.noreply.github.com>
+Date:   Sat Jan 29 15:46:12 2022 -0600
+
+    Fix tmdbq2 mistakes
+    
+    Signed-off-by: Andrew Brain <61482022+ABrain7710@users.noreply.github.com>
+
+ Makefile           | 5 ++++-
+ sentences/tmdbq2.c | 2 ++
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+
+commit 253b179bfe8ffdc7407e6db067dd399341e841a0
+Merge: 9b44e50 58b6f82
+Author: CEODunawayGaming <89351023+CEODunawayGaming@users.noreply.github.com>
+Date:   Sat Jan 29 14:42:01 2022 -0600
+
+    Merge pull request #89 from MUSoftwareEngineering/tmdbq2
+    
+    tmdbq2
+
+commit 58b6f82bd89f020d0f0dde699c1517780653662b
+Merge: 5c7e039 9b44e50
+Author: CEODunawayGaming <89351023+CEODunawayGaming@users.noreply.github.com>
+Date:   Sat Jan 29 14:41:49 2022 -0600
+
+    Merge branch 'main' into tmdbq2
+
+commit 5c7e0393f249e652f07c5c7a8bfd12ae2ee8e144
+Author: CEODunawayGaming <tmdbq2@umsystem.edu>
+Date:   Sat Jan 29 14:30:16 2022 -0600
+
+    tmdbq2
+
+ sentences/_HEADERS.h |  2 ++
+ sentences/tmdbq2.c   | 10 ++++++++++
+ story.c              |  2 ++
+ 3 files changed, 14 insertions(+)
+
+commit 9b44e50235630bd1b865b02ad7367d0b772b2637
+Author: ErikaJZhou <55419983+ErikaJZhou@users.noreply.github.com>
+Date:   Sat Jan 29 14:22:26 2022 -0600
+
+    re-added the_story.txt
+
+ the_story.txt | 60 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 60 insertions(+)
+
+commit 89d7425aadb5f6a66c90b123a306746bced6cef9
+Merge: 38dea88 3971274
+Author: ErikaJZhou <55419983+ErikaJZhou@users.noreply.github.com>
+Date:   Sat Jan 29 14:20:08 2022 -0600
+
+    Merge branch 'zhoue'
+
+commit 38dea8854ccc3f685d0ffdd82268b90b32ea2e88
+Merge: 98325d1 23bac9b
+Author: chase morgan <58636766+chsmorg@users.noreply.github.com>
+Date:   Sat Jan 29 14:15:49 2022 -0600
+
+    Merge pull request #88 from MUSoftwareEngineering/cmm5b7
+    
+    Cmm5b7
+
+commit 23bac9b894674fde5876b3e95d03217a3694fac6
+Author: Chase Morgan <chsmorg@aol.com>
+Date:   Sat Jan 29 14:14:34 2022 -0600
+
+    added story file
+
+ the_story.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 39712740bd5e77172507b106b11339da0aedc966
+Author: ErikaJZhou <55419983+ErikaJZhou@users.noreply.github.com>
+Date:   Sat Jan 29 14:14:09 2022 -0600
+
+    rebuilt the_story.txt
+
+ the_story.txt | 5 -----
+ 1 file changed, 5 deletions(-)
+
+commit 59ac510864777ab4d81f56b33ace5ac636d9c4ba
+Merge: b79f3d3 98325d1
+Author: ErikaJZhou <55419983+ErikaJZhou@users.noreply.github.com>
+Date:   Sat Jan 29 14:11:56 2022 -0600
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic into zhoue
+
+commit 24859f6335ae7fede6e5fa720a3da1a64d902ca2
+Author: Chase Morgan <chsmorg@aol.com>
+Date:   Sat Jan 29 14:11:45 2022 -0600
+
+    added other files
+
+ Makefile             | 5 ++++-
+ sentences/_HEADERS.h | 2 ++
+ story.c              | 2 ++
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+
+commit 481a51dd485d2ce407a0a70795db36a7ca77ba1f
+Author: Chase Morgan <chsmorg@aol.com>
+Date:   Sat Jan 29 14:06:27 2022 -0600
+
+    Added other file
+
+ sentences/cmm5b7.c | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+
+commit b79f3d3f443d863cdcc89c29b52c61e46b1dff9e
+Author: ErikaJZhou <55419983+ErikaJZhou@users.noreply.github.com>
+Date:   Sat Jan 29 14:01:36 2022 -0600
+
+    added 3 sentences
+
+ Makefile             |   6 +++++-
+ sentences/_HEADERS.h |   3 +++
+ sentences/zhoue.c    |  22 ++++++++++++++++++++++
+ story                | Bin 51936 -> 0 bytes
+ story.c              |   3 +++
+ the_story.txt        |   6 ++++++
+ 6 files changed, 39 insertions(+), 1 deletion(-)
+
+commit 98325d107ee8b950f53dc3e8dde001945fc98eb5
+Author: Jackson Haskamp <jacksonhaskamp@gmail.com>
+Date:   Sat Jan 29 13:36:40 2022 -0600
+
+    fixed sjmkxw.o
+    
+    it was broken, the w was a 2 for some reason and it didnt match the file.
+
+ Makefile           |   2 +-
+ sentences/jdhvdy.c |   4 ++--
+ story              | Bin 51936 -> 52144 bytes
+ the_story.txt      |   5 +++++
+ 4 files changed, 8 insertions(+), 3 deletions(-)
+
+commit 27f535520120a37620ace1aeaf30cf1bfdeec101
+Author: Jackson Haskamp <jacksonhaskamp@gmail.com>
+Date:   Sat Jan 29 13:19:22 2022 -0600
+
+    updated makefile, added sentence .c file
+    
+    put functions in header and added functions to story.c
+
+ Makefile             |  5 ++++-
+ sentences/_HEADERS.h |  2 ++
+ sentences/jdhvdy.c   | 13 +++++++++++++
+ story.c              |  2 ++
+ 4 files changed, 21 insertions(+), 1 deletion(-)
+
+commit 436c5da363fde434452cd72213952bf75c06a359
+Merge: 2128e2c cc64203
+Author: ryanchristopher27 <ryandchristopher27@gmail.com>
+Date:   Sat Jan 29 12:48:57 2022 -0600
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic into main
+
+commit 2128e2cb12421b45b74fd5ea5e5da28a06b0a9e4
+Author: ryanchristopher27 <ryandchristopher27@gmail.com>
+Date:   Sat Jan 29 12:44:25 2022 -0600
+
+    updated Makefile, _HEADERS.h, and story.c
+
+ Makefile             |  4 +++-
+ sentences/_HEADERS.h |  4 +++-
+ sentences/rdcb2f.c   | 13 +++++++++++++
+ story.c              |  2 ++
+ 4 files changed, 21 insertions(+), 2 deletions(-)
+
+commit cc642039a88ef0183408f1bf3af6979a491361c0
+Author: Jessica Melkumian <sjmkxw@missouri.edu>
+Date:   Sat Jan 29 12:42:30 2022 -0600
+
+    sentences
+
+ Makefile             |   5 ++++-
+ sentences/_HEADERS.h |   4 +++-
+ sentences/jwskzh.c   |   2 +-
+ sentences/sjmkxw.c   |  13 +++++++++++++
+ story                | Bin 52258 -> 51936 bytes
+ story.c              |   2 ++
+ the_story.txt        |   3 +++
+ 7 files changed, 26 insertions(+), 3 deletions(-)
+
+commit 77b6d6df5627dae7fb1fd3a564fe637cfa6e8900
+Merge: cf82580 3143665
+Author: jstepanek <55816220+jstepanek@users.noreply.github.com>
+Date:   Sat Jan 29 12:15:23 2022 -0600
+
+    Merge pull request #87 from MUSoftwareEngineering/jwskzh
+    
+    Jack Stepanek sentences
+
+commit 3143665d7e2b56ffa562dfbcbf5ab7f6b68c3870
+Author: Jack Stepanek <jackstepanekk@gmail.com>
+Date:   Sat Jan 29 12:08:54 2022 -0600
+
+    Jack Stepanek sentences
+
+ Makefile | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+commit cf825801b9ca73d9d4acef4aec50717b307702fc
+Merge: ffd77a3 00bb2e0
+Author: jstepanek <55816220+jstepanek@users.noreply.github.com>
+Date:   Sat Jan 29 11:52:56 2022 -0600
+
+    Merge pull request #86 from MUSoftwareEngineering/jwskzh
+    
+    Jack Stepanek Sentences jwskzh
+
+commit 6c9761d37be7975c61fb4d2fc0e02d99f1db0a37
+Author: AnushaMishra <am284401@gmail.com>
+Date:   Sat Jan 29 11:52:06 2022 -0600
+
+    changes to be committed
+
+ story         | Bin 23248 -> 0 bytes
+ the_story.txt |  46 ----------------------------------------------
+ 2 files changed, 46 deletions(-)
+
+commit 00bb2e0f7e7b0fe0737af213c57a52003d3ba462
+Author: Jack Stepanek <jackstepanekk@gmail.com>
+Date:   Sat Jan 29 11:51:09 2022 -0600
+
+    jack stepanek
+
+ Makefile             |   6 +++++-
+ sentences/_HEADERS.h |   4 +++-
+ sentences/jwskzh.c   |  11 +++++++++++
+ story                | Bin 23248 -> 52258 bytes
+ story.c              |   2 ++
+ the_story.txt        |   3 ++-
+ 6 files changed, 23 insertions(+), 3 deletions(-)
+
+commit ffd77a3ddb5cf52e00828c9d43ffc36519ea0daf
+Author: Malek N <Malek@Necibi.us>
+Date:   Fri Jan 28 23:28:39 2022 -0600
+
+    added mnygp contribution to story
+
+ Makefile             |   5 ++++-
+ sentences/_HEADERS.h |   2 ++
+ sentences/mnygp.c    |  13 +++++++++++++
+ story                | Bin 35618 -> 23248 bytes
+ story.c              |   2 ++
+ the_story.txt        |   2 ++
+ 6 files changed, 23 insertions(+), 1 deletion(-)
+
+commit 9e6bc91aa2974311c9a87e2507dfcbcd30f8e58b
+Merge: 15d3908 8da0fc8
+Author: RylanChamberlin <77549063+RylanChamberlin@users.noreply.github.com>
+Date:   Fri Jan 28 19:48:10 2022 -0600
+
+    Merge pull request #84 from MUSoftwareEngineering/rdcr2n
+    
+    Added rdcr2n.c and modified files to make the sentence print.
+
+commit 8da0fc8fe00a234da471ece50b1e43a6835d1742
+Author: RylanChamberlin <rylanc88@gmail.com>
+Date:   Fri Jan 28 19:28:10 2022 -0600
+
+    Added rdcr2n.c and modified files to make the sentence print.
+
+ Makefile             |   5 ++++-
+ sentences/_HEADERS.h |   2 ++
+ sentences/rdcr2n.c   |  13 +++++++++++++
+ story                | Bin 14512 -> 35618 bytes
+ story.c              |   2 ++
+ the_story.txt        |   2 ++
+ 6 files changed, 23 insertions(+), 1 deletion(-)
+
+commit 15d39081cf155a4415a1c17115edf263344471f8
+Author: Ethan Marchbanks <edmqgc@umsystem.edu>
+Date:   Fri Jan 28 19:05:52 2022 -0600
+
+    Added sentences to the_story.txt
+
+ the_story.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 24b23e0a43408c4327c55a00a9e96a38469d1170
+Author: Ethan Marchbanks <edmqgc@umsystem.edu>
+Date:   Fri Jan 28 19:00:39 2022 -0600
+
+    Fixed error with Makefile
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit e7bd69361f0386b25b73a3989dc68ac54fcaac1f
+Author: Ethan Marchbanks <edmqgc@umsystem.edu>
+Date:   Fri Jan 28 18:59:14 2022 -0600
+
+    Added my sentences to Makefile, _HEADERS.h, and story.c
+
+ Makefile             | 5 ++++-
+ sentences/_HEADERS.h | 2 ++
+ story.c              | 2 ++
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+
+commit b237cdf693f8c07f59837ccb49d91e16900e0d1a
+Author: Ethan Marchbanks <edmqgc@umsystem.edu>
+Date:   Fri Jan 28 18:54:04 2022 -0600
+
+    Created edmqgc.c
+
+ sentences/edmqgc.c | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit d88015a77c85a45ad2e258910bd30e7346ef3460
+Merge: 0da5648 e0b7bee
+Author: Kees Kint <98284737+k1nty@users.noreply.github.com>
+Date:   Fri Jan 28 18:08:23 2022 -0600
+
+    Merge pull request #83 from MUSoftwareEngineering/kjkvfw
+    
+    Kjkvfw changes
+
+commit e0b7bee079185b21ba32b1c5daca24bfa1599402
+Author: k1nty <k1nty@protonmail.com>
+Date:   Fri Jan 28 17:46:15 2022 -0600
+
+    new story commit
+
+ sentences/kjkvfw.c | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit dc1b74ba52b9acec40f26e3a2ea3b886c2592cd4
+Author: k1nty <k1nty@protonmail.com>
+Date:   Fri Jan 28 17:40:20 2022 -0600
+
+    story commit
+
+ Makefile             |   5 ++++-
+ sentences/_HEADERS.h |   2 ++
+ story                | Bin 51304 -> 14512 bytes
+ story.c              |  14 ++++++++------
+ the_story.txt        |   2 ++
+ 5 files changed, 16 insertions(+), 7 deletions(-)
+
+commit 0da5648462047bc24517867832dadab4fa057733
+Merge: 6718edd 878a5e3
+Author: Ching-Yun Yu <peteryu54089@gmail.com>
+Date:   Fri Jan 28 13:33:26 2022 -0600
+
+    Merge pull request #82 from MUSoftwareEngineering/cytbm
+    
+    add new story
+
+commit 878a5e3b633ca03e7560adc2995d89ceb3dd88f2
+Author: peteryu54089 <peteryu54089@gmail.com>
+Date:   Fri Jan 28 13:32:59 2022 -0600
+
+    add new story
+
+ Makefile             |   4 +++-
+ sentences/_HEADERS.h |   2 ++
+ sentences/cytbm.c    |  15 +++++++++++++++
+ story                | Bin 51200 -> 51304 bytes
+ story.c              |   2 ++
+ the_story.txt        |   2 ++
+ 6 files changed, 24 insertions(+), 1 deletion(-)
+
+commit 6718edd8f1d1b548b8510575f8b77b62e40d95a6
+Author: cejnfp <cejnfp@gmail.com>
+Date:   Fri Jan 28 13:23:53 2022 -0600
+
+    cejnfp
+
+ Makefile             |   6 +++++-
+ sentences/_HEADERS.h |   4 +++-
+ sentences/cejnfp.c   |  15 +++++++++++++++
+ story                | Bin 0 -> 51200 bytes
+ story.c              |   2 ++
+ the_story.txt        |   4 ++++
+ 6 files changed, 29 insertions(+), 2 deletions(-)
+
+commit b1536383a0e3538cbc40faef0f7acf8571321485
+Author: Ching-Yun Yu <peteryu54089@gmail.com>
+Date:   Fri Jan 28 12:47:05 2022 -0600
+
+    Delete .vscode directory
+
+ .vscode/settings.json | 5 -----
+ 1 file changed, 5 deletions(-)
+
+commit 69d346cd2309d59bf5fe2598cd809e8437e07802
+Author: Ching-Yun Yu <peteryu54089@gmail.com>
+Date:   Fri Jan 28 12:46:56 2022 -0600
+
+    Delete .idea directory
+
+ .idea/workspace.xml | 174 ----------------------------------------------------
+ 1 file changed, 174 deletions(-)
+
+commit 3458a47692cf108e1a816e6340855100ab1a6040
+Author: Ching-Yun Yu <peteryu54089@gmail.com>
+Date:   Fri Jan 28 12:45:41 2022 -0600
+
+    Delete a.exe
+
+ a.exe | Bin 58112 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9d3bc3a46c3b9e13324b91c9dfd0982bac94a620
+Author: Ching-Yun Yu <peteryu54089@gmail.com>
+Date:   Fri Jan 28 12:45:33 2022 -0600
+
+    Delete Story1.exe
+
+ Story1.exe | Bin 58112 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5c1b6437370c6b3c34d42c3e0b58dd49c23f6ee0
+Author: Ching-Yun Yu <peteryu54089@gmail.com>
+Date:   Fri Jan 28 12:45:07 2022 -0600
+
+    Delete .DS_Store
+
+ .DS_Store | Bin 8196 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ff279b18e7434cb6b514d4a1711f6910a3fb3808
+Author: Ching-Yun Yu <peteryu54089@gmail.com>
+Date:   Fri Jan 28 12:44:38 2022 -0600
+
+    Delete .DS_Store
+
+ sentences/.DS_Store | Bin 6148 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b63980119fc74e808d40674818b945e8caf995b7
+Author: peteryu54089 <peteryu54089@gmail.com>
+Date:   Fri Jan 28 12:43:40 2022 -0600
+
+    update .gitignore
+
+ .gitignore | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit 27319dfa89bf59112aadb41b1019dc29f3f20931
+Author: peteryu54089 <peteryu54089@gmail.com>
+Date:   Fri Jan 28 12:39:33 2022 -0600
+
+    edit makefile for hgc8zc
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 8ce0171827e0d1a13d73cbc538a658565c2b1689
+Merge: 9da76f0 c2fb2fb
+Author: ryangates-miller <78566743+ryangates-miller@users.noreply.github.com>
+Date:   Fri Jan 28 12:37:20 2022 -0600
+
+    Merge pull request #81 from MUSoftwareEngineering/rkg7gg
+    
+    Added sentences Ryan Gates-Miller rkg7gg@umsystem.edu
+
+commit c2fb2fb9d5dac718b7e8cc8fd2ba2fac6d02af91
+Author: Ryan GM <rkg7gg@umsystem.edu>
+Date:   Fri Jan 28 12:34:03 2022 -0600
+
+    Added sentences Ryan Gates-Miller rkg7gg@umsystem.edu
+
+ Makefile             |   4 +++-
+ Story1.exe           | Bin 0 -> 58112 bytes
+ a.exe                | Bin 0 -> 58112 bytes
+ sentences/_HEADERS.h |   4 +++-
+ sentences/rkg7gg.c   |  14 ++++++++++++++
+ story.c              |   4 +++-
+ story.exe            | Bin 40911 -> 0 bytes
+ 7 files changed, 23 insertions(+), 3 deletions(-)
+
+commit 9da76f0e097885c4f87a8237d43975745021006f
+Author: hannahcastelvecchi <hancastel@gmail.com>
+Date:   Fri Jan 28 10:40:06 2022 -0600
+
+    edit makefile for hgc8zc
+
+ Makefile | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit 527b6e006fbb2007840b88464f9254b967256a1b
+Author: hannahcastelvecchi <hancastel@gmail.com>
+Date:   Fri Jan 28 10:36:03 2022 -0600
+
+    edit sentences hgc8zc
+
+ sentences/_HEADERS.h | 2 ++
+ sentences/hgc8zc.c   | 4 ++--
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+commit 42f58a53cb0aa5a47f6054b17ca40b75c00eb5be
+Merge: cbf4509 ff0910a
+Author: Tubzers <noahmcdonell@gmail.com>
+Date:   Fri Jan 28 08:48:44 2022 -0600
+
+    Merge pull request #79 from MUSoftwareEngineering/nrmb9r
+    
+    Added sentences and changed makefile
+
+commit ff0910ad0d0fde1a8be201471e7683051825c1d8
+Author: Noah McDonell <nrmb9r@umsystem.edu>
+Date:   Fri Jan 28 08:45:29 2022 -0600
+
+    Added sentences and chagned makefile stuff
+
+ Makefile             |  5 ++++-
+ sentences/_HEADERS.h |  2 ++
+ sentences/nrmb9r.c   | 12 ++++++++++++
+ story.c              |  3 ++-
+ the_story.txt        |  2 ++
+ 5 files changed, 22 insertions(+), 2 deletions(-)
+
+commit cbf4509b13866c979dc581155ae2e5e23cb45021
+Author: monkey2987 <rjkncd@umsystem.edu>
+Date:   Fri Jan 28 01:28:53 2022 -0600
+
+    rjkncd changes
+
+ Makefile             |   5 ++++-
+ sentences/_HEADERS.h |   2 ++
+ sentences/rjkncd.c   |  14 ++++++++++++++
+ story.c              |   2 ++
+ story.exe            | Bin 0 -> 40911 bytes
+ the_story.txt        |   2 ++
+ 6 files changed, 24 insertions(+), 1 deletion(-)
+
+commit ed0732f73136eb21782c5760c798de516badc203
+Merge: 07848c2 6d324a6
+Author: Jevans230 <77816513+Jevans230@users.noreply.github.com>
+Date:   Thu Jan 27 21:41:16 2022 -0600
+
+    Merge pull request #78 from MUSoftwareEngineering/Jee9pv
+    
+    Jee9pv Changes
+
+commit 6d324a69a4f90c3d6b22811bdd6845410a4f7c2f
+Author: Jevans230 <jalinevans@gmail.com>
+Date:   Thu Jan 27 21:34:49 2022 -0600
+
+    Jee9pv Changes
+
+ Github exercise_1.pdf | Bin 117575 -> 0 bytes
+ Makefile              |   5 ++++-
+ sentences/_HEADERS.h  |   2 ++
+ sentences/hgc8zc.c    |   4 ++--
+ sentences/jee9pv.c    |  13 +++++++++++++
+ story                 | Bin 50560 -> 0 bytes
+ story.c               |   2 ++
+ the_story.txt         |   2 ++
+ 8 files changed, 25 insertions(+), 3 deletions(-)
+
+commit 07848c2bf74803fa73bcd199f7f43db3163ab1cd
+Author: Ethan Duke <ethan.duke@icloud.com>
+Date:   Thu Jan 27 20:09:59 2022 -0600
+
+    Update .DS_Store
+
+ sentences/.DS_Store | Bin 6148 -> 6148 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d2f1ec07e84b9c2c1eafbe0f339de0c91e5dcb44
+Merge: d455482 12fd3c5
+Author: Ethan Duke <ethan.duke@icloud.com>
+Date:   Thu Jan 27 20:09:13 2022 -0600
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic
+
+commit d45548215bc0deafd279ec21a10de1ac9611f278
+Author: Ethan Duke <ethan.duke@icloud.com>
+Date:   Thu Jan 27 20:08:55 2022 -0600
+
+    Ethan's Sentences
+    
+    Ethan Duke's sentences. Pawprint: esdnk7
+
+ .DS_Store            | Bin 6148 -> 8196 bytes
+ Makefile             |   5 ++++-
+ sentences/.DS_Store  | Bin 6148 -> 6148 bytes
+ sentences/_HEADERS.h |   2 ++
+ sentences/esdnk7.c   |  13 +++++++++++++
+ story                | Bin 50448 -> 50560 bytes
+ story.c              |   2 ++
+ the_story.txt        |   2 ++
+ 8 files changed, 23 insertions(+), 1 deletion(-)
+
+commit 12fd3c56c0dc6268a99f0eee8afce37fca361e67
+Merge: f1a9387 de113eb
+Author: hannahcastelvecchi <56701614+hannahcastelvecchi@users.noreply.github.com>
+Date:   Thu Jan 27 19:51:24 2022 -0600
+
+    Merge pull request #77 from MUSoftwareEngineering/hgc8zc
+    
+    sentences for hgc8zc
+
+commit de113ebd6bfdeb662d253ebaca968dd538910864
+Author: hannahcastelvecchi <hancastel@gmail.com>
+Date:   Thu Jan 27 19:32:14 2022 -0600
+
+    sentences for hgc8zc
+
+ sentences/hgc8zc.c | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit f1a938782a9a279d6cda717816393ec02d6d0c5f
+Merge: d011607 45332ce
+Author: RyanBHuynh <80216253+RyanBHuynh@users.noreply.github.com>
+Date:   Thu Jan 27 18:49:21 2022 -0600
+
+    Merge pull request #76 from MUSoftwareEngineering/rbhmm5
+    
+    add Ryan Huynh's sentences to branch
+
+commit 45332ce561b8ca73ccb12483736ac7bf337eff28
+Author: Ryan Huynh <ryanhuynh@mu-582531.dhcp.missouri.edu>
+Date:   Thu Jan 27 18:47:33 2022 -0600
+
+    add Ryan Huynh's sentences to branch
+
+ .vscode/settings.json |   5 +++++
+ Makefile              |   5 ++++-
+ sentences/_HEADERS.h  |   2 ++
+ sentences/rbhmm5.c    |  14 ++++++++++++++
+ story                 | Bin 50352 -> 50448 bytes
+ story.c               |   2 ++
+ the_story.txt         |   2 ++
+ 7 files changed, 29 insertions(+), 1 deletion(-)
+
+commit d011607ca3637af45733b9dc6dd45bd18037eef7
+Author: RyanBHuynh <80216253+RyanBHuynh@users.noreply.github.com>
+Date:   Thu Jan 27 18:13:10 2022 -0600
+
+    Update README.md to the right semester
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 9d46ef173e6a140dc33a7598087a4e8f0746af48
+Merge: 7b03206 fa0a0a1
+Author: amul3 <97993966+amul3@users.noreply.github.com>
+Date:   Thu Jan 27 18:11:37 2022 -0600
+
+    Merge pull request #75 from MUSoftwareEngineering/amz28
+    
+    Update Makefile
+
+commit fa0a0a14d520cddb9de2b501fb15c1b7a915ef99
+Author: amul3 <amulakala3@gmail.com>
+Date:   Thu Jan 27 18:10:30 2022 -0600
+
+    Update Makefile
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 7b03206f0a0cd71fe9dc9ee548598c03aa35dfdb
+Merge: f7e44fb f64d567
+Author: amul3 <97993966+amul3@users.noreply.github.com>
+Date:   Thu Jan 27 18:05:00 2022 -0600
+
+    Merge pull request #73 from MUSoftwareEngineering/amz28
+    
+    added akhil mulakala sentences
+
+commit f64d56785472b8945e9b00f20523461bddb77721
+Author: amul3 <amulakala3@gmail.com>
+Date:   Thu Jan 27 18:03:39 2022 -0600
+
+    added akhil mulakala sentences
+
+ .DS_Store            | Bin 6148 -> 6148 bytes
+ Makefile             |   4 ++++
+ sentences/.DS_Store  | Bin 8196 -> 6148 bytes
+ sentences/_HEADERS.h |   2 ++
+ sentences/amz28.c    |  13 +++++++++++++
+ story                | Bin 13156 -> 50352 bytes
+ story.c              |   2 ++
+ the_story.txt        |   4 ++++
+ 8 files changed, 25 insertions(+)
+
+commit f7e44fbf24883efdc4f71e2c6bdd76dc9ba62c2f
+Merge: 2e7e062 547cd71
+Author: QueueTea <qthuet@gmail.com>
+Date:   Thu Jan 27 13:51:09 2022 -0600
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic
+
+commit 2e7e062435826472c9fafe184ceb72de9369d162
+Merge: 37b712a 4fca4bb
+Author: QueueTea <qthuet@gmail.com>
+Date:   Thu Jan 27 13:48:43 2022 -0600
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic
+
+commit 37b712a10286935a96018ac047bc89bc59810e17
+Author: QueueTea <qthuet@gmail.com>
+Date:   Thu Jan 27 13:42:46 2022 -0600
+
+    new sentence + issue fix
+    
+    this adds the sentences made by me as well as fixes a possible issue with the bpbkt7.o file not existing
+
+ Makefile             |   7 ++++++-
+ sentences/_HEADERS.h |   2 ++
+ sentences/qpty9t.c   |  22 ++++++++++++++++++++++
+ story                | Bin 13156 -> 17464 bytes
+ story.c              |   3 ++-
+ the_story.txt        |   2 ++
+ 6 files changed, 34 insertions(+), 2 deletions(-)
+
+commit 547cd71f2faac0e1a277b8db653aa64793b42164
+Author: James Collier <jmchpd@umsystem.edu>
+Date:   Thu Jan 27 13:40:37 2022 -0600
+
+    James Collier - adding sentences
+    
+    Adding to the story! HEADERS.h, Makefile, and story.c were edited to
+    accommodate the new functions in sentences/jmchpd.c.
+
+ Makefile             |  5 +++--
+ sentences/_HEADERS.h |  2 ++
+ sentences/jmchpd.c   | 11 +++++++++++
+ story.c              |  2 ++
+ 4 files changed, 18 insertions(+), 2 deletions(-)
+
+commit 4fca4bba10946126c5d193b1e8fbdd5f79f5ca63
+Merge: f675d88 6600310
+Author: James Collier <jmchpd@umsystem.edu>
+Date:   Thu Jan 27 13:34:32 2022 -0600
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 6600310b5591b31ce127dd0a30cca909656e2c8b
+Author: Devynne Miller <millerdevynne@gmail.com>
+Date:   Thu Jan 27 13:34:05 2022 -0600
+
+    Fixed grammar error
+
+ sentences/dmmdnr.c |   2 +-
+ story              | Bin 13156 -> 13156 bytes
+ the_story.txt      |   2 +-
+ 3 files changed, 2 insertions(+), 2 deletions(-)
+
+commit f675d88f8ba458463e85ab4baf8e3a820b0f7e45
+Merge: 2d72188 15a10b8
+Author: James Collier <jmchpd@umsystem.edu>
+Date:   Thu Jan 27 13:33:37 2022 -0600
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic
+    
+    # Conflicts:
+    #       story
+
+commit 15a10b8eb530a66dad4dbb733f5bf5c25db16887
+Author: Devynne Miller <millerdevynne@gmail.com>
+Date:   Thu Jan 27 13:31:13 2022 -0600
+
+    Added sentences
+
+ Makefile             |   5 ++++-
+ sentences/_HEADERS.h |   2 ++
+ sentences/dmmdnr.c   |  15 +++++++++++++++
+ story                | Bin 49920 -> 13156 bytes
+ story.c              |   2 ++
+ the_story.txt        |   2 ++
+ 6 files changed, 25 insertions(+), 1 deletion(-)
+
+commit 2d7218833a019d87e0c1440f3a296d7ce29ee829
+Author: James Collier <jmchpd@umsystem.edu>
+Date:   Thu Jan 27 13:30:54 2022 -0600
+
+    Fixing Makefile Bug
+    
+    Adding target and dependencies for 'bpbkt7.o' in Makefile so make
+    command works as expected
+
+ .idea/workspace.xml | 174 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Makefile            |   4 +-
+ story               | Bin 49920 -> 49920 bytes
+ story.c             |   2 +-
+ 4 files changed, 177 insertions(+), 3 deletions(-)
+
+commit cb25abff5443226c95fcbaaf48618472520c2d54
+Merge: b751ab7 f7d80b6
+Author: Brian Beach <beachbri000@gmail.com>
+Date:   Thu Jan 27 13:05:17 2022 -0600
+
+    BEBZ4T: Added sentences
+
+commit b751ab780b7d697084e29920f26272a4c62f86ae
+Author: Brian Beach <beachbri000@gmail.com>
+Date:   Thu Jan 27 12:58:50 2022 -0600
+
+    BEBZ4T: Added sentences
+
+ Makefile             |  68 +++------------------------------------------------
+ sentences/_HEADERS.h |   2 ++
+ sentences/bebz4t.c   |  15 ++++++++++++
+ story                | Bin 16408 -> 49824 bytes
+ story.c              |   3 ++-
+ the_story.txt        |   4 +++
+ 6 files changed, 27 insertions(+), 65 deletions(-)
+
+commit f7d80b6069460a6c421fc0a24ca8b0072ff6ef32
+Author: 23z23x <1zach2summers@gmail.com>
+Date:   Thu Jan 27 12:46:27 2022 -0600
+
+    Added zwsx9f senteces.
+
+ Makefile             |  67 ++-------------------------------------------------
+ sentences/_HEADERS.h |   2 ++
+ sentences/zwsx9f.c   |  18 ++++++++++++++
+ story                | Bin 16408 -> 16520 bytes
+ story.c              |   7 ++++++
+ the_story.txt        |   2 ++
+ 6 files changed, 31 insertions(+), 65 deletions(-)
+
+commit 27e09acff68d7d1f19b929f276875b37409a839f
+Author: 23z23x <1zach2summers@gmail.com>
+Date:   Thu Jan 27 12:22:13 2022 -0600
+
+    Removed all old sentences
+
+ sentences/_HEADERS.h |  66 ---------------------------------------------------
+ sentences/aahb8f.c   |  15 ------------
+ sentences/akyvv.c    |  15 ------------
+ sentences/cpdkd3.c   |  13 ----------
+ sentences/cqrqfd.c   |  15 ------------
+ sentences/crwxnw.c   |  11 ---------
+ sentences/cslgbt.c   |  10 --------
+ sentences/dhkzy.c    |  15 ------------
+ sentences/gatxmr.c   |  13 ----------
+ sentences/jlz83.c    |  15 ------------
+ sentences/jmdm4r.c   |  15 ------------
+ sentences/jnqqq.c    |  13 ----------
+ sentences/jslct5.c   |  14 -----------
+ sentences/jts9z8.c   |  18 --------------
+ sentences/kafgc2.c   |  16 -------------
+ sentences/kgk2bt.c   |  15 ------------
+ sentences/mdhtf3.c   |  11 ---------
+ sentences/mkcbd.c    |  13 ----------
+ sentences/motc34.c   |  13 ----------
+ sentences/nrb8qf.c   |  12 ----------
+ sentences/nsfq94.c   |  14 -----------
+ sentences/nst9fk.c   |  15 ------------
+ sentences/nwewnh.c   |  13 ----------
+ sentences/rrbxcf.c   |  18 --------------
+ sentences/rsb3x.c    |  11 ---------
+ sentences/sd7my.c    |  13 ----------
+ sentences/sldn3f.c   |  15 ------------
+ sentences/srcft.c    |  13 ----------
+ sentences/tjw38t.c   |  14 -----------
+ sentences/tmgnnw.c   |  11 ---------
+ sentences/todhw.c    |  15 ------------
+ sentences/ttdghk.c   |  10 --------
+ sentences/yy9p4.c    |  12 ----------
+ story                | Bin 0 -> 16408 bytes
+ story.c              |  66 ---------------------------------------------------
+ the_story.txt        |  64 -------------------------------------------------
+ 36 files changed, 632 deletions(-)
+
+commit 450deae2401ec4b27d90b2f40b4d08bcc30c574d
+Author: Atul Krishnadas <atul.krishnadas@outlook.com>
+Date:   Thu Jan 20 14:05:25 2022 -0600
+
+    forgot to make clean, commiting clean version now
+
+ story | Bin 24592 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3d6b449f1ad93efc63e31102058271c5536a218f
+Author: Atul Krishnadas <atul.krishnadas@outlook.com>
+Date:   Thu Jan 20 14:04:30 2022 -0600
+
+    tmgnww and bpbkt7 were accidentally compiled twice, removed second instance ; added my sentences
+
+ .gitignore           |  22 ++---
+ Makefile             | 269 +++++++++++++++++++++++++--------------------------
+ sentences/_HEADERS.h | 146 ++++++++++++++--------------
+ sentences/aahb8f.c   |  30 +++---
+ sentences/akyvv.c    |  15 +++
+ sentences/cpdkd3.c   |  26 ++---
+ sentences/cqrqfd.c   |  28 +++---
+ sentences/crwxnw.c   |  20 ++--
+ sentences/cslgbt.c   |  18 ++--
+ sentences/dhkzy.c    |  28 +++---
+ sentences/gatxmr.c   |  26 ++---
+ sentences/jlz83.c    |  30 +++---
+ sentences/jmdm4r.c   |  28 +++---
+ sentences/jnqqq.c    |  26 ++---
+ sentences/jslct5.c   |  28 +++---
+ sentences/kafgc2.c   |  32 +++---
+ sentences/kgk2bt.c   |  28 +++---
+ sentences/mdhtf3.c   |  20 ++--
+ sentences/mkcbd.c    |  24 ++---
+ sentences/motc34.c   |  24 ++---
+ sentences/nrb8qf.c   |  24 ++---
+ sentences/nsfq94.c   |  26 ++---
+ sentences/nst9fk.c   |  28 +++---
+ sentences/nwewnh.c   |  26 ++---
+ sentences/rrbxcf.c   |  34 +++----
+ sentences/rsb3x.c    |  22 ++---
+ sentences/sd7my.c    |  26 ++---
+ sentences/sldn3f.c   |  28 +++---
+ sentences/srcft.c    |  24 ++---
+ sentences/tjw38t.c   |  26 ++---
+ sentences/todhw.c    |  28 +++---
+ sentences/ttdghk.c   |  18 ++--
+ sentences/yy9p4.c    |  22 ++---
+ story                | Bin 0 -> 24592 bytes
+ story.c              | 222 +++++++++++++++++++++---------------------
+ the_story.txt        |  72 ++++++++++++++
+ 36 files changed, 789 insertions(+), 705 deletions(-)
+
+commit 138c080689a1e583233e7c4d77e51d259ccd0243
+Merge: 51db3c3 e78a42c
+Author: Sean Goggins <s@goggins.com>
+Date:   Tue Jan 18 13:38:19 2022 -0600
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 51db3c362438bc7cfce4d61ceb35e5cb00a79b6c
+Author: Sean Goggins <s@goggins.com>
+Date:   Tue Jan 18 13:35:27 2022 -0600
+
+    spring 2022
+
+ Makefile                                    | 136 ++++++++--------
+ a.exe                                       | Bin 54675 -> 0 bytes
+ branch_tmgnnw.log                           | 230 ----------------------------
+ branch_tmgnnw.zip                           | Bin 21909 -> 0 bytes
+ main_tmgnnw.log                             | 212 -------------------------
+ master_tmgnnw.log                           | 230 ----------------------------
+ "master_tmgnnw.log\357\200\252\357\200\252" | 230 ----------------------------
+ story                                       | Bin 49624 -> 0 bytes
+ story.exe                                   | Bin 55934 -> 0 bytes
+ story.o                                     | Bin 1720 -> 0 bytes
+ the_story.txt                               |  11 --
+ tmgnnw.o                                    | Bin 1044 -> 0 bytes
+ 12 files changed, 67 insertions(+), 982 deletions(-)
+
+commit e78a42cfa594c9cb4b491ae0a0bf269276070ae0
+Merge: 19bf070 0e45025
+Author: Grant Teters <51384311+gteters@users.noreply.github.com>
+Date:   Sat Sep 4 23:33:42 2021 -0500
+
+    Merge pull request #68 from MUSoftwareEngineering/master
+    
+    fixed makefile
+
+commit 0e45025dd48dd344e2680662cff41abfacf4af54
+Author: Grant Teters <gatxmr@umsystem.edu>
+Date:   Sat Sep 4 23:13:00 2021 -0500
+
+    fixed makefile
+
+ Makefile      |   4 ++--
+ story         | Bin 52672 -> 52888 bytes
+ the_story.txt |   4 ++++
+ 3 files changed, 6 insertions(+), 2 deletions(-)
+
+commit 19bf070d1ab0ff1411601bee28ee26ca6bbe2c25
+Merge: ec6e54a 446218c
+Author: Grant Teters <51384311+gteters@users.noreply.github.com>
+Date:   Sat Sep 4 23:09:44 2021 -0500
+
+    Merge pull request #67 from MUSoftwareEngineering/gatxmr
+    
+    gatxmr commit
+
+commit 446218c2cea5c53ec2794371fb3fb6bf5dfb1e52
+Merge: cbdada1 ec6e54a
+Author: Grant Teters <51384311+gteters@users.noreply.github.com>
+Date:   Sat Sep 4 23:08:05 2021 -0500
+
+    Merge branch 'main' into gatxmr
+
+commit ec6e54a81506da520c6d184891ef3988efec0244
+Author: ashtonhess <ashton.hess@yahoo.com>
+Date:   Sat Sep 4 22:46:29 2021 -0500
+
+    aahb8f commit
+
+ .DS_Store            | Bin 10244 -> 6148 bytes
+ Makefile             |   2 ++
+ sentences/.DS_Store  | Bin 8196 -> 8196 bytes
+ sentences/_HEADERS.h |   3 ++-
+ sentences/aahb8f.c   |  15 +++++++++++++++
+ story.c              |   4 +++-
+ 6 files changed, 22 insertions(+), 2 deletions(-)
+
+commit cbdada12b6960aa18adb4ba74583c71cd6674a23
+Author: Grant Teters <gatxmr@umsystem.edu>
+Date:   Sat Sep 4 20:50:08 2021 -0500
+
+    gatxmr story
+
+ sentences/gatxmr.c | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit 695c99013c7bb1f92f64af268c8228e25244c450
+Author: Grant Teters <gatxmr@umsystem.edu>
+Date:   Sat Sep 4 20:49:07 2021 -0500
+
+    gatxmr story
+
+ Makefile             |   4 +++-
+ sentences/_HEADERS.h |   3 ++-
+ story                | Bin 53106 -> 52672 bytes
+ story.c              |   5 ++++-
+ the_story.txt        |   2 ++
+ 5 files changed, 11 insertions(+), 3 deletions(-)
+
+commit 13d9df9230ba54dc6289be0668e0458526acdf95
+Author: Yilong Yuan <yy9p4@umsystem.edu>
+Date:   Sat Sep 4 19:45:32 2021 -0500
+
+    yy9p4 story
+
+ Makefile             |   2 ++
+ sentences/_HEADERS.h |   2 ++
+ sentences/yy9p4.c    |  12 ++++++++++++
+ story.c              |   2 ++
+ story.exe            | Bin 59068 -> 0 bytes
+ 5 files changed, 18 insertions(+)
+
+commit a3f4f59e175100a701ddf0895bb3b4d7796f9ef1
+Merge: 8c5387b aab6cf5
+Author: Joshua <39896452+Joshinn-io@users.noreply.github.com>
+Date:   Sat Sep 4 19:05:20 2021 -0500
+
+    Merge pull request #65 from MUSoftwareEngineering/master
+    
+    jts9z8 story addition
+
+commit aab6cf584d21085fe7ea44e02f83c64a6cdc9594
+Merge: d97ca22 8c5387b
+Author: Joshua <39896452+Joshinn-io@users.noreply.github.com>
+Date:   Sat Sep 4 19:05:13 2021 -0500
+
+    Merge branch 'main' into master
+
+commit d97ca22e3b5c0d5e70b1151a36005dd73be42a9a
+Author: Joshua Sampsell <19jsampsell.gmail.com>
+Date:   Sat Sep 4 19:03:07 2021 -0500
+
+    jts9z8 story addition
+
+ .DS_Store            | Bin 0 -> 10244 bytes
+ Makefile             |   4 +++-
+ sentences/.DS_Store  | Bin 0 -> 8196 bytes
+ sentences/_HEADERS.h |   2 ++
+ sentences/jts9z8.c   |  18 ++++++++++++++++++
+ story                | Bin 0 -> 53106 bytes
+ story.c              |   2 ++
+ the_story.txt        |   9 +++++----
+ 8 files changed, 30 insertions(+), 5 deletions(-)
+
+commit 94d9c19ac13039ca8b9455ef8641920f9aafc3ed
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:45:18 2021 -0500
+
+    Update rsb3x.c
+
+ sentences/rsb3x.c | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 8c5387b0ac156c8139ee9a87324f828e2051b57b
+Author: Justin Nguyen <jnqqq@umsystem.edu>
+Date:   Sat Sep 4 13:51:24 2021 -0500
+
+    Updated the_story.txt
+
+ the_story.txt | 7 +++----
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+
+commit 4ee37e1e3a4f21f5780e651f899a923122d53894
+Merge: 0dff53f 3558b6d
+Author: Justin Nguyen <jnqqq@umsystem.edu>
+Date:   Sat Sep 4 13:43:43 2021 -0500
+
+    Resolved merge conflicts
+
+commit 3558b6d99a56243bb33115850bd847dee46b66db
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:38:36 2021 -0500
+
+    Update Makefile
+
+ Makefile | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 219e864021c236ebce877e5fcf540b36018fad85
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:37:35 2021 -0500
+
+    Update Makefile
+
+ Makefile | 2 --
+ 1 file changed, 2 deletions(-)
+
+commit 065b09d9a1c3bf7ebc8506f5ce27e1b514bdb62b
+Merge: 235292e 6a44fee
+Author: Romelo-S <rsb3x@umsystem.edu>
+Date:   Sat Sep 4 18:31:34 2021 -0500
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic into main
+
+commit 6a44feefc4b1e09660079aa87fc42e03991db038
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:31:07 2021 -0500
+
+    Update rs3bx.c
+
+ sentences/rs3bx.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 235292e1cb17255a3106c467c8d842d2cd4e6513
+Merge: 0708710 5790e35
+Author: Romelo-S <rsb3x@umsystem.edu>
+Date:   Sat Sep 4 18:29:18 2021 -0500
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic into main
+
+commit 5790e35084e3d1e6454d067bbe850153afded58c
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:29:00 2021 -0500
+
+    Update _HEADERS.h
+
+ sentences/_HEADERS.h | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 0708710f5f892cbdf95089fea98e1d5cd1401bff
+Merge: 6837f2b 2a07b6f
+Author: Romelo-S <rsb3x@umsystem.edu>
+Date:   Sat Sep 4 18:27:28 2021 -0500
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic into main
+
+commit 6837f2baf505511a162ae3cd38d4f56b5045b584
+Author: Romelo-S <rsb3x@umsystem.edu>
+Date:   Sat Sep 4 18:27:09 2021 -0500
+
+    Update story.exe
+
+ story.exe | Bin 59068 -> 59068 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2a07b6f385ce188ef47356b97f007a3d17e52829
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:25:45 2021 -0500
+
+    Update Makefile
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 4600d3cc3c9764a177da25c9e9fa76e3c466c2c5
+Author: Romelo-S <rsb3x@umsystem.edu>
+Date:   Sat Sep 4 18:22:44 2021 -0500
+
+    Update story.exe
+
+ story.exe | Bin 71167 -> 59068 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d3c9d07ae59a8b13a2a0ce6c6834222be4b8f253
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:20:43 2021 -0500
+
+    Update Makefile
+
+ Makefile | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit aa0e83c7b03bf504dbe78f534db3f76f842047e1
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:18:35 2021 -0500
+
+    Update story.c
+
+ story.c | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 009806b2b2d9abd0b9cb1571fdc39f688600b416
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:16:36 2021 -0500
+
+    Update rs3bx.c
+    
+    Baisc code too hard
+
+ sentences/rs3bx.c | 13 +++++++++++--
+ 1 file changed, 11 insertions(+), 2 deletions(-)
+
+commit e3f4ea3c8730ae2c9fb51b820ee1717d6257f97b
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:13:28 2021 -0500
+
+    Update _HEADERS.h
+
+ sentences/_HEADERS.h | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit fd3ffab22098edfa25d1a243959168e89b90a855
+Author: Romelo-S <89549904+Romelo-S@users.noreply.github.com>
+Date:   Sat Sep 4 18:11:14 2021 -0500
+
+    Create rs3bx.c
+
+ sentences/rs3bx.c | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit be84614f699e231981813fbc20721cd4933123ae
+Author: sarahduong <55358698+sarahduong@users.noreply.github.com>
+Date:   Sat Sep 4 17:52:29 2021 -0500
+
+    Fix Typo
+
+ sentences/sd7my.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 3bd80fd515ae6afd0bab18bac5bdf6d297d34f24
+Merge: 82a4fc8 e180e2b
+Author: sarahduong <55358698+sarahduong@users.noreply.github.com>
+Date:   Sat Sep 4 17:46:36 2021 -0500
+
+    Merge pull request #64 from MUSoftwareEngineering/sd7my
+    
+    Add sd7my branch
+
+commit e180e2bd4958c648846096347be9811421b8b4df
+Author: sarahduong <55358698+sarahduong@users.noreply.github.com>
+Date:   Sat Sep 4 17:42:18 2021 -0500
+
+    Delete sd7my.o
+
+ sd7my.o | Bin 1984 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f23a38e3c18890e620eeb52a0d527646d50101f3
+Author: sarahduong <55358698+sarahduong@users.noreply.github.com>
+Date:   Sat Sep 4 17:41:33 2021 -0500
+
+    Add sd7my.o
+
+ sd7my.o | Bin 0 -> 1984 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 66e2200b86d1ecf69f1e3998a40ef8720cf7f209
+Author: sarahduong <55358698+sarahduong@users.noreply.github.com>
+Date:   Sat Sep 4 17:41:00 2021 -0500
+
+    Update the_story.txt
+
+ the_story.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit fa6b6e91a2dc99fbb1e6af15ba79d570bbf4e313
+Author: sarahduong <55358698+sarahduong@users.noreply.github.com>
+Date:   Sat Sep 4 17:34:42 2021 -0500
+
+    Update story.c
+
+ story.c | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 515df5480abf8c30aecfebaacf7b00119bab1893
+Author: sarahduong <55358698+sarahduong@users.noreply.github.com>
+Date:   Sat Sep 4 17:34:15 2021 -0500
+
+    Update _HEADERS.h
+
+ sentences/_HEADERS.h | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 8959e315e835049b0d8df16a50d7c3b7fd835a41
+Author: sarahduong <55358698+sarahduong@users.noreply.github.com>
+Date:   Sat Sep 4 17:33:22 2021 -0500
+
+    Create sd7my.c
+
+ sentences/sd7my.c | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit 7d53f564b0386a474978b5d9dc6e9ca00e29c958
+Author: sarahduong <55358698+sarahduong@users.noreply.github.com>
+Date:   Sat Sep 4 17:30:37 2021 -0500
+
+    Update Makefile
+
+ Makefile | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 82a4fc873d0c66dd03a483e8f4b0fcf2e9dedc2c
+Merge: 2cd37e3 4dc7ef5
+Author: bglob <84149571+bglob@users.noreply.github.com>
+Date:   Sat Sep 4 16:57:45 2021 -0500
+
+    Merge pull request #63 from MUSoftwareEngineering/crwxnw
+    
+    Did Assignment
+
+commit 4dc7ef5169d3f489746309ca1f0b95db41e924ee
+Merge: 2723813 2cd37e3
+Author: Caleb Wilcox <crwxnw@umsystem.edu>
+Date:   Sat Sep 4 16:57:23 2021 -0500
+
+    Merge branch 'main' into crwxnw
+
+commit 2cd37e3b833c867b13d40e636de4a148354a09f1
+Author: ttdghk <78703123+ttdghk@users.noreply.github.com>
+Date:   Sat Sep 4 16:47:34 2021 -0500
+
+    ttdghk sentences
+
+ Makefile             |   4 +++-
+ sentences/_HEADERS.h |   2 ++
+ sentences/ttdghk.c   |  10 ++++++++++
+ story.c              |   2 ++
+ story.exe            | Bin 0 -> 57878 bytes
+ the_story.txt        |   2 ++
+ 6 files changed, 19 insertions(+), 1 deletion(-)
+
+commit 27238136cf00dd0d2a5155864d92d061fba27c9c
+Author: Caleb Wilcox <crwxnw@umsystem.edu>
+Date:   Sat Sep 4 16:46:40 2021 -0500
+
+    Did Assignment
+
+ Makefile             |   4 +++-
+ sentences/_HEADERS.h |   3 ++-
+ sentences/crwxnw.c   |  11 +++++++++++
+ story.c              |   6 ++++--
+ story.exe            | Bin 0 -> 71167 bytes
+ the_story.txt        |   2 ++
+ 6 files changed, 22 insertions(+), 4 deletions(-)
+
+commit 0dff53fe279a3cbe713d5aa19b010eb105ecdae4
+Merge: bec137f 6a44fee
+Author: Justin Nguyen <jnqqq@umsystem.edu>
+Date:   Sat Sep 4 13:42:23 2021 -0500
+
+    Fixed merged conflicts
+
+commit bec137ff2e901f02aecfd0cf8e81eb786f144544
+Author: Justin Nguyen <jnqqq@umsystem.edu>
+Date:   Sat Sep 4 13:32:58 2021 -0500
+
+    Completed second part
+
+ Makefile             |   4 +++-
+ sentences/_HEADERS.h |   5 ++---
+ sentences/jnqqq.c    |  13 +++++++++++++
+ story.c              |   6 ++++--
+ story.exe            | Bin 71167 -> 0 bytes
+ the_story.txt        |   2 ++
+ 6 files changed, 24 insertions(+), 6 deletions(-)
+
+commit 74253a380df6da5e50663d259bc62b0bdad806d1
+Merge: 4143838 c371309
+Author: Tjw38t <78340130+Tjw38t@users.noreply.github.com>
+Date:   Sat Sep 4 12:16:16 2021 -0500
+
+    Merge pull request #62 from MUSoftwareEngineering/tjw38t
+    
+    tjw38t commit
+
+commit c3713095b34f600870e4367bf27106e20549faf3
+Author: Tyler Wilkins <tjw38t@umsystem.edu>
+Date:   Sat Sep 4 12:10:05 2021 -0500
+
+    tjw38t commit
+
+ Makefile             |   4 +++-
+ sentences/_HEADERS.h |   2 ++
+ sentences/tjw38t.c   |  14 ++++++++++++++
+ story                | Bin 18964 -> 0 bytes
+ story.c              |   2 ++
+ the_story.txt        |   2 ++
+ 6 files changed, 23 insertions(+), 1 deletion(-)
+
+commit 4143838f1efedb3becf1f542b8a859c903d2de58
+Merge: af02088 d111bd2
+Author: Caroline L <47carolines@gmail.com>
+Date:   Sat Sep 4 11:26:57 2021 -0500
+
+    Merge branch 'cslgbt'
+
+commit d111bd2de788ef463e39cc8cfc90b8ea612c2a2d
+Author: Caroline L <47carolines@gmail.com>
+Date:   Sat Sep 4 11:01:17 2021 -0500
+
+    Added cslgbt sentences
+
+ Makefile             | 12 ++++++++----
+ sentences/_HEADERS.h |  3 ++-
+ sentences/cslgbt.c   | 10 ++++++++++
+ story.c              |  3 ++-
+ the_story.txt        |  3 +++
+ 5 files changed, 25 insertions(+), 6 deletions(-)
+
+commit af02088075807c7c9944ee4ae4c1704b3c42f3e6
+Author: Matt Hackmann <mhackmann13@icloud.com>
+Date:   Sat Sep 4 10:12:40 2021 -0500
+
+    removed .o files from cache
+
+ bpbkt7.o | Bin 980 -> 0 bytes
+ mdhtf3.o | Bin 1068 -> 0 bytes
+ story.o  | Bin 3660 -> 0 bytes
+ tmgnnw.o | Bin 1052 -> 0 bytes
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 11f00d8de331e887bb2d5911e938bcab155a757d
+Merge: a9970af a15f57c
+Author: Matt Hackmann <mhackmann13@icloud.com>
+Date:   Sat Sep 4 09:56:18 2021 -0500
+
+    added my sentence
+
+commit a15f57cf86061a4fe6e91448776a224f5bb4fcc6
+Author: Carson Rottinghaus <cqrottinghaus@gmail.com>
+Date:   Sat Sep 4 06:48:39 2021 +0100
+
+    added cqrqfd sentences
+
+ Makefile             |  4 +++-
+ sentences/_HEADERS.h |  4 +++-
+ sentences/cqrqfd.c   | 15 +++++++++++++++
+ story.c              |  2 ++
+ the_story.txt        |  2 ++
+ 5 files changed, 25 insertions(+), 2 deletions(-)
+
+commit 9e60dde0f5c4b8cfb16b618387d41cecde09cb27
+Author: JamesDonovan1 <jmdm4r@mail.missouri.edu>
+Date:   Sat Sep 4 00:16:17 2021 -0500
+
+    Modified Sentences to fit story
+
+ sentences/jmdm4r.c | 4 ++--
+ story.c            | 4 ++--
+ the_story.txt      | 2 ++
+ 3 files changed, 6 insertions(+), 4 deletions(-)
+
+commit f253a4d477aa04bfac4917aa404ab6c7d6b56d28
+Merge: 47161bc 0b1549d
+Author: JamesDonovan1 <jmdm4r@mail.missouri.edu>
+Date:   Fri Sep 3 22:59:11 2021 -0500
+
+    merge master in
+
+commit 47161bc09776cf9eff988b531fb2de3a27de523a
+Author: JamesDonovan1 <jmdm4r@mail.missouri.edu>
+Date:   Fri Sep 3 20:22:11 2021 -0500
+
+    jmdm4r Sentences
+
+ bpbkt7.o           | Bin 1880 -> 0 bytes
+ jmdm4r.o           | Bin 1920 -> 0 bytes
+ sentences/jmdm4r.c |   4 ++--
+ story              | Bin 17000 -> 0 bytes
+ story.o            | Bin 2376 -> 0 bytes
+ the_story.txt      |   4 ++--
+ 6 files changed, 4 insertions(+), 4 deletions(-)
+
+commit 0b1549d73456242abe11e6c8c6a3dcdd8afd244b
+Author: Chris Drechsel <47867525+Icefang17@users.noreply.github.com>
+Date:   Fri Sep 3 19:19:57 2021 -0500
+
+    Cpdkd3 (#53)
+    
+    * Random commit
+    
+    * Makefile doesn't work properly, but manual commands will get the job done
+    
+    * Deleted .o files and .exe file
+    
+    * Modified files to include my sentences
+    
+    * Trying to fix up repo for pull from master
+    
+    * Expanded .gitignore
+    
+    * Removed my .idea folder
+    
+    Co-authored-by: Chris Drechsel <cpdkd3@mail.missouri.edu>
+
+ .gitignore           |  11 ++++++++++-
+ Makefile             |   6 ++++--
+ sentences/_HEADERS.h |   3 +++
+ sentences/cpdkd3.c   |  13 +++++++++++++
+ sentences/rrbxcf.o   | Bin 1028 -> 0 bytes
+ story.c              |   6 +++++-
+ the_story.txt        |   2 ++
+ 7 files changed, 37 insertions(+), 4 deletions(-)
+
+commit c7973942054b90cc58f422a31c25c19c62ca5c51
+Merge: c3dac98 4ce2480
+Author: Micah Tamerius <73849189+micahremus@users.noreply.github.com>
+Date:   Fri Sep 3 15:44:27 2021 -0500
+
+    Merge pull request #59 from MUSoftwareEngineering/motc34
+    
+    motc34 additions
+
+commit 4ce24808304fa67217b98b8f05e737c159439f0f
+Author: Micah Tamerius <motc34@umsystem.edu>
+Date:   Fri Sep 3 15:29:58 2021 -0500
+
+    motc34 additions
+
+ Makefile             |  4 +++-
+ sentences/_HEADERS.h |  2 ++
+ sentences/motc34.c   | 13 +++++++++++++
+ story.c              |  3 +++
+ the_story.txt        |  5 ++++-
+ 5 files changed, 25 insertions(+), 2 deletions(-)
+
+commit c3dac98132a26ec061ecb3020d143ffd50b402a5
+Author: NToepke <57374771+NToepke@users.noreply.github.com>
+Date:   Fri Sep 3 12:37:44 2021 -0500
+
+    nst9fk additions
+    
+    added my portion of the story.
+
+ Makefile             |  4 +++-
+ sentences/_HEADERS.h |  2 ++
+ sentences/nst9fk.c   | 15 +++++++++++++++
+ sentences/rrbxcf.c   |  2 +-
+ story.c              |  2 ++
+ 5 files changed, 23 insertions(+), 2 deletions(-)
+
+commit a84530dfcae528ed2513d8a94970872d5c2021ba
+Author: Nelson Earle <nwewnh@umsystem.edu>
+Date:   Thu Sep 2 21:42:28 2021 -0500
+
+    remove and prevent object files and executables
+
+ .gitignore |   2 ++
+ bpbkt7.o   | Bin 980 -> 0 bytes
+ dhkzy.o    | Bin 1068 -> 0 bytes
+ jlz83.o    | Bin 1912 -> 0 bytes
+ jslct5.o   | Bin 1076 -> 0 bytes
+ kafgc2.o   | Bin 1028 -> 0 bytes
+ kgk2bt.o   | Bin 1040 -> 0 bytes
+ mkcbd.o    | Bin 1920 -> 0 bytes
+ nrb8qf.o   | Bin 1108 -> 0 bytes
+ nsfq94.o   | Bin 2072 -> 0 bytes
+ nwewnh.o   | Bin 1856 -> 0 bytes
+ rrbxcf.o   | Bin 1028 -> 0 bytes
+ srcft.o    | Bin 1012 -> 0 bytes
+ story      | Bin 14208 -> 0 bytes
+ story.exe  | Bin 48933 -> 0 bytes
+ story.o    | Bin 4456 -> 0 bytes
+ tmgnnw.o   | Bin 1052 -> 0 bytes
+ todhw.o    | Bin 1784 -> 0 bytes
+ 18 files changed, 2 insertions(+)
+
+commit b0be9e77197a715801af036db0ecc6e79cd44073
+Author: Nelson Earle <nwewnh@umsystem.edu>
+Date:   Thu Sep 2 21:36:57 2021 -0500
+
+    nwewnh additions
+
+ Makefile             |   4 +++-
+ nwewnh.o             | Bin 0 -> 1856 bytes
+ sentences/_HEADERS.h |   2 ++
+ sentences/nwewnh.c   |  13 +++++++++++++
+ story                | Bin 50560 -> 14208 bytes
+ story.c              |   3 +++
+ story.o              | Bin 2488 -> 4456 bytes
+ the_story.txt        |   7 ++++---
+ todhw.o              | Bin 970 -> 1784 bytes
+ 9 files changed, 25 insertions(+), 4 deletions(-)
+
+commit 4013f0a828ffa0b5053bccd992e46c875412504d
+Merge: 9114679 d5a6680
+Author: reesebearden-student <54481440+reesebearden-student@users.noreply.github.com>
+Date:   Thu Sep 2 21:30:13 2021 -0500
+
+    Merge pull request #58 from MUSoftwareEngineering/rrbxcf
+    
+    Rrbxcf
+
+commit d5a66803cc57e33196a3004f95b559d8e5f0c7ca
+Merge: be7aa31 9114679
+Author: Reese Bearden <rrbxcf@missouri.edu>
+Date:   Thu Sep 2 21:28:56 2021 -0500
+
+    updated files
+
+commit be7aa31700275822cd286cdbd19502c1f2c46eeb
+Author: Reese Bearden <rrbxcf@missouri.edu>
+Date:   Thu Sep 2 20:59:18 2021 -0500
+
+    added my files
+
+ Makefile             |   4 +++-
+ bpbkt7.o             | Bin 929 -> 980 bytes
+ dhkzy.o              | Bin 1018 -> 1068 bytes
+ jslct5.o             | Bin 1024 -> 1076 bytes
+ kafgc2.o             | Bin 980 -> 1028 bytes
+ kgk2bt.o             | Bin 992 -> 1040 bytes
+ nrb8qf.o             | Bin 1056 -> 1108 bytes
+ reese-file.txt       |   1 -
+ rrbxcf.o             | Bin 0 -> 1028 bytes
+ sentences/_HEADERS.h |   4 +++-
+ sentences/rrbxcf.c   |  17 +++++++++++++++++
+ sentences/rrbxcf.o   | Bin 0 -> 1028 bytes
+ srcft.o              | Bin 958 -> 1012 bytes
+ story                | Bin 0 -> 50560 bytes
+ story.c              |   2 ++
+ story.o              | Bin 2143 -> 2488 bytes
+ the_story.txt        |   3 +++
+ tmgnnw.o             | Bin 1003 -> 1052 bytes
+ 18 files changed, 28 insertions(+), 3 deletions(-)
+
+commit 91146791905130bc9a106e459bc7a2bbdd327ed5
+Merge: 0ab297f 3237b60
+Author: Takafumi Oga <todhw@umsystem.edu>
+Date:   Thu Sep 2 20:51:05 2021 -0500
+
+    added my part
+
+commit 0ab297f7d8ebf361f1a2fc717d5af293efeac5ce
+Author: Takafumi Oga <todhw@umsystem.edu>
+Date:   Thu Sep 2 20:19:28 2021 -0500
+
+    added my part
+
+ Makefile             |   4 +++-
+ sentences/_HEADERS.h |   4 +++-
+ sentences/todhw.c    |  15 +++++++++++++++
+ story.c              |   2 ++
+ story.exe            | Bin 48595 -> 48933 bytes
+ story.o              | Bin 2143 -> 2243 bytes
+ todhw.o              | Bin 0 -> 970 bytes
+ 7 files changed, 23 insertions(+), 2 deletions(-)
+
+commit 3237b60b0796e183393a232c66ee92abf2e2a550
+Merge: b69102e 178fe51
+Author: JohnsonLuu <40612091+JohnsonLuu@users.noreply.github.com>
+Date:   Thu Sep 2 19:39:57 2021 -0500
+
+    Merge pull request #57 from MUSoftwareEngineering/jlz83
+    
+    Editing for log purposes.
+
+commit 178fe5136cdf7d1facda918290419ed472d1933d
+Author: Johnson Luu <jlz83@umsystem.edu>
+Date:   Thu Sep 2 19:39:16 2021 -0500
+
+    Editing for log purposes.
+
+ jlz83.o           | Bin 1896 -> 1912 bytes
+ sentences/jlz83.c |   4 ++--
+ story             | Bin 18320 -> 18320 bytes
+ the_story.txt     |   4 ++--
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+
+commit b69102e1eaab9f91d773a063d9e3c4f8ab6a0bdd
+Merge: b02a0aa 1b876fb
+Author: Johnson Luu <jlz83@umsystem.edu>
+Date:   Thu Sep 2 19:29:55 2021 -0500
+
+    Merge branch 'mkcbd'
+
+commit 1b876fbdc0b5d10efd2e9225635dcc9e915e7f94
+Author: Johnson Luu <jlz83@umsystem.edu>
+Date:   Thu Sep 2 19:29:29 2021 -0500
+
+    Compiled and fixed spelling on Manas PR.
+
+ mkcbd.o           | Bin 1045 -> 1920 bytes
+ sentences/mkcbd.c |   4 ++--
+ story             | Bin 17848 -> 18320 bytes
+ story.o           | Bin 1323 -> 4160 bytes
+ the_story.txt     |   2 ++
+ 5 files changed, 4 insertions(+), 2 deletions(-)
+
+commit 57c3250d9ca8fda85b8b76b244b51650b2838aaa
+Merge: e7cb3a9 b02a0aa
+Author: Johnson Luu <jlz83@umsystem.edu>
+Date:   Thu Sep 2 19:28:13 2021 -0500
+
+    Merge branch 'main' into mkcbd
+
+commit b02a0aa248505b4303f32656459f01ed4932a069
+Merge: da96049 94ca893
+Author: JohnsonLuu <40612091+JohnsonLuu@users.noreply.github.com>
+Date:   Thu Sep 2 18:56:30 2021 -0500
+
+    Merge pull request #55 from MUSoftwareEngineering/RandomFixes
+    
+    Fixed spellings.
+
+commit 94ca893148d69d79d4f63febef59303ff4c08de7
+Author: Johnson Luu <jlz83@umsystem.edu>
+Date:   Thu Sep 2 18:55:24 2021 -0500
+
+    Fixed spellings.
+
+ bpbkt7.o           | Bin 1872 -> 1872 bytes
+ sentences/bpbkt7.c |   2 +-
+ sentences/tmgnnw.c |   4 ++--
+ story              | Bin 17848 -> 17848 bytes
+ the_story.txt      |   4 ++--
+ tmgnnw.o           | Bin 1816 -> 1952 bytes
+ 6 files changed, 5 insertions(+), 5 deletions(-)
+
+commit da9604911c5826fdf301b19ce4cc6687363ae956
+Author: Johnson Luu <jlz83@umsystem.edu>
+Date:   Thu Sep 2 18:50:07 2021 -0500
+
+    Adding my sentences!
+
+ Makefile             |   4 +++-
+ bpbkt7.o             | Bin 1736 -> 1872 bytes
+ dhkzy.o              | Bin 1832 -> 1968 bytes
+ jlz83.o              | Bin 0 -> 1896 bytes
+ jslct5.o             | Bin 1840 -> 1976 bytes
+ kafgc2.o             | Bin 1792 -> 1928 bytes
+ kgk2bt.o             | Bin 1808 -> 1944 bytes
+ nrb8qf.o             | Bin 1872 -> 2008 bytes
+ nsfq94.o             | Bin 1928 -> 2072 bytes
+ sentences/_HEADERS.h |   4 +++-
+ sentences/jlz83.c    |  15 +++++++++++++++
+ story                | Bin 13616 -> 17848 bytes
+ story.c              |   4 +++-
+ story.o              | Bin 3720 -> 4016 bytes
+ the_story.txt        |   2 ++
+ 15 files changed, 26 insertions(+), 3 deletions(-)
+
+commit ffccf7f4fbc23ac9216c33c445543f13af648d7c
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:46:50 2021 -0500
+
+    Update Makefile
+
+ Makefile | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit e642c9f6b29a07b546e19978c67d92e9148c9b30
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:43:52 2021 -0500
+
+    Update bpbkt7.o
+
+ bpbkt7.o | Bin 929 -> 1736 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1bc93837db7e69651144a4c04eedb0c2aa4e2707
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:43:48 2021 -0500
+
+    Updated object files
+
+ dhkzy.o  | Bin 1018 -> 1832 bytes
+ jslct5.o | Bin 1024 -> 1840 bytes
+ kafgc2.o | Bin 980 -> 1792 bytes
+ kgk2bt.o | Bin 992 -> 1808 bytes
+ nrb8qf.o | Bin 1056 -> 1872 bytes
+ nsfq94.o | Bin 0 -> 1928 bytes
+ srcft.o  | Bin 958 -> 1768 bytes
+ story    | Bin 0 -> 13616 bytes
+ story.o  | Bin 2143 -> 3720 bytes
+ tmgnnw.o | Bin 1003 -> 1816 bytes
+ 10 files changed, 0 insertions(+), 0 deletions(-)
+
+commit bf23e138910a2b945c86cef1dc3c1d85a96aa1ac
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:43:34 2021 -0500
+
+    Update Makefile
+
+ Makefile | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 72605637475b4fd2f3851c24ea21f59d1e6db51e
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:43:11 2021 -0500
+
+    Add nsfq94.c source file
+
+ sentences/nsfq94.c | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit 9f664d0df27264cbba02dc832aaf34ce3f87b807
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:42:56 2021 -0500
+
+    Update tmgnnw.c
+
+ sentences/tmgnnw.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 3dfa1ff51001b21cad53b40a41bf08f82a38e002
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:42:29 2021 -0500
+
+    Delete nrb8qf.o
+
+ sentences/nrb8qf.o | Bin 1056 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 392fd317bbd33376fa4202d68a2e5377657482df
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:42:23 2021 -0500
+
+    remove object files from Sentences folder
+
+ sentences/bpbkt7.o | Bin 980 -> 0 bytes
+ sentences/dhkzy.o  | Bin 1068 -> 0 bytes
+ sentences/jslct5.o | Bin 1076 -> 0 bytes
+ sentences/kafgc2.o | Bin 980 -> 0 bytes
+ sentences/kgk2bt.o | Bin 1004 -> 0 bytes
+ sentences/sldn3f.o | Bin 1004 -> 0 bytes
+ sentences/srcft.o  | Bin 1014 -> 0 bytes
+ sentences/tmgnnw.o | Bin 1088 -> 0 bytes
+ 8 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f89100cffb5dd6b49492f8ba8bc9e44d8d1fa95d
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:41:57 2021 -0500
+
+    Update the_story.txt
+
+ the_story.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 76e5482b4115f5e142e13572f4c64bd529c353c4
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:41:10 2021 -0500
+
+    Add functions to main in story.c
+
+ story.c | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 2ad705f98d85fadb90299b8151b89b800fb38ff5
+Author: noahfree <nsfq94@mail.missouri.edu>
+Date:   Thu Sep 2 16:40:47 2021 -0500
+
+    Add functions to HEADERS file
+
+ sentences/_HEADERS.h | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 45c060904096fef146dc34fdbf8d99d7b2ab3c2a
+Author: Reese Bearden <rrbxcf@missouri.edu>
+Date:   Thu Sep 2 14:15:12 2021 -0500
+
+    reese's message
+
+ reese-file.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit e7cb3a9463aa0bf752b282446247f52798766aff
+Author: ManasKatta <mkcbd@umsystem.edu>
+Date:   Thu Sep 2 13:55:34 2021 -0500
+
+    ManasKatta changes
+
+ Makefile             |  10 +++++++---
+ bpbkt7.o             | Bin 980 -> 995 bytes
+ mkcbd.o              | Bin 0 -> 1045 bytes
+ sentences/_HEADERS.h |   4 +++-
+ sentences/mkcbd.c    |  13 +++++++++++++
+ story.c              |   3 ++-
+ story.exe            | Bin 0 -> 134453 bytes
+ story.o              | Bin 0 -> 1323 bytes
+ 8 files changed, 25 insertions(+), 5 deletions(-)
+
+commit f8ec192d5fd4ef864893fc91f7c834482e1fbbe5
+Author: Sneha Reddy <srcft@umsystem.edu>
+Date:   Thu Sep 2 11:06:51 2021 -0500
+
+    added sentences
+
+ CommitScreenshot.PNG | Bin 20826 -> 0 bytes
+ Makefile             |   4 +++-
+ bpbkt7.o             | Bin 0 -> 929 bytes
+ dhkzy.o              | Bin 1068 -> 1018 bytes
+ jslct5.o             | Bin 1076 -> 1024 bytes
+ kafgc2.o             | Bin 0 -> 980 bytes
+ kgk2bt.o             | Bin 0 -> 992 bytes
+ nrb8qf.o             | Bin 0 -> 1056 bytes
+ sentences/_HEADERS.h |   5 ++---
+ sentences/dhkzy.o    | Bin 0 -> 1068 bytes
+ sentences/jslct5.o   | Bin 0 -> 1076 bytes
+ sentences/kafgc2.o   | Bin 0 -> 980 bytes
+ sentences/nrb8qf.o   | Bin 0 -> 1056 bytes
+ sentences/srcft.c    |  14 ++++----------
+ sentences/srcft.o    | Bin 0 -> 1014 bytes
+ srcft.o              | Bin 1182 -> 958 bytes
+ story.c              |   2 ++
+ story.exe            | Bin 47407 -> 48595 bytes
+ story.o              | Bin 0 -> 2143 bytes
+ the_story.txt        |  25 +++++++++++++++++++++++++
+ tmgnnw.o             | Bin 0 -> 1003 bytes
+ 21 files changed, 36 insertions(+), 14 deletions(-)
+
+commit 9d881cf1e6a8b05ece7b89dba0a3512868e41d36
+Merge: ae9d3b1 925efe1
+Author: Sneha Reddy <srcft@umsystem.edu>
+Date:   Thu Sep 2 10:41:17 2021 -0500
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic into main
+
+commit 925efe1c3401a1cca4fef97ee2cd35dfbd4d2891
+Merge: c1778dc a86ed36
+Author: Darian Hu <dhkzy@umsystem.edu>
+Date:   Wed Sep 1 16:46:29 2021 -0500
+
+    merge conflicts resolved
+
+commit a86ed363fe6c4b6c474876ac30b7723e7d25958a
+Author: Darian Hu <dhkzy@umsystem.edu>
+Date:   Wed Sep 1 16:39:20 2021 -0500
+
+    added my sentences
+
+ Makefile             |   4 +++-
+ bpbkt7.o             | Bin 937 -> 980 bytes
+ dhkzy.o              | Bin 0 -> 1068 bytes
+ kafgc2.o             | Bin 988 -> 1028 bytes
+ kgk2bt.o             | Bin 1000 -> 1040 bytes
+ nrb8qf.o             | Bin 1064 -> 1108 bytes
+ sentences/_HEADERS.h |   3 ++-
+ sentences/dhkzy.c    |  15 +++++++++++++++
+ sldn3f.o             | Bin 956 -> 0 bytes
+ story                | Bin 0 -> 13380 bytes
+ story.c              |   2 ++
+ story.o              | Bin 1857 -> 2188 bytes
+ the_story.txt        |  21 +++++++++++++++++++++
+ tmgnnw.o             | Bin 1011 -> 1052 bytes
+ 14 files changed, 43 insertions(+), 2 deletions(-)
+
+commit c1778dca342a7a1e5cc46b648f8583852c4731e2
+Author: Jacob LaGesse <jacoblagesse@gmail.com>
+Date:   Wed Sep 1 16:33:18 2021 -0500
+
+    added sentences
+
+ Makefile             |   6 ++++--
+ bpbkt7.o             | Bin 937 -> 980 bytes
+ jslct5.o             | Bin 0 -> 1076 bytes
+ kafgc2.o             | Bin 988 -> 1028 bytes
+ kgk2bt.o             | Bin 1000 -> 1040 bytes
+ nrb8qf.o             | Bin 1064 -> 1108 bytes
+ sentences/_HEADERS.h |   2 ++
+ sentences/jslct5.c   |  14 ++++++++++++++
+ sldn3f.o             | Bin 956 -> 0 bytes
+ story                | Bin 0 -> 50248 bytes
+ story.c              |   4 +++-
+ story.o              | Bin 1857 -> 2188 bytes
+ the_story.txt        |  21 +++++++++++++++++++++
+ tmgnnw.o             | Bin 1011 -> 1052 bytes
+ 14 files changed, 44 insertions(+), 3 deletions(-)
+
+commit c16e40744ea86a59c8291f732bfa4da2832fc8f6
+Merge: 5c02a66 dc012e5
+Author: Kermit Kreder <63705182+KermitKreder@users.noreply.github.com>
+Date:   Wed Sep 1 10:48:47 2021 -0500
+
+    Merge pull request #50 from MUSoftwareEngineering/kgk2bt
+    
+    added my story
+
+commit dc012e50df56bc9704b93e0a8cac5ba919c2fd2a
+Author: Kermit <63705182+KermitKreder@users.noreply.github.com>
+Date:   Wed Sep 1 10:47:43 2021 -0500
+
+    fixed
+
+ bpbkt7.o           | Bin 0 -> 937 bytes
+ kafgc2.o           | Bin 0 -> 988 bytes
+ kgk2bt.o           | Bin 0 -> 1000 bytes
+ nrb8qf.o           | Bin 0 -> 1064 bytes
+ sentences/kgk2bt.c |   6 +++---
+ sldn3f.o           | Bin 0 -> 956 bytes
+ story.c            |   2 ++
+ story.exe          | Bin 0 -> 47407 bytes
+ story.o            | Bin 1751 -> 1857 bytes
+ tmgnnw.o           | Bin 0 -> 1011 bytes
+ 10 files changed, 5 insertions(+), 3 deletions(-)
+
+commit 20f826be4b7da2f80ab1e1be311848a044241e11
+Author: Kermit <63705182+KermitKreder@users.noreply.github.com>
+Date:   Wed Sep 1 10:41:11 2021 -0500
+
+    added my sentences
+
+ Makefile             |   4 +++-
+ sentences/_HEADERS.h |   2 ++
+ sentences/kgk2bt.c   |  15 +++++++++++++++
+ sentences/kgk2bt.o   | Bin 0 -> 1004 bytes
+ story.o              | Bin 0 -> 1751 bytes
+ the_story.txt        |  17 -----------------
+ 6 files changed, 20 insertions(+), 18 deletions(-)
+
+commit 5c02a665de7a15bb92ee0df62546580532e4fccd
+Author: Kyler Froman <kafgc2@umsystem.edu>
+Date:   Tue Aug 31 23:56:31 2021 -0500
+
+    Cleaned up temp files
+
+ a.exe     | Bin 54675 -> 0 bytes
+ bpbkt7.o  | Bin 929 -> 0 bytes
+ kafgc2.o  | Bin 980 -> 0 bytes
+ nrb8qf.o  | Bin 1056 -> 0 bytes
+ story.exe | Bin 46211 -> 0 bytes
+ story.o   | Bin 1743 -> 0 bytes
+ tmgnnw.o  | Bin 1003 -> 0 bytes
+ 7 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4296617a2e95af44bde5aeb970eff45b7357581c
+Author: Kyler Froman <kafgc2@umsystem.edu>
+Date:   Tue Aug 31 23:41:28 2021 -0500
+
+    Added two sentences
+
+ Makefile             |   6 ++++--
+ bpbkt7.o             | Bin 0 -> 929 bytes
+ kafgc2.o             | Bin 0 -> 980 bytes
+ nrb8qf.o             | Bin 0 -> 1056 bytes
+ sentences/_HEADERS.h |   3 ++-
+ sentences/kafgc2.c   |  16 ++++++++++++++++
+ story.c              |   2 ++
+ story.exe            | Bin 0 -> 46211 bytes
+ story.o              | Bin 0 -> 1743 bytes
+ the_story.txt        |   2 ++
+ tmgnnw.o             | Bin 0 -> 1003 bytes
+ 11 files changed, 26 insertions(+), 3 deletions(-)
+
+commit 80855483ce0c4838d931d6d37e26592264c4c7d1
+Author: Tyree Galtney <tmgnnw@umsystem.edu>
+Date:   Tue Aug 31 22:58:47 2021 -0500
+
+    got rid of loose files and updated Makefile to run correctly.
+
+ Makefile                                    |  10 +-
+ bpbkt7.o                                    | Bin 980 -> 0 bytes
+ branch_tmgnnw.log                           | 230 ----------------------------
+ branch_tmgnnw.zip                           | Bin 21909 -> 0 bytes
+ main_tmgnnw.log                             | 212 -------------------------
+ master_tmgnnw.log                           | 230 ----------------------------
+ "master_tmgnnw.log\357\200\252\357\200\252" | 230 ----------------------------
+ nrb8qf.o                                    | Bin 1108 -> 0 bytes
+ sentences/_HEADERS.h                        |   4 +-
+ sentences/tmgnnw.c                          |   6 +-
+ story                                       | Bin 49936 -> 0 bytes
+ story.c                                     |  14 +-
+ story.exe                                   | Bin 55934 -> 0 bytes
+ story.o                                     | Bin 2260 -> 0 bytes
+ the_story.txt                               |   4 +-
+ tmgnnw.o                                    | Bin 1044 -> 0 bytes
+ 16 files changed, 14 insertions(+), 926 deletions(-)
+
+commit 4ee6d88f8e7903e7663793924b508e6f70435dab
+Author: Noah Backman <nrb8qf@umsystem.edu>
+Date:   Tue Aug 31 22:39:41 2021 -0500
+
+    Added nrb8qf files.
+
+ Makefile             |   4 +++-
+ bpbkt7.o             | Bin 0 -> 980 bytes
+ nrb8qf.o             | Bin 0 -> 1108 bytes
+ sentences/_HEADERS.h |   2 ++
+ sentences/nrb8qf.c   |  12 ++++++++++++
+ story                | Bin 49712 -> 49936 bytes
+ story.c              |   2 ++
+ story.o              | Bin 2152 -> 2260 bytes
+ the_story.txt        |   2 ++
+ 9 files changed, 21 insertions(+), 1 deletion(-)
+
+commit ae9d3b1e76745aabddc723e3cab3934466a3d88d
+Merge: e2fc4ce 4359268
+Author: Sneha Reddy <srcft@umsystem.edu>
+Date:   Tue Aug 31 21:25:46 2021 -0500
+
+    Merge branch 'main' of https://github.com/MUSoftwareEngineering/GitMagic into main
+
+commit a9970af287c22ebafc6ea1564d2cffd0d5e98c93
+Author: Matt Hackmann <mhackmann13@icloud.com>
+Date:   Tue Aug 31 18:30:31 2021 -0500
+
+    Added my sentences to the story and fixed the makefile
+
+ Makefile                       |  11 +++++------
+ sentences/bpbkt7.o => bpbkt7.o | Bin 980 -> 980 bytes
+ mdhtf3.o                       | Bin 0 -> 1036 bytes
+ sentences/_HEADERS.h           |   4 ++--
+ sentences/mdhtf3.c             |   9 +++++++++
+ sentences/sldn3f.o             | Bin 1004 -> 0 bytes
+ sentences/tmgnnw.o             | Bin 1088 -> 0 bytes
+ story                          | Bin 49712 -> 13156 bytes
+ story.c                        |   7 ++++---
+ story.o                        | Bin 2152 -> 2248 bytes
+ the_story.txt                  |   2 ++
+ tmgnnw.o                       | Bin 1044 -> 1044 bytes
+ 12 files changed, 22 insertions(+), 11 deletions(-)
+
+commit 43592681b37546317aadcd482374cae580d98b13
+Merge: 0b64d93 0626549
+Author: Solomon DellaPenna <solomondellapenna@gmail.com>
+Date:   Tue Aug 31 17:13:42 2021 -0500
+
+    Merge branch 'sldn3f' into main
+
+commit 0b64d937fcdc68601281cbd82b29be2e1e32e003
+Merge: 06f25a5 f0b7aba
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 31 14:43:13 2021 -0500
+
+    Merge pull request #47 from MUSoftwareEngineering/tmgnnw
+    
+    Tmgnnw
+
+commit f0b7aba18d048863a4f0fe198a17890681cbbc70
+Merge: 5c5fb3c 06f25a5
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 31 14:43:03 2021 -0500
+
+    Merge branch 'main' into tmgnnw
+
+commit 06f25a5416d10e27c8d1365f521aa2c2e1aa8f40
+Author: sean <Doctor Sean P. Goggins, I>
+Date:   Tue Aug 31 21:23:49 2021 +0200
+
+    new
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 5c5fb3c7b34d15990da2ba9252dca871ad3e980a
+Author: Tyree Galtney <kingtyree@mwc-121053.dhcp.missouri.edu>
+Date:   Tue Aug 31 14:17:00 2021 -0500
+
+    added the appropriate files and added two sentences
+
+ CommitScreenshot.PNG                        | Bin 0 -> 20826 bytes
+ Makefile                                    | 138 ++++++++---------
+ README.md                                   |   8 +-
+ a.exe                                       | Bin 0 -> 54675 bytes
+ bpbkt7.o                                    | Bin 1027 -> 980 bytes
+ branch_tmgnnw.log                           | 230 ++++++++++++++++++++++++++++
+ branch_tmgnnw.zip                           | Bin 0 -> 21909 bytes
+ main_tmgnnw.log                             | 212 +++++++++++++++++++++++++
+ master_tmgnnw.log                           | 230 ++++++++++++++++++++++++++++
+ "master_tmgnnw.log\357\200\252\357\200\252" | 230 ++++++++++++++++++++++++++++
+ sentences/.DS_Store                         | Bin 6148 -> 0 bytes
+ sentences/_HEADERS.h                        |  24 +--
+ sentences/bpbkt7.c                          |  36 ++---
+ sentences/tmgnnw.c                          |  22 +--
+ sentences/tmgnnw.o                          | Bin 0 -> 1088 bytes
+ story                                       | Bin 0 -> 49624 bytes
+ story.c                                     |  96 ++++++------
+ story.o                                     | Bin 1647 -> 1720 bytes
+ the_story.txt                               |   2 +
+ tmgnnw.o                                    | Bin 1088 -> 1044 bytes
+ 20 files changed, 1066 insertions(+), 162 deletions(-)
+
+commit 4fd51d8ec8413da1582878c7f350842ada59635c
+Author: JamesDonovan1 <jmdm4r@mail.missouri.edu>
+Date:   Tue Aug 31 12:45:57 2021 -0500
+
+    jmdm4r initial sentences
+
+ Makefile             | 136 ++++++++++++++++++++++++++-------------------------
+ README.md            |   8 +--
+ bpbkt7.o             | Bin 980 -> 1880 bytes
+ jmdm4r.o             | Bin 0 -> 1920 bytes
+ sentences/_HEADERS.h |  20 ++++----
+ sentences/bpbkt7.c   |  36 +++++++-------
+ sentences/jmdm4r.c   |  15 ++++++
+ story                | Bin 0 -> 17000 bytes
+ story.c              |  74 ++++++++++++++--------------
+ story.o              | Bin 0 -> 2376 bytes
+ the_story.txt        |   2 +
+ 11 files changed, 154 insertions(+), 137 deletions(-)
+
+commit b0aaca0932f23c0251ce55bebb9dc8a8c6e9a995
+Author: Tyree Galtney <tmgnnw@umsystem.edu>
+Date:   Mon Aug 30 18:52:40 2021 -0500
+
+    Fixed Makefile
+
+ Makefile | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 025d72794fff6551ef96ab7cb93931788e4ad6f4
+Author: Tyree Galtney <tmgnnw@umsystem.edu>
+Date:   Mon Aug 30 18:43:45 2021 -0500
+
+    added pawprint.c and added sentences to story
+
+ story.exe | Bin 55934 -> 55934 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0626549f46571b6a0ed5a33f88628d06b10f2599
+Author: jay.dellapenna <jay.dellapenna@fishtech.group>
+Date:   Mon Aug 30 13:33:00 2021 -0500
+
+    sldn3f excercise one
+
+ bpbkt7.o             | Bin 980 -> 980 bytes
+ sentences/_HEADERS.h |   4 ++--
+ sentences/sldn3f.c   |  15 +++++++++++++++
+ sldn3f.o             | Bin 0 -> 1004 bytes
+ story                | Bin 0 -> 49824 bytes
+ story.c              |  14 ++++++++++++--
+ story.o              | Bin 0 -> 1680 bytes
+ the_story.txt        |   3 +++
+ 8 files changed, 32 insertions(+), 4 deletions(-)
+
+commit be8c07258a3a7b2b6c8c2b5b4bb2ee79ffdf4f68
+Author: Tyree Galtney <tmgnnw@umsystem.edu>
+Date:   Sun Aug 29 17:57:37 2021 -0500
+
+    added 2 sentences under my pawprint and added to story
+
+ Makefile             |   3 ++-
+ bpbkt7.o             | Bin 980 -> 1027 bytes
+ sentences/_HEADERS.h |   3 ++-
+ sentences/tmgnnw.c   |  11 +++++++++++
+ story.c              |  15 +++++++++++++--
+ story.exe            | Bin 0 -> 55934 bytes
+ story.o              | Bin 0 -> 1647 bytes
+ tmgnnw.o             | Bin 0 -> 1088 bytes
+ 8 files changed, 28 insertions(+), 4 deletions(-)
+
+commit e2fc4ce95c07a6bf87285a289135653542f4855a
+Author: Sneha Reddy <srcft@umsystem.edu>
+Date:   Fri Aug 27 11:24:55 2021 -0500
+
+    Sneha's updates
+
+ Makefile             |   4 +++-
+ bpbkt7.o             | Bin 980 -> 929 bytes
+ sentences/_HEADERS.h |   3 +++
+ sentences/srcft.c    |  19 +++++++++++++++++++
+ srcft.o              | Bin 0 -> 1182 bytes
+ story.c              |   5 ++++-
+ story.exe            | Bin 0 -> 44480 bytes
+ story.o              | Bin 0 -> 1298 bytes
+ 8 files changed, 29 insertions(+), 2 deletions(-)
+
+commit 76fdb7eaeb2bece058fc7f7599b73ce941c8b741
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 24 13:16:40 2021 -0500
+
+    Update README.md
+
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 10e6e147c950d30270c584931da2fecae0d9da2d
+Merge: a5777ff cbab80f
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 24 13:15:25 2021 -0500
+
+    Merge pull request #46 from MUSoftwareEngineering/lhn95
+    
+    initial
+
+commit cbab80fa29f2aba1c50ddbf037859c18231451f1
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 24 13:15:06 2021 -0500
+
+    initial
+
+ .DS_Store            | Bin 8196 -> 0 bytes
+ Makefile             |   8 ++++++--
+ aagd8b.o             | Bin 1020 -> 0 bytes
+ aswd62.o             | Bin 1072 -> 0 bytes
+ awjkcc.o             | Bin 1004 -> 0 bytes
+ bjc7p3.o             | Bin 1392 -> 0 bytes
+ bmmrmx.o             | Bin 1036 -> 0 bytes
+ bpbkt7.o             | Bin 980 -> 980 bytes
+ bsr4xm.o             | Bin 1028 -> 0 bytes
+ cfhbvp.o             | Bin 1044 -> 0 bytes
+ cgjnd7.o             | Bin 1060 -> 0 bytes
+ cjbb5f.o             | Bin 1060 -> 0 bytes
+ cjbd8r.o             | Bin 1048 -> 0 bytes
+ crsb74.o             | Bin 996 -> 0 bytes
+ dmqnr.o              | Bin 1028 -> 0 bytes
+ dpp6bk.o             | Bin 1012 -> 0 bytes
+ drbk8v.o             | Bin 1188 -> 0 bytes
+ dtanz8.o             | Bin 1044 -> 0 bytes
+ ejw3md.o             | Bin 1044 -> 0 bytes
+ emgd9h.o             | Bin 1008 -> 0 bytes
+ ghstgf.o             | Bin 1060 -> 0 bytes
+ hcntb.o              | Bin 1044 -> 0 bytes
+ hkg8b.o              | Bin 1016 -> 0 bytes
+ huhmana.o            | Bin 1028 -> 0 bytes
+ icmwx2.o             | Bin 1060 -> 0 bytes
+ jas8dz.o             | Bin 1072 -> 0 bytes
+ jawgrd.o             | Bin 1020 -> 0 bytes
+ jgt7cn.o             | Bin 1100 -> 0 bytes
+ jkmx5v.o             | Bin 1104 -> 0 bytes
+ jlmg9m.o             | Bin 1028 -> 0 bytes
+ jlmygh.o             | Bin 1004 -> 0 bytes
+ jmszq6.o             | Bin 996 -> 0 bytes
+ jtnfx.o              | Bin 1076 -> 0 bytes
+ kpwcg2.o             | Bin 1060 -> 0 bytes
+ ktmcbk.o             | Bin 996 -> 0 bytes
+ lhn95.o              | Bin 1016 -> 0 bytes
+ malkrc.o             | Bin 1140 -> 0 bytes
+ mankbf.o             | Bin 1084 -> 0 bytes
+ mbb5ym.o             | Bin 1028 -> 0 bytes
+ mjbn46.o             | Bin 1012 -> 0 bytes
+ mjwcbc.o             | Bin 1028 -> 0 bytes
+ ncth7t.o             | Bin 1028 -> 0 bytes
+ npb383.o             | Bin 1116 -> 0 bytes
+ nszwq.o              | Bin 1044 -> 0 bytes
+ ojl8q7.o             | Bin 1020 -> 0 bytes
+ partbr.o             | Bin 1020 -> 0 bytes
+ pbczgf.o             | Bin 1236 -> 0 bytes
+ pdokdf.o             | Bin 996 -> 0 bytes
+ rysgpd.o             | Bin 1036 -> 0 bytes
+ sa5f5.o              | Bin 1068 -> 0 bytes
+ sawgzq.o             | Bin 988 -> 0 bytes
+ sdwfkd.o             | Bin 1036 -> 0 bytes
+ sentences/.DS_Store  | Bin 6148 -> 6148 bytes
+ sentences/_HEADERS.h |   8 ++++----
+ smebmm.o             | Bin 1060 -> 0 bytes
+ sn4fd.o              | Bin 1016 -> 0 bytes
+ spg.o                | Bin 1120 -> 0 bytes
+ story                | Bin 12740 -> 0 bytes
+ story.c              |  23 +++++++++++++++--------
+ story.o              | Bin 1120 -> 0 bytes
+ taezkv.o             | Bin 1020 -> 0 bytes
+ tcy8v6.o             | Bin 1020 -> 0 bytes
+ the_story.txt        |   8 --------
+ tmh9gv.o             | Bin 1076 -> 0 bytes
+ wld9b.o              | Bin 1020 -> 0 bytes
+ xz9rc.o              | Bin 1008 -> 0 bytes
+ zasbdy.o             | Bin 1060 -> 0 bytes
+ zzd8h.o              | Bin 1016 -> 0 bytes
+ 68 files changed, 25 insertions(+), 22 deletions(-)
+
+commit a5777ffbb2e78a71fc01e9a56353ac980c807089
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 24 12:19:26 2021 -0500
+
+    cleaning
+
+ Makefile          |   8 --------
+ aagd8b.o          | Bin 0 -> 1020 bytes
+ aswd62.o          | Bin 0 -> 1072 bytes
+ awjkcc.o          | Bin 0 -> 1004 bytes
+ bjc7p3.o          | Bin 0 -> 1392 bytes
+ bmmrmx.o          | Bin 0 -> 1036 bytes
+ bsr4xm.o          | Bin 0 -> 1028 bytes
+ cfhbvp.o          | Bin 0 -> 1044 bytes
+ cgjnd7.o          | Bin 0 -> 1060 bytes
+ cjbb5f.o          | Bin 0 -> 1060 bytes
+ cjbd8r.o          | Bin 0 -> 1048 bytes
+ crsb74.o          | Bin 0 -> 996 bytes
+ dmqnr.o           | Bin 0 -> 1028 bytes
+ dpp6bk.o          | Bin 0 -> 1012 bytes
+ drbk8v.o          | Bin 0 -> 1188 bytes
+ dtanz8.o          | Bin 0 -> 1044 bytes
+ ejw3md.o          | Bin 0 -> 1044 bytes
+ emgd9h.o          | Bin 0 -> 1008 bytes
+ ghstgf.o          | Bin 0 -> 1060 bytes
+ hcntb.o           | Bin 0 -> 1044 bytes
+ hkg8b.o           | Bin 0 -> 1016 bytes
+ huhmana.o         | Bin 0 -> 1028 bytes
+ icmwx2.o          | Bin 0 -> 1060 bytes
+ jas8dz.o          | Bin 0 -> 1072 bytes
+ jawgrd.o          | Bin 0 -> 1020 bytes
+ jgt7cn.o          | Bin 0 -> 1100 bytes
+ jkmx5v.o          | Bin 0 -> 1104 bytes
+ jlmg9m.o          | Bin 0 -> 1028 bytes
+ jlmygh.o          | Bin 0 -> 1004 bytes
+ jmszq6.o          | Bin 0 -> 996 bytes
+ jtnfx.o           | Bin 0 -> 1076 bytes
+ kpwcg2.o          | Bin 0 -> 1060 bytes
+ ktmcbk.o          | Bin 0 -> 996 bytes
+ malkrc.o          | Bin 0 -> 1140 bytes
+ mankbf.o          | Bin 0 -> 1084 bytes
+ mbb5ym.o          | Bin 0 -> 1028 bytes
+ mjbn46.o          | Bin 0 -> 1012 bytes
+ mjwcbc.o          | Bin 0 -> 1028 bytes
+ ncth7t.o          | Bin 0 -> 1028 bytes
+ npb383.o          | Bin 0 -> 1116 bytes
+ nszwq.o           | Bin 0 -> 1044 bytes
+ ojl8q7.o          | Bin 0 -> 1020 bytes
+ partbr.o          | Bin 0 -> 1020 bytes
+ pbczgf.o          | Bin 0 -> 1236 bytes
+ pdokdf.o          | Bin 0 -> 996 bytes
+ rysgpd.o          | Bin 0 -> 1036 bytes
+ sa5f5.o           | Bin 0 -> 1068 bytes
+ sawgzq.o          | Bin 0 -> 988 bytes
+ sdwfkd.o          | Bin 0 -> 1036 bytes
+ sentences/lhn95.c |  18 ------------------
+ smebmm.o          | Bin 0 -> 1060 bytes
+ sn4fd.o           | Bin 0 -> 1016 bytes
+ spg.o             | Bin 0 -> 1120 bytes
+ taezkv.o          | Bin 0 -> 1020 bytes
+ tcy8v6.o          | Bin 0 -> 1020 bytes
+ tmh9gv.o          | Bin 0 -> 1076 bytes
+ wld9b.o           | Bin 0 -> 1020 bytes
+ xz9rc.o           | Bin 0 -> 1008 bytes
+ zasbdy.o          | Bin 0 -> 1060 bytes
+ zzd8h.o           | Bin 0 -> 1016 bytes
+ 60 files changed, 26 deletions(-)
+
+commit df61d03a12368e47897fb42b2ae86f1e3bda2e9e
+Author: Lingshu Hu <lingshu.hu@hotmail.com>
+Date:   Wed Aug 26 13:45:41 2020 -0500
+
+    two sentences completed
+
+ .DS_Store            | Bin 0 -> 8196 bytes
+ Makefile             |   5 +++--
+ bpbkt7.o             | Bin 0 -> 980 bytes
+ lhn95.o              | Bin 0 -> 1016 bytes
+ sentences/.DS_Store  | Bin 0 -> 6148 bytes
+ sentences/_HEADERS.h |   3 ++-
+ sentences/lhn95.c    |  18 ++++++++++++++++++
+ story                | Bin 0 -> 12740 bytes
+ story.c              |   6 +++++-
+ story.o              | Bin 0 -> 1120 bytes
+ the_story.txt        |   8 ++++++++
+ 11 files changed, 36 insertions(+), 4 deletions(-)
+
+commit dba8a43a7ae9eec73cf0f7c9fe00975cd7d8ff1e
+Author: Goggins, Sean Patrick <s@goggins.com>
+Date:   Tue Aug 11 14:00:19 2020 -0500
+
+    Initial commit
+
+ Github exercise_1.docx | Bin 0 -> 133730 bytes
+ Github exercise_1.pdf  | Bin 0 -> 117575 bytes
+ Makefile               |  70 +++++++++++++++++++++++++++++++++++++++++++++++++
+ README.md              |   4 +++
+ sentences/_HEADERS.h   |  10 +++++++
+ sentences/bpbkt7.c     |  18 +++++++++++++
+ story.c                |  26 ++++++++++++++++++
+ the_story.txt          |   9 +++++++
+ 8 files changed, 137 insertions(+)
