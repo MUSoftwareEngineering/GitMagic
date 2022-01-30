@@ -114,5 +114,8 @@ int main( void )
 	storySentence2();
 	printf("\n\n");
 
+	//edit out before commiting and pushing
+	char a = getchar();
+
 	
 }
