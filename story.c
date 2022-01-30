@@ -116,6 +116,8 @@ int main( void )
 	elk3xSentence1();
 	elk3xSentence2();
 	kaz42cSentence2();
+	grsncdSentence1();
+	grsncdSentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();

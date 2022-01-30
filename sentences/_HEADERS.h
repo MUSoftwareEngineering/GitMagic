@@ -85,3 +85,6 @@ int kaz42cSentence1();
 int kaz42cSentence2();
 int wjo5m5Sentence1();
 int wjo5m5Sentence2();
+int grsncdSentence1();
+int grsncdSentence2();
+
