@@ -47,6 +47,8 @@ int mnygpSentence1();
 int mnygpSentence2();
 int jwskzhSentence1();
 int jwskzhSentence2();
+int kwcnrSentence1();
+int kwcnrSentence2();
 int rdcb2fSentence1();
 int rdcb2fSentence2();
 int sjmkxwSentence1();

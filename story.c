@@ -60,11 +60,13 @@ int main( void )
 	rjkncdSentence2();
 	nrmb9rSentence1();
 	nrmb9rSentence2();
+  kwcnrSentence1();
     jdhvdySentence1();
 	rkg7ggSentence1();
 	rkg7ggSentence2();
     jdhvdySentence2();
 	mnygpSentence1();
+	kwcnrSentence2();
 	erikasSentence1();
 	cejnfpSentence1();
 	mnygpSentence2();
