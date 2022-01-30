@@ -60,11 +60,12 @@ int main( void )
 	rjkncdSentence2();
 	nrmb9rSentence1();
 	nrmb9rSentence2();
-  kwcnrSentence1();
-    jdhvdySentence1();
+ 	kwcnrSentence1();
+   	jdhvdySentence1();
+    	jdhvdySentence1();
 	rkg7ggSentence1();
 	rkg7ggSentence2();
-    jdhvdySentence2();
+    	jdhvdySentence2();
 	mnygpSentence1();
 	kwcnrSentence2();
 	erikasSentence1();
@@ -88,9 +89,10 @@ int main( void )
 	erikasSentence2();
 	rdcb2fSentence2();
 	tmdbq2Sentence1();
+	jrwhyySentence1();
 	tmdbq2Sentence2();
 	cmm5b7Sentence1();
-    cmm5b7Sentence2();
+    	cmm5b7Sentence2();
 	iisbbqSentence1();
 	erikasSentence3();
 	aspg84Sentence2();
@@ -98,6 +100,7 @@ int main( void )
 	amb5cbSentence2();
 	sdlp6fSentence1();
 	sdlp6fSentence2();
+	jrwhyySentence2();
 	iisbbqSentence2();
 	iisbbqSentence3();
 	iwegbcSentence1();
@@ -110,4 +113,6 @@ int main( void )
 
 	storySentence2();
 	printf("\n\n");
+
+	
 }

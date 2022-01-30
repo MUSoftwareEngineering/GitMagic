@@ -51,7 +51,9 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o nrmb9r.o hgc8zc.o rkg7gg.o cejnfp.o cytbm.o kjkvfw.o edmqgc.o rdcr2n.o mnygp.o jwskzh.o sjmkxw.o rdcb2f.o jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o am9fq.o elk3x.o sdlp6f.o
+
+story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o nrmb9r.o hgc8zc.o rkg7gg.o cejnfp.o cytbm.o kjkvfw.o edmqgc.o rdcr2n.o mnygp.o jwskzh.o sjmkxw.ordcb2f.o jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o am9fq.o elk3x.o sdlp6f.o jrwhyy.o
+
 	$(CC) $^ -o story
 
 ##
@@ -155,6 +157,9 @@ amb5cb.o: sentences/amb5cb.c
 	$(CC) -c $<
 
 iwegbc.o: sentences/iwegbc.c
+	$(CC) -c $<
+
+jrwhyy.o: sentences/jrwhyy.c
 	$(CC) -c $<
 
 am9fq.o: sentences/am9fq.c
