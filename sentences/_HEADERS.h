@@ -69,13 +69,9 @@ int iisbbqSentence2();
 int iisbbqSentence3();
 int amb5cbSentence1();
 int amb5cbSentence2();
-<<<<<<< HEAD
 int iwegbcSentence1();
 int iwegbcSentence2();
 int am9fqSentence1();
 int am9fqSentence2();
-
-=======
 int elk3xSentence1();
 int elk3xSentence2();
->>>>>>> elk3x
