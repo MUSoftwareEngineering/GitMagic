@@ -93,3 +93,5 @@ int jwhdhwSentence1();
 int jwhdhwSentence2();
 int krspcpSentence1();
 int krspcpSentence2();
+int sesxr2Sentence1();
+int sesxr2Sentence2();

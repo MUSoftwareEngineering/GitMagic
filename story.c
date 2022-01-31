@@ -122,6 +122,8 @@ int main( void )
 	kaz42cSentence2();
 	grsncdSentence1();
 	grsncdSentence2();
+	sesxr2Sentence1();
+	sesxr2Sentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();
