@@ -126,8 +126,11 @@ int main( void )
 	grsncdSentence2();
 	sesxr2Sentence1();
 	sesxr2Sentence2();
+	// This is Tung 
+	tdn84dSentence1();
+	tdn84dSentence2();
 	// Ben's sentence should be last.
-
+	
 	storySentence2();
 	printf("\n\n");
 
