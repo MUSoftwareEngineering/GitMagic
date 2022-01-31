@@ -58,6 +58,7 @@ int main( void )
 	rjkncdSentence1();
 	jee9pvSentence2();
 	rjkncdSentence2();
+	jctppcSentence2();
 	nrmb9rSentence1();
 	nrmb9rSentence2();
 	kwcnrSentence1();
@@ -103,6 +104,7 @@ int main( void )
 	sdlp6fSentence2();
 	krspcpSentence1();
 	jrwhyySentence2();
+	jctppcSentence1();
 	iisbbqSentence2();
 	wjo5m5Sentence1();
 	iisbbqSentence3();
