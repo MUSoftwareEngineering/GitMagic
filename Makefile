@@ -204,7 +204,7 @@ ijsfyp.o: sentences/ijsfyp.c
 	$(CC) -c $<
 
 mgckq8.o: sentences/mgckq8.c
-    $(CC) -c $<
+	$(CC) -c $<
 
 #story.o: story.c 
 
