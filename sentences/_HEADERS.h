@@ -97,3 +97,5 @@ int sesxr2Sentence1();
 int sesxr2Sentence2();
 int jctppcSentence1();
 int jctppcSentence2();
+int ijsfypSentence1();
+int ijsfypSentence2();
