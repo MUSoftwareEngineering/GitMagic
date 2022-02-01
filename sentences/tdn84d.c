@@ -1,7 +1,7 @@
 # include <stdio.h>
 
 
-// Function to include & executeA
+// Function to include & execute
 int tdn84dSentence1()
 {
   printf("I am Mellon Lord.\n");
