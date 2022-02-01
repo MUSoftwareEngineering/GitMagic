@@ -99,3 +99,5 @@ int jctppcSentence1();
 int jctppcSentence2();
 int ijsfypSentence1();
 int ijsfypSentence2();
+int mgckq8Sentence1();
+int mgckq8Sentence2();
