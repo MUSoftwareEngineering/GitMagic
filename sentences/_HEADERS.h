@@ -101,4 +101,6 @@ int ijsfypSentence1();
 int ijsfypSentence2();
 int tsrcddSentence1();
 int tsrcddSentence2();
+int recgcdSentence1();
+int recgcdSentence2();
 

@@ -117,8 +117,10 @@ int main( void )
 	iwegbcSentence2();
 	am9fqSentence1();
 	am9fqSentence2();
+	recgcdSentence1();
 	smgxpSentence2();
 	litnczSentence1();
+	recgcdSentence2();
 	litnczSentence2();
 	jwhdhwSentence2();
 	elk3xSentence1();
