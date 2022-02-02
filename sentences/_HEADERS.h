@@ -99,3 +99,6 @@ int jctppcSentence1();
 int jctppcSentence2();
 int ijsfypSentence1();
 int ijsfypSentence2();
+int tsrcddSentence1();
+int tsrcddSentence2();
+
