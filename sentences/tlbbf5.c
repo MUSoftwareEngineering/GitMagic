@@ -4,7 +4,7 @@
 // Function to include & executeA
 int tlbbf5Sentence1()
 {
-  printf("The doctor then changed into his WWE outfit and let loose a deafening battle cry!\n");
+  printf("The cold didn't bother them, however, as their spirits were high.\n");
   return 1;
 }
 
