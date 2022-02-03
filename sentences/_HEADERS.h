@@ -103,4 +103,5 @@ int tsrcddSentence1();
 int tsrcddSentence2();
 int recgcdSentence1();
 int recgcdSentence2();
-
+int rknvknSentence1();
+int rknvknSentence2();
