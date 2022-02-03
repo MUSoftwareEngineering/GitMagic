@@ -134,6 +134,8 @@ int main( void )
 	ijsfypSentence2();
 	rknvknSentence1();
 	rknvknSentence2();
+	tlbbf5Sentence2();
+	tlbbf5Sentence1();
 	// Ben's sentence should be last.
 
 	storySentence2();

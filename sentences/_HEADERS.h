@@ -105,3 +105,5 @@ int recgcdSentence1();
 int recgcdSentence2();
 int rknvknSentence1();
 int rknvknSentence2();
+int tlbbf5Sentence1();
+int tlbbf5Sentence2();
