@@ -140,8 +140,9 @@ int main( void )
 	tlbbf5Sentence2();
     mawh7pSentence2();
 	hhhmwSentence2();
+	nw5ppSentence1();
+	nw5ppSentence2();
 	// Ben's sentence should be last.
-
 	storySentence2();
 	printf("\n\n");
 
