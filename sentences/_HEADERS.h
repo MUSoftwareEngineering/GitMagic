@@ -109,3 +109,5 @@ int tlbbf5Sentence1();
 int tlbbf5Sentence2();
 int mawh7pSentence1();
 int mawh7pSentence2();
+int hhhmwSentence1();
+int hhhmwSentence2();
