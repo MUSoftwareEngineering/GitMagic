@@ -245,30 +245,35 @@ int main( void )
 	bebz4tSentence1();
 	dmmdnrSentence1();
 	zwsx9fSentence1();
-    	amz28Sentence1();
+    amz28Sentence1();
+    mawh7pSentence1();
 	bebz4tSentence2();
+	tlbbf5Sentence1();
 	zwsx9fSentence2();
-    	jmchpdSentence2();
+    jmchpdSentence2();
 	jee9pvSentence1();
 	dmmdnrSentence2();
-    	jmchpdSentence1();
+    jmchpdSentence1();
 	qpty9tSentence1();
 	qpty9tSentence2();
-    	amz28Sentence2();
+    amz28Sentence2();
+    tsrcddSentence2();
 	rbhmm5Sentence1();
 	rbhmm5Sentence2();
-    	esdnk7Sentence1();
-    	esdnk7Sentence2();
+    esdnk7Sentence1();
+    esdnk7Sentence2();
+    tsrcddSentence1();
 	rjkncdSentence1();
 	jee9pvSentence2();
 	rjkncdSentence2();
+	jctppcSentence2();
 	nrmb9rSentence1();
 	nrmb9rSentence2();
-  kwcnrSentence1();
-    jdhvdySentence1();
+	kwcnrSentence1();
+	jdhvdySentence1();
 	rkg7ggSentence1();
 	rkg7ggSentence2();
-    jdhvdySentence2();
+	jdhvdySentence2();
 	mnygpSentence1();
 	kwcnrSentence2();
 	erikasSentence1();
@@ -290,25 +295,35 @@ int main( void )
 	rdcb2fSentence1();
 	aspg84Sentence1();
 	erikasSentence2();
-    kaz42cSentence1();
+	kaz42cSentence1();
 	rdcb2fSentence2();
 	tmdbq2Sentence1();
+	jrwhyySentence1();
 	tmdbq2Sentence2();
 	cmm5b7Sentence1();
-    cmm5b7Sentence2();
+	cmm5b7Sentence2();
 	iisbbqSentence1();
+	jwhdhwSentence1();
 	erikasSentence3();
 	aspg84Sentence2();
 	amb5cbSentence1();
 	amb5cbSentence2();
 	sdlp6fSentence1();
 	sdlp6fSentence2();
+	krspcpSentence1();
+	jrwhyySentence2();
+	jctppcSentence1();
 	iisbbqSentence2();
+	wjo5m5Sentence1();
 	iisbbqSentence3();
+	smgxpSentence1();
+	krspcpSentence2();
+	wjo5m5Sentence2();
 	iwegbcSentence1();
 	iwegbcSentence2();
 	am9fqSentence1();
 	am9fqSentence2();
+<<<<<<< HEAD
 	grzmc7Sentence1();
 	elk3xSentence1();
 	elk3xSentence2();
@@ -319,10 +334,37 @@ int main( void )
 	trhdwxSentence1();
 	trhdwxSentence2();
 >>>>>>> d128c7e98043153312761ce2a6f6eff9c59191c9
+=======
+	recgcdSentence1();
+	smgxpSentence2();
+	litnczSentence1();
+	recgcdSentence2();
+	litnczSentence2();
+	jwhdhwSentence2();
+	elk3xSentence1();
+	elk3xSentence2();
+	kaz42cSentence2();
+	grsncdSentence1();
+	grsncdSentence2();
+	hhhmwSentence1();
+	sesxr2Sentence1();
+	sesxr2Sentence2();
+	ijsfypSentence1();
+	ijsfypSentence2();
+	rknvknSentence1();
+	rknvknSentence2();
+	tlbbf5Sentence2();
+    mawh7pSentence2();
+	hhhmwSentence2();
+	nw5ppSentence1();
+	nw5ppSentence2();
+>>>>>>> nw5pp
 	// Ben's sentence should be last.
-
 	storySentence2();
 	printf("\n\n");
+
+
+	
 }
 <<<<<<< HEAD
 >>>>>>> grzmc7

@@ -317,14 +317,20 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o esdnk7.o jee9pv.o rjkncd.o \
+
+story: story.o bpbkt7.o bebz4t.o zwsx9f.o dmmdnr.o jmchpd.o qpty9t.o amz28.o rbhmm5.o tlbbf5.o esdnk7.o jee9pv.o rjkncd.o \
 	   nrmb9r.o hgc8zc.o rkg7gg.o cejnfp.o cytbm.o kjkvfw.o edmqgc.o rdcr2n.o mnygp.o jwskzh.o sjmkxw.o rdcb2f.o \
+<<<<<<< HEAD
 <<<<<<< HEAD
 	   jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o kaz42c.o am9fq.o elk3x.o \
 	   sdlp6f.o grzmc7.o
 =======
 	   jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o kaz42c.o am9fq.o elk3x.o sdlp6f.o trhdwx.o
 >>>>>>> d128c7e98043153312761ce2a6f6eff9c59191c9
+=======
+	   jdhvdy.o cmm5b7.o zhoue.o tmdbq2.o amb5cb.o iisbbq.o aspg84.o iwegbc.o kwcnr.o kaz42c.o am9fq.o elk3x.o sdlp6f.o \
+	   litncz.o wjo5m5.o jrwhyy.o smgxp.o grsncd.o jwhdhw.o krspcp.o sesxr2.o jctppc.o ijsfyp.o tsrcdd.o recgcd.o rknvkn.o mawh7p.o hhhmw.o nw5pp.o
+>>>>>>> nw5pp
 	$(CC) $^ -o story
 
 ##
@@ -430,6 +436,9 @@ amb5cb.o: sentences/amb5cb.c
 iwegbc.o: sentences/iwegbc.c
 	$(CC) -c $<
 
+jrwhyy.o: sentences/jrwhyy.c
+	$(CC) -c $<
+
 am9fq.o: sentences/am9fq.c
 	$(CC) -c $<
 
@@ -439,6 +448,7 @@ elk3x.o: sentences/elk3x.c
 sdlp6f.o: sentences/sdlp6f.c
 	$(CC) -c $<
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 grzmc7.o: sentences/grzmc7.c
 =======
@@ -455,3 +465,58 @@ kaz42c.o: sentences/kaz42c.c
 =======
 >>>>>>> trhdwx
 >>>>>>> d128c7e98043153312761ce2a6f6eff9c59191c9
+=======
+wjo5m5.o: sentences/wjo5m5.c
+	$(CC) -c $<
+
+litncz.o: sentences/litncz.c
+	$(CC) -c $<
+
+kaz42c.o: sentences/kaz42c.c
+	$(CC) -c $<
+
+smgxp.o: sentences/smgxp.c
+	$(CC) -c $<
+
+grsncd.o: sentences/grsncd.c
+	$(CC) -c $<
+
+jwhdhw.o: sentences/jwhdhw.c
+	$(CC) -c $<
+
+krspcp.o: sentences/krspcp.c
+	$(CC) -c $<
+
+sesxr2.o: sentences/sesxr2.c
+	$(CC) -c $<
+
+jctppc.o: sentences/jctppc.c
+	$(CC) -c $<
+
+ijsfyp.o: sentences/ijsfyp.c
+	$(CC) -c $<
+	
+tsrcdd.o: sentences/tsrcdd.c
+	$(CC) -c $<
+	
+recgcd.o: sentences/recgcd.c
+	$(CC) -c $<
+
+rknvkn.o: sentences/rknvkn.c
+	$(CC) -c $<
+
+tlbbf5.o: sentences/tlbbf5.c
+	$(CC) -c $<
+
+mawh7p.o: sentences/Mawh7p.c
+	$(CC) -c $<
+
+hhhmw.o: sentences/hhhmw.c
+	$(CC) -c $<
+
+nw5pp.o: sentences/nw5pp.c
+	$(CC) -c $<
+
+#story.o: story.c 
+
+>>>>>>> nw5pp
