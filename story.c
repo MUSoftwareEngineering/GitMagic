@@ -128,6 +128,8 @@ int main( void )
 	sesxr2Sentence2();
 	ijsfypSentence1();
 	ijsfypSentence2();
+	kervfhSentence1();
+	kervfhSentence2();
 	// Ben's sentence should be last.
 
 	storySentence2();
