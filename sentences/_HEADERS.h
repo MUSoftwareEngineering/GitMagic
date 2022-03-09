@@ -111,3 +111,5 @@ int mawh7pSentence1();
 int mawh7pSentence2();
 int hhhmwSentence1();
 int hhhmwSentence2();
+int skp4dSentence1();
+int skp4dSentence2();
